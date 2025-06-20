@@ -1,0 +1,117 @@
+# ptt_crawler.py
+import os
+import re
+import csv
+import requests
+from bs4 import BeautifulSoup
+from datetime import datetime
+from utils.lunar_mapping import get_lunar_new_year_ranges
+
+PTT_URL = "https://www.ptt.cc"
+HEADERS = {"cookie": "over18=1"}
+KEYWORDS = ["回娘家", "年夜飯", "婆媳", "過勞", "春節", "性別", "女", "媳婦"]
+
+SAVE_DIR = "data/ptt"
+POST_DIR = os.path.join(SAVE_DIR, "posts")
+COMMENT_DIR = os.path.join(SAVE_DIR, "comments")
+CSV_PATH = os.path.join(SAVE_DIR, "ptt.csv")
+
+os.makedirs(POST_DIR, exist_ok=True)
+os.makedirs(COMMENT_DIR, exist_ok=True)
+
+
+def get_articles(board, year_range, max_articles=100):
+    count = 0
+    page = get_last_page(board)
+    date_ranges = get_lunar_new_year_ranges(year_range)
+    collected = []
+
+    while count < max_articles and page > 0:
+        res = requests.get(f"{PTT_URL}/bbs/{board}/index{page}.html", headers=HEADERS)
+        soup = BeautifulSoup(res.text, "html.parser")
+        articles = soup.select("div.r-ent")
+
+        for art in articles:
+            if count >= max_articles:
+                break
+            try:
+                title_tag = art.select_one(".title a")
+                if not title_tag:
+                    continue
+                link = title_tag['href']
+                url = f"{PTT_URL}{link}"
+                article_id = link.split('/')[-1].replace(".html", "")
+
+                article_res = requests.get(url, headers=HEADERS)
+                article_soup = BeautifulSoup(article_res.text, "html.parser")
+                main_content = article_soup.select_one("#main-content").text
+                meta = article_soup.select(".article-metaline")
+
+                if len(meta) < 2:
+                    continue
+
+                date_str = meta[2].select_one(".article-meta-value").text
+                try:
+                    dt = datetime.strptime(date_str, "%a %b %d %H:%M:%S %Y")
+                except Exception:
+                    continue
+                
+                if not is_within_range(dt.date(), date_ranges):
+                    continue
+
+                matched_keywords = [k for k in KEYWORDS if k in main_content]
+                if not matched_keywords:
+                    continue
+
+                # Save content
+                post_path = os.path.join(POST_DIR, f"{article_id}.txt")
+                with open(post_path, "w", encoding="utf-8") as f:
+                    f.write(f"post_id: {article_id}\n")
+                    f.write(f"date: {dt.date()}\n")
+                    f.write(f"title: {title_tag.text.strip()}\n")
+                    f.write("content:\n")
+                    f.write(main_content)
+
+                # Save comments
+                comments = article_soup.select(".push")
+                for idx, com in enumerate(comments):
+                    comment_text = com.text.strip()
+                    com_path = os.path.join(COMMENT_DIR, f"post_{article_id}_comment_{idx}.txt")
+                    with open(com_path, "w", encoding="utf-8") as fc:
+                        fc.write(comment_text)
+
+                # Record in csv
+                collected.append([
+                    article_id, "ptt", dt.date(), title_tag.text.strip(),
+                    main_content.count("推"), len(comments), "N/A", ','.join(matched_keywords)
+                ])
+                count += 1
+
+            except Exception as e:
+                continue
+        page -= 1
+
+    # Save CSV
+    with open(CSV_PATH, "w", newline='', encoding="utf-8") as cf:
+        writer = csv.writer(cf)
+        writer.writerow(["id", "platform", "date", "title", "like_count", "comment_count", "reach", "keywords"])
+        writer.writerows(collected)
+
+
+def get_last_page(board):
+    res = requests.get(f"{PTT_URL}/bbs/{board}/index.html", headers=HEADERS)
+    soup = BeautifulSoup(res.text, "html.parser")
+    btn = soup.select(".btn.wide")
+    href = btn[1]['href'] if len(btn) > 1 else btn[0]['href']
+    return int(href.split("index")[-1].split(".html")[0]) + 1
+
+
+def is_within_range(date, ranges):
+    for start, end in ranges:
+        if start <= date <= end:
+            return True
+    return False
+
+
+if __name__ == "__main__":
+    get_articles("WomenTalk", [2020, 2021, 2022, 2023, 2024, 2025])

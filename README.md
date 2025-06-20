@@ -12,19 +12,19 @@ lunar_new_year_gender_analysis
 
 lunar_new_year_gender_data/
 │
-├── src/                         # 各平台爬蟲模組
-│   ├── ptt_crawler.py           # PTT 爬蟲
-│   ├── dcard_crawler.py         # Dcard 爬蟲
-│   ├── instagram_crawler.py     # Instagram 爬蟲
-│   ├── threads_crawler.py       # Threads 爬蟲
-│   └── facebook_crawler.py      # Facebook 爬蟲
+├── src/                                              # 各平台爬蟲模組
+│   ├── ptt_crawler.py                        # PTT 爬蟲
+│   ├── dcard_crawler.py                   # Dcard 爬蟲
+│   ├── instagram_crawler.py            # Instagram 爬蟲
+│   ├── threads_crawler.py                # Threads 爬蟲
+│   └── facebook_crawler.py             # Facebook 爬蟲
 │
-├── data/                        # 爬取資料儲存區
+├── data/                                           # 爬取資料儲存區
 │   ├── ptt/
-│   │   ├── post_1.txt
-│   │   ├── post_1_comment_1.txt
+│   │   ├── post_1.txt                         # 儲存文章 txt（post_id.txt）
+│   │   ├── post_1_comment_1.txt    # 儲存留言 txt（post_文章id_comment_留言id.txt）
 │   │   ├── post_1_comment_2.txt
-│   │   └── ptt.csv
+│   │   └── ptt.csv                              # 儲存每篇文章的基本資訊（如單獨輸出）
 │   ├── dcard/
 │   │   └── dcard.csv
 │   ├── instagram/
@@ -34,17 +34,15 @@ lunar_new_year_gender_data/
 │   └── facebook/
 │       └── facebook.csv
 │
-├── utils/                       # 工具模組
+├── utils/                                    # 工具模組
 │   └── lunar_mapping.py         # 農曆轉新曆對照表（自定義）
 │
-├── posts/                       # 儲存文章 txt（post_id.txt）
-├── comments/                    # 儲存留言 txt（格式：post_文章id_comment_留言id.txt）
-│
-├── ptt.csv                      # 儲存每篇文章的基本資訊（如單獨輸出）
-├── main.py                      # 主執行程式
-├── requirements.txt             # Python 依賴套件清單
-├── .gitignore                   # Git 忽略檔案設定
-└── README.md                    # 專案說明文件
+├── main.py                              # 主執行程式
+├── requirements.txt                 # Python 依賴套件清單
+├── .gitignore                            # Git 忽略檔案設定
+└── README.md                     # 專案說明文件
+
+# 儲存每篇文章的基本資訊（如單獨輸出）
 
 ## 📅 關鍵設定
 

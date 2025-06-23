@@ -2,6 +2,7 @@
 import os
 import re
 import csv
+import time
 import requests
 from bs4 import BeautifulSoup
 from datetime import datetime
@@ -20,14 +21,21 @@ os.makedirs(POST_DIR, exist_ok=True)
 os.makedirs(COMMENT_DIR, exist_ok=True)
 
 
-def get_articles(board, year_range, max_articles=100):
+def get_articles(board, start_year, end_year, keywords, max_articles=100):
     count = 0
     page = get_last_page(board)
-    date_ranges = get_lunar_new_year_ranges(year_range)
+    date_ranges = get_lunar_new_year_ranges(start_year, end_year)
     collected = []
 
     while count < max_articles and page > 0:
-        res = requests.get(f"{PTT_URL}/bbs/{board}/index{page}.html", headers=HEADERS)
+        print(f"解析第 {page} 頁中（目前已收集 {count} 篇）...")
+        try:
+            res = requests.get(f"{PTT_URL}/bbs/{board}/index{page}.html", headers=HEADERS, timeout=10)
+        except Exception as e:
+            print(f"[錯誤] 無法請求第 {page} 頁：{e}")
+            page -= 1
+            continue
+
         soup = BeautifulSoup(res.text, "html.parser")
         articles = soup.select("div.r-ent")
 
@@ -59,11 +67,10 @@ def get_articles(board, year_range, max_articles=100):
                 if not is_within_range(dt.date(), date_ranges):
                     continue
 
-                matched_keywords = [k for k in KEYWORDS if k in main_content]
+                matched_keywords = [k for k in keywords if k in main_content]
                 if not matched_keywords:
                     continue
 
-                # Save content
                 post_path = os.path.join(POST_DIR, f"{article_id}.txt")
                 with open(post_path, "w", encoding="utf-8") as f:
                     f.write(f"post_id: {article_id}\n")
@@ -72,7 +79,6 @@ def get_articles(board, year_range, max_articles=100):
                     f.write("content:\n")
                     f.write(main_content)
 
-                # Save comments
                 comments = article_soup.select(".push")
                 for idx, com in enumerate(comments):
                     comment_text = com.text.strip()
@@ -80,30 +86,39 @@ def get_articles(board, year_range, max_articles=100):
                     with open(com_path, "w", encoding="utf-8") as fc:
                         fc.write(comment_text)
 
-                # Record in csv
                 collected.append([
                     article_id, "ptt", dt.date(), title_tag.text.strip(),
                     main_content.count("推"), len(comments), "N/A", ','.join(matched_keywords)
                 ])
                 count += 1
 
-            except Exception as e:
+            except Exception:
                 continue
+
+        time.sleep(1)  # 控制爬蟲速度，避免被封鎖
         page -= 1
 
-    # Save CSV
+
     with open(CSV_PATH, "w", newline='', encoding="utf-8") as cf:
         writer = csv.writer(cf)
         writer.writerow(["id", "platform", "date", "title", "like_count", "comment_count", "reach", "keywords"])
         writer.writerows(collected)
 
 
+def run_ptt(start_year, end_year, keywords, board="WomenTalk", max_articles=100):
+    get_articles(board, start_year, end_year, keywords, max_articles)
+
+
 def get_last_page(board):
-    res = requests.get(f"{PTT_URL}/bbs/{board}/index.html", headers=HEADERS)
-    soup = BeautifulSoup(res.text, "html.parser")
-    btn = soup.select(".btn.wide")
-    href = btn[1]['href'] if len(btn) > 1 else btn[0]['href']
-    return int(href.split("index")[-1].split(".html")[0]) + 1
+    try:
+        res = requests.get(f"{PTT_URL}/bbs/{board}/index.html", headers=HEADERS, timeout=10)
+        soup = BeautifulSoup(res.text, "html.parser")
+        btn = soup.select(".btn.wide")
+        href = btn[1]['href'] if len(btn) > 1 else btn[0]['href']
+        return int(href.split("index")[-1].split(".html")[0]) + 1
+    except Exception as e:
+        print(f"[錯誤] 無法取得 PTT 頁面：{e}")
+        return 0
 
 
 def is_within_range(date, ranges):
@@ -113,5 +128,5 @@ def is_within_range(date, ranges):
     return False
 
 
-if __name__ == "__main__":
-    get_articles("WomenTalk", [2020, 2021, 2022, 2023, 2024, 2025])
+# if __name__ == "__main__":
+#     get_articles("WomenTalk", [2020, 2021, 2022, 2023, 2024, 2025])

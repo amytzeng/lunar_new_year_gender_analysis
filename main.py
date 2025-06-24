@@ -10,5 +10,6 @@ if __name__ == "__main__":
     end_year = 2024
     keywords = ["回娘家", "煮年夜飯", "婆媳關係"]
 
-    run_ptt(start_year, end_year, keywords)
+    # run_ptt(start_year, end_year, keywords)
     # run_dcard(start_year, end_year, keywords)
+    

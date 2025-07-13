@@ -3,7 +3,7 @@ import os
 sys.path.append(os.path.dirname(os.path.abspath(__file__)))
 
 from src.ptt_crawler import run_ptt
-from src.dcard_crawler import run_dcard
+# from src.dcard_crawler import run_dcard
 from src.instagram_crawler import run_instagram
 
 if __name__ == "__main__":

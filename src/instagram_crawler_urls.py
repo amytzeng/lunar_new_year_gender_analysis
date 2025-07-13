@@ -1,5 +1,6 @@
 import os
 import time
+import random
 from selenium import webdriver
 from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.common.by import By
@@ -52,8 +53,9 @@ class InstagramHashtagScraper:
         post_urls = set()
         last_height = self.driver.execute_script("return document.body.scrollHeight")
         scroll_attempt = 0
+        max_scroll_attempts = 50  # 增加滾動次數限制
 
-        while len(post_urls) < max_posts and scroll_attempt < 20:
+        while len(post_urls) < max_posts and scroll_attempt < max_scroll_attempts:
             soup = BeautifulSoup(self.driver.page_source, "html.parser")
             links = soup.find_all("a")
             for link in links:
@@ -65,7 +67,8 @@ class InstagramHashtagScraper:
                         break
 
             self.driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
-            time.sleep(3)
+            time.sleep(random.uniform(4, 6))  # 每次滾動等 4–6 秒
+
             new_height = self.driver.execute_script("return document.body.scrollHeight")
             if new_height == last_height:
                 scroll_attempt += 1
@@ -73,7 +76,7 @@ class InstagramHashtagScraper:
                 scroll_attempt = 0
                 last_height = new_height
 
-            print(f"🔄 Collected {len(post_urls)} URLs...")
+            print(f"🔄 Collected {len(post_urls)} URLs... (Scroll {scroll_attempt}/{max_scroll_attempts})")
 
         return list(post_urls)[:max_posts]
 
@@ -92,7 +95,7 @@ def run_hashtag_scraper(keywords, max_posts_per_keyword=100):
     from getpass import getpass
     username = input("請輸入 Instagram 帳號：")
     password = getpass("請輸入 Instagram 密碼：")
-    driver_path = "/usr/local/bin/chromedriver"  # ← 請自行修改為本機 chromedriver 路徑
+    driver_path = r"C:\Users\Amy\Desktop\Uni\chromedriver-win64\chromedriver.exe"  # ← 替換為你的 chromedriver 路徑
 
     scraper = InstagramHashtagScraper(username, password, driver_path)
     scraper.initialize_driver()

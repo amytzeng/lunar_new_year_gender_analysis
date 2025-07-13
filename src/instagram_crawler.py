@@ -144,10 +144,10 @@ def run_instagram(keywords):
     # ❗ 可自行改為從設定檔或環境變數讀取
     username = input("請輸入 Instagram 帳號：")
     password = getpass("請輸入 Instagram 密碼：")  # 安全起見用 getpass 隱藏輸入
-    driver_path = "/usr/local/bin/chromedriver"  # 修改為你本機路徑
+    driver_path = r"C:\Users\Amy\Desktop\Uni\chromedriver-win64\chromedriver.exe"  # 修改為你本機路徑
 
     # 讀網址列表
-    urls_path = os.path.join(os.path.dirname(__file__), "../urls.txt")
+    urls_path = r"_爬蟲\urls.txt"
     with open(urls_path, "r") as f:
         urls = [line.strip() for line in f if line.strip()]
 
@@ -167,7 +167,7 @@ if __name__ == "__main__":
     # Instagram 帳號登入資訊
     INSTAGRAM_USERNAME = "your_username"   # 👈 在這裡填帳號
     INSTAGRAM_PASSWORD = "your_password"   # 👈 在這裡填密碼
-    CHROME_DRIVER_PATH = "/usr/local/bin/chromedriver"  # 👈 依環境調整路徑
+    CHROME_DRIVER_PATH = r"C:\Users\Amy\Desktop\Uni\chromedriver-win64\chromedriver.exe"  # 👈 依環境調整路徑
 
     keywords = ["回娘家", "煮年夜飯", "婆媳關係"]
 

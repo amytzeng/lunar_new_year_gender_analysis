@@ -155,7 +155,7 @@ def run_instagram(keywords):
     crawler.initialize_driver()
     crawler.login()
 
-    for i, url in enumerate(urls[:100]):
+    for i, url in enumerate(urls):
         crawler.scrape_post(url, i + 1)
 
     crawler.save_csv()
@@ -187,7 +187,7 @@ if __name__ == "__main__":
 
     # 顯示 tqdm 進度條
     print(f"[Instagram] 關鍵字：{'、'.join(keywords)}")
-    for i, url in enumerate(tqdm(urls[:100], desc=f"處理關鍵字：{'、'.join(keywords)}")):
+    for i, url in enumerate(tqdm(urls, desc=f"處理關鍵字：{'、'.join(keywords)}")):
         crawler.scrape_post(url, i + 1)  # post_id 從 1 開始
 
     crawler.save_csv()

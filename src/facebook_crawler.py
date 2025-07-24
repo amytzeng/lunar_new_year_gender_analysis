@@ -1,28 +1,20 @@
 # -*- coding: utf-8 -*-
-import os
-import time
+import os, time, csv
 from datetime import datetime
 from tqdm import tqdm
-import csv
-from seleniumwire import webdriver
+from selenium import webdriver
 from selenium.webdriver.chrome.service import Service
-from fb_graphql_scraper.facebook_graphql_scraper import FacebookGraphqlScraper
-from facebook_scraper import get_posts
+from selenium.webdriver.common.by import By
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.support import expected_conditions as EC
 
-# =======================
-# ⚙️ 設定區：使用者需修改
-# =======================
-DRIVER_PATH = r"C:\Users\Amy\Desktop\Uni\chromedriver-win64\chromedriver.exe"  # ← 你的 ChromeDriver 路徑
-FB_USERNAME = "textmining714"  # ← 若需登入帳號則填入帳號（此 scraper 不支援登入，僅預留）
-FB_PASSWORD = "txtmining7144"  # ← 若需登入帳號則填入密碼（此 scraper 不支援登入，僅預留）
-TARGET_USER = "coobepowtf"  # ← 目標粉專 ID 或用戶名
-KEYWORDS = ["年夜飯", "圍爐", "春節", "娘家", "婆媳"]  # ← 關鍵字列表
-MAX_POSTS = 100  # ← 要爬的貼文數量
-DAYS_LIMIT = 1000  # ← 幾天內的貼文
+# ✏️ 請填入你的帳號密碼
+FB_EMAIL = "textmining714@gmail.com"
+FB_PASSWORD = "txtmining7144"
+TARGET_USER = "coobepowtf"    # 粉專名稱，不能是社團
+KEYWORDS = ["年夜飯", "圍爐", "春節", "娘家", "婆媳"]
+MAX_POSTS = 100
 
-# =======================
-# 📁 資料夾初始化
-# =======================
 POST_DIR = "data/facebook/post"
 COMMENT_DIR = "data/facebook/comment"
 CSV_PATH = "data/facebook/facebook.csv"
@@ -30,98 +22,82 @@ os.makedirs(POST_DIR, exist_ok=True)
 os.makedirs(COMMENT_DIR, exist_ok=True)
 os.makedirs("data/facebook", exist_ok=True)
 
-# =======================
-# 🚀 啟動 Chrome Driver
-# =======================
-driver = webdriver.Chrome(service=Service(DRIVER_PATH))
-scraper = FacebookGraphqlScraper(driver_path=DRIVER_PATH)
+# 🧰 啟動 Chrome 與登入
+driver = webdriver.Chrome(service=Service())
+driver.get("https://www.facebook.com/login")
+WebDriverWait(driver,10).until(EC.presence_of_element_located((By.NAME,"email")))
+driver.find_element(By.NAME,"email").send_keys(FB_EMAIL)
+driver.find_element(By.NAME,"pass").send_keys(FB_PASSWORD)
+driver.find_element(By.NAME,"login").click()
+time.sleep(5)
 
-# =======================
-# 🕒 爬取貼文資料
-# =======================
+# 🔄 取得粉專頁面並滾動
+driver.get(f"https://www.facebook.com/{TARGET_USER}/posts")
+time.sleep(3)
+post_urls = set()
+last_h = driver.execute_script("return document.body.scrollHeight")
 
-print(f"[Facebook] 正在抓取粉專：{TARGET_USER}")
-all_posts = []
-try:
-    for post in get_posts(TARGET_USER, pages=20, options={"comments": True}):
-        all_posts.append(post)
-except Exception as e:
-    print(f"❌ 爬取失敗：{e}")
-    driver.quit()
-    exit(1)
-
-# =======================
-# 📦 過濾並儲存資料
-# =======================
-filtered_posts = []
-count = 0
-progress = tqdm(all_posts, desc=f"處理關鍵字：{KEYWORDS[0]}", ncols=100)
-
-for idx, post in enumerate(progress, start=1):
-    if count >= MAX_POSTS:
+while len(post_urls) < MAX_POSTS:
+    cards = driver.find_elements(By.XPATH,"//a[contains(@href,'/posts/')]")
+    for a in cards:
+        href = a.get_attribute("href")
+        post_urls.add(href.split('?')[0])
+    driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
+    time.sleep(3)
+    new_h = driver.execute_script("return document.body.scrollHeight")
+    if new_h == last_h:
         break
+    last_h = new_h
 
+urls = list(post_urls)[:MAX_POSTS]
+print(f"共找到 {len(urls)} 篇貼文")
+
+# 📝 爬每篇貼文
+results = []
+for i, url in enumerate(tqdm(urls, desc="貼文進度")):
+    driver.get(url)
+    time.sleep(3)
     try:
-        text = post.get("text", "")
-        if not any(kw in text for kw in KEYWORDS):
-            continue
+        content = driver.find_element(By.XPATH,"//div[@data-ad-comet-preview='message']").text
+    except:
+        content = ""
+    # if not any(kw in content for kw in KEYWORDS):
+    #     continue
+    try:
+        meta = driver.find_element(By.XPATH,"//a[contains(@href,'/reactions/type')]")
+        like_count = int(meta.text.split()[0].replace(',',''))
+    except:
+        like_count = 0
+    comments = []
+    try:
+        show_more = driver.find_elements(By.XPATH,"//div[contains(text(),'留言')]")
+        for btn in show_more:
+            driver.execute_script("arguments[0].click();", btn)
+            time.sleep(1)
+        cm_elems = driver.find_elements(By.XPATH,"//div[@aria-label='留言']")
+        for c in cm_elems:
+            comments.append(c.text)
+    except:
+        pass
 
-        post_id = post.get("post_id") or post.get("id") or f"noid_{idx}"
-        title = text.strip().split("\n")[0][:50]
-        created_time = datetime.fromtimestamp(post.get("time", time.time())).isoformat()
-        like_count = post.get("likes", 0)
-        comment_count = len(post.get("comments", []))
-        reach = post.get("share_count", 0)
+    pid = url.split("/")[-1]
+    with open(f"{POST_DIR}/{pid}.txt","w",encoding="utf-8") as f: f.write(content)
+    for j, c in enumerate(comments):
+        with open(f"{COMMENT_DIR}/post_{pid}_comment_{j}.txt","w",encoding="utf-8") as f: f.write(c)
 
-        # 儲存貼文
-        with open(f"{POST_DIR}/{post_id}.txt", "w", encoding="utf-8") as f:
-            f.write(text)
+    results.append({
+        "id": pid, "platform":"facebook",
+        "date":datetime.now().isoformat(),
+        "title":content[:50], "like_count":like_count,
+        "comment_count":len(comments),"reach":None,
+        "keywords":",".join([kw for kw in KEYWORDS if kw in content])
+    })
 
-        # 儲存留言
-        for comment in post.get("comments", []):
-            comment_id = comment.get("comment_id") or comment.get("id") or "nocid"
-            comment_text = comment.get("text", "")
-            fname = f"post_{post_id}_comment_{comment_id}.txt"
-            with open(f"{COMMENT_DIR}/{fname}", "w", encoding="utf-8") as f:
-                f.write(comment_text)
-
-        # 收集資料供 CSV 使用
-        filtered_posts.append({
-            "id": post_id,
-            "platform": "facebook",
-            "date": created_time,
-            "title": title,
-            "like_count": like_count,
-            "comment_count": comment_count,
-            "reach": reach,
-            "keywords": ",".join([kw for kw in KEYWORDS if kw in text])
-        })
-
-        count += 1
-        print(f"\n✅已處理第 {count}/{MAX_POSTS} 篇：{title}")
-
-    except Exception as e:
-        print(f"⚠️ 發生錯誤，略過此篇：{e}")
-        continue
-
-# =======================
-# 🧾 儲存 CSV 統整資料
-# =======================
-with open(CSV_PATH, "w", newline="", encoding="utf-8") as csvfile:
-    fieldnames = ["id", "platform", "date", "title", "like_count", "comment_count", "reach", "keywords"]
-    writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
-    writer.writeheader()
-    writer.writerows(filtered_posts)
-
-print(f"\n[Facebook] 已儲存至 {CSV_PATH}，共 {len(filtered_posts)} 筆資料")
-
-# =======================
-# ✅ 關閉瀏覽器
-# =======================
 driver.quit()
 
-# =======================
-# 📞 封裝成主流程函式
-# =======================
-def run_facebook():
-    os.system("python src/facebook_crawler.py")
+# 🧾 寫入 CSV
+with open(CSV_PATH,"w",newline="",encoding="utf-8") as f:
+    w = csv.DictWriter(f, fieldnames=results[0].keys())
+    w.writeheader(); w.writerows(results)
+
+print(f"完成")

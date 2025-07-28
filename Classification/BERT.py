@@ -14,8 +14,6 @@ from sklearn.preprocessing import label_binarize
 from sklearn.model_selection import StratifiedKFold
 from sklearn.metrics import classification_report, precision_score, recall_score, f1_score
 
-
-
 # ------------------------
 # 1. 資源與設備設定
 # ------------------------
@@ -28,14 +26,15 @@ tokenizer = BertTokenizer.from_pretrained(MODEL_TYPE)  # 載入 BERT 分詞器
 model = BertModel.from_pretrained(MODEL_TYPE).to(DEVICE)
 model.eval()  # 設定為評估模式
 
-stopword_file_path = "./chinese_stopwords.txt"  # 停用詞文件路徑
-training_label_path = "./training_label.txt"            # 標籤文件路徑
-train_data_dir = "./Result"                     # 訓練集資料夾路徑
-test_label_path = "./test_label.txt"               # 測試集對應答案檔案路徑
+stopword_file_path = "Classification/chinese_stopwords.txt"  # 停用詞文件路徑
+training_label_path = "Classification/training_label.txt"    # 標籤文件路徑
+train_data_dir = "Classification/Result"                   # 訓練集資料夾路徑
+test_label_path = "Classification/test_label.txt"          # 測試集對應答案檔案路徑
 
 # ------------------------
 # 2. 通用函式：前處理、特徵擷取、資料讀取等
 # ------------------------
+
 def load_stopwords(filepath):
     """讀取停用詞檔，回傳 set。"""
     stopwords = set()
@@ -96,10 +95,17 @@ def load_labels(filepath):
     with open(filepath, 'r', encoding='utf-8') as f:
         for line in f:
             parts = line.strip().split()
-            label = int(parts[0])
-            indices = list(map(int, parts[1:]))
-            for index in indices:
-                labels_dict[index] = label
+            if len(parts) < 2:  # 確保每行至少有標籤和一個文件編號
+                print(f"[Warning] 跳過無效行: {line.strip()}")
+                continue
+            try:
+                label = int(parts[0])
+                indices = list(map(int, parts[1:]))
+                for index in indices:
+                    labels_dict[index] = label
+            except ValueError:
+                print(f"[Warning] 跳過無效行: {line.strip()}")
+                continue
     return labels_dict
 
 def extract_features_and_labels(
@@ -113,29 +119,51 @@ def extract_features_and_labels(
     """
     embeddings, labels = [], []
     start_time = time.time()
+    found_files = 0
+    missing_files = 0
 
     for idx, label in labels_dict.items():
-        filepath = os.path.join(data_dir, f"Comment_{idx}.txt")
+        filepath = os.path.join(data_dir, f"{idx}.txt")
         if not os.path.exists(filepath):
             print(f"[Warning] File not found: {filepath}")
+            missing_files += 1
             continue
 
-        with open(filepath, 'r', encoding='utf-8') as f:
-            text = f.read()
-        # 前處理
-        text = remove_emojis(text)
-        words = tokenize(text)
-        text_filtered = filter_stopwords_and_english(words, stopwords)
+        try:
+            with open(filepath, 'r', encoding='utf-8') as f:
+                text = f.read().strip()
+                
+            if not text:  # 跳過空文件
+                print(f"[Warning] 空文件: {filepath}")
+                continue
+                
+            # 前處理
+            text = remove_emojis(text)
+            words = tokenize(text)
+            text_filtered = filter_stopwords_and_english(words, stopwords)
 
-        # BERT 向量
-        cls_emb = get_cls_embedding(text_filtered, tokenizer, model, device)
-        if cls_emb is not None:
-            embeddings.append(cls_emb)
-            labels.append(label)
+            # BERT 向量
+            cls_emb = get_cls_embedding(text_filtered, tokenizer, model, device)
+            if cls_emb is not None:
+                embeddings.append(cls_emb)
+                labels.append(label)
+                found_files += 1
+                
+        except Exception as e:
+            print(f"[Error] 處理文件 {filepath} 時出錯: {str(e)}")
+            continue
 
     end_time = time.time()
+    print(f"找到 {found_files}/{len(labels_dict)} 個文件")
+    print(f"缺失 {missing_files} 個文件")
     print(f"BERT 特徵提取時間: {end_time - start_time:.2f} 秒")
 
+    if not embeddings:
+        print("[Error] 未提取到任何特徵，請檢查:")
+        print("1. 標籤文件和數據文件是否對應")
+        print("2. 文件命名格式是否正確")
+        print("3. 文件內容是否為有效文本")
+        
     return np.array(embeddings), np.array(labels)
 
 def train_evaluate_svm_with_kfold(X, y, n_splits=10):
@@ -143,7 +171,6 @@ def train_evaluate_svm_with_kfold(X, y, n_splits=10):
     使用 StratifiedKFold 對 (X, y) 進行 k 折交叉驗證，訓練 SVM 並評估。
     回傳最終的 (avg_precision, avg_recall, avg_f1)。
     """
-
     kf = StratifiedKFold(n_splits=n_splits, shuffle=True, random_state=42)
     precision_scores, recall_scores, f1_scores = [], [], []
 
@@ -192,9 +219,12 @@ if __name__ == "__main__":
     stopwords = load_stopwords(stopword_file_path)
 
     # 讀取訓練標籤
+    print("正在讀取標籤文件...")
     labels_dict = load_labels(training_label_path)
+    print(f"成功讀取 {len(labels_dict)} 個標籤")
     
     # 讀取訓練資料 & 萃取特徵
+    print("\n正在提取訓練特徵...")
     X, y = extract_features_and_labels(
         data_dir=train_data_dir,
         labels_dict=labels_dict,
@@ -223,31 +253,47 @@ if __name__ == "__main__":
 
     # 讀取測試集（與訓練檔同資料夾，但索引不在 labels_dict 中）
     train_file_indices = set(labels_dict.keys())
-    file_list = glob.glob(os.path.join(train_data_dir, "comment_*.txt"))
-
-    # 取得測試檔的特徵
+    
+    # 提取測試集特徵
     print("\n=== Extract Test Features ===")
     test_embeddings = []
     test_file_indices = []
     start_time = time.time()
-    for filepath in file_list:
-        file_index = int(os.path.basename(filepath).split('_')[1].split('.')[0])
-        if file_index in train_file_indices:
-            continue  # 已在訓練集
+    
+    # 獲取所有數字.txt格式的文件
+    for filepath in glob.glob(os.path.join(train_data_dir, "*.txt")):
+        try:
+            # 從文件名中提取數字
+            filename = os.path.basename(filepath)
+            idx = int(filename.split('.')[0])  # 假設文件名為"數字.txt"
+            
+            if idx in train_file_indices:
+                continue  # 跳過訓練集文件
+                
+            with open(filepath, 'r', encoding='utf-8') as f:
+                text = f.read().strip()
 
-        with open(filepath, 'r', encoding='utf-8') as f:
-            text = f.read()
+            if not text:  # 跳過空文件
+                continue
 
-        text = remove_emojis(text)
-        words = tokenize(text)
-        text_filtered = filter_stopwords_and_english(words, stopwords)
-        cls_emb = get_cls_embedding(text_filtered, tokenizer, model, DEVICE)
-        if cls_emb is not None:
-            test_embeddings.append(cls_emb)
-            test_file_indices.append(file_index)
+            # 前處理
+            text = remove_emojis(text)
+            words = tokenize(text)
+            text_filtered = filter_stopwords_and_english(words, stopwords)
+            
+            # BERT 向量
+            cls_emb = get_cls_embedding(text_filtered, tokenizer, model, DEVICE)
+            if cls_emb is not None:
+                test_embeddings.append(cls_emb)
+                test_file_indices.append(idx)
+                
+        except Exception as e:
+            print(f"[Error] 處理測試文件 {filepath} 時出錯: {str(e)}")
+            continue
 
     print(f"BERT 測試集特徵提取時間: {time.time() - start_time:.2f} 秒")
     X_test = np.array(test_embeddings)
+    print(f"找到 {len(test_file_indices)} 個測試文件")
     print(f"X_test shape: {X_test.shape}")
     if X_test.size == 0:
         raise ValueError("Failed to extract test features.")
@@ -258,24 +304,27 @@ if __name__ == "__main__":
     predictions = final_svm_clf.predict(X_test)
     print(f"SVM 預測時間: {time.time() - start_time:.2f} 秒")
 
-    # 讀取真實標籤(Answer.txt)ƒ
-    print("\n=== Evaluate with Answer.txt ===")
+    # 讀取真實標籤
+    print("\n=== Evaluate with Test Labels ===")
     true_labels_dict = load_labels(test_label_path)
 
     # 查找測試檔案缺少標籤的情況
     missing_indices = [idx for idx in test_file_indices if idx not in true_labels_dict]
     if missing_indices:
-        print(f"[Warning] Missing labels for test file indices: {missing_indices}")
+        print(f"[Warning] Missing labels for {len(missing_indices)} test files")
 
     true_labels = [true_labels_dict[idx] for idx in test_file_indices if idx in true_labels_dict]
 
-    precision = precision_score(true_labels, predictions, average='weighted')
-    recall = recall_score(true_labels, predictions, average='weighted')
-    f1 = f1_score(true_labels, predictions, average='weighted')
-    report = classification_report(true_labels, predictions)
+    if len(true_labels) == 0:
+        print("[Error] 沒有找到任何測試標籤，請檢查 test_label.txt 文件")
+    else:
+        precision = precision_score(true_labels, predictions, average='weighted')
+        recall = recall_score(true_labels, predictions, average='weighted')
+        f1 = f1_score(true_labels, predictions, average='weighted')
+        report = classification_report(true_labels, predictions)
 
-    print(f"Precision: {precision:.4f}")
-    print(f"Recall:    {recall:.4f}")
-    print(f"F1 Score:  {f1:.4f}")
-    print("Classification Report:")
-    print(report)
+        print(f"Precision: {precision:.4f}")
+        print(f"Recall:    {recall:.4f}")
+        print(f"F1 Score:  {f1:.4f}")
+        print("Classification Report:")
+        print(report)

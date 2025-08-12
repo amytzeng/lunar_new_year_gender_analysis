@@ -6,7 +6,6 @@ import time
 import requests
 from bs4 import BeautifulSoup
 from datetime import datetime
-from utils.lunar_mapping import get_lunar_new_year_ranges
 
 PTT_URL = "https://www.ptt.cc"
 HEADERS = {"cookie": "over18=1"}
@@ -21,13 +20,12 @@ os.makedirs(POST_DIR, exist_ok=True)
 os.makedirs(COMMENT_DIR, exist_ok=True)
 
 
-def get_articles(board, start_year, end_year, keywords, max_articles=100):
+def get_articles(board, keywords):
     count = 0
     page = get_last_page(board)
-    date_ranges = get_lunar_new_year_ranges(start_year, end_year)
     collected = []
 
-    while count < max_articles and page > 0:
+    while page > 0:
         print(f"解析第 {page} 頁中（目前已收集 {count} 篇）...")
         try:
             res = requests.get(f"{PTT_URL}/bbs/{board}/index{page}.html", headers=HEADERS, timeout=10)
@@ -40,8 +38,6 @@ def get_articles(board, start_year, end_year, keywords, max_articles=100):
         articles = soup.select("div.r-ent")
 
         for art in articles:
-            if count >= max_articles:
-                break
             try:
                 title_tag = art.select_one(".title a")
                 if not title_tag:
@@ -62,9 +58,6 @@ def get_articles(board, start_year, end_year, keywords, max_articles=100):
                 try:
                     dt = datetime.strptime(date_str, "%a %b %d %H:%M:%S %Y")
                 except Exception:
-                    continue
-                
-                if not is_within_range(dt.date(), date_ranges):
                     continue
 
                 matched_keywords = [k for k in keywords if k in main_content]
@@ -98,16 +91,14 @@ def get_articles(board, start_year, end_year, keywords, max_articles=100):
         time.sleep(1)  # 控制爬蟲速度，避免被封鎖
         page -= 1
 
-
     with open(CSV_PATH, "w", newline='', encoding="utf-8") as cf:
         writer = csv.writer(cf)
         writer.writerow(["id", "platform", "date", "title", "like_count", "comment_count", "reach", "keywords"])
         writer.writerows(collected)
 
-# WomenTalk
-# 
-def run_ptt(start_year, end_year, keywords, board="marriage", max_articles=100):
-    get_articles(board, start_year, end_year, keywords, max_articles)
+
+def run_ptt(keywords, board="marriage"):
+    get_articles(board, keywords)
 
 
 def get_last_page(board):
@@ -122,12 +113,5 @@ def get_last_page(board):
         return 0
 
 
-def is_within_range(date, ranges):
-    for start, end in ranges:
-        if start <= date <= end:
-            return True
-    return False
-
-
-# if __name__ == "__main__":
-#     get_articles("WomenTalk", [2020, 2021, 2022, 2023, 2024, 2025])
+if __name__ == "__main__":
+    get_articles("marriage", ["回娘家", "年夜飯", "婆媳", "春節", "性別", "女", "媳婦"])

@@ -13,14 +13,17 @@ KEYWORDS = ["回娘家", "年夜飯", "婆媳", "春節", "性別", "女", "媳�
 
 SAVE_DIR = "data/ptt"
 POST_DIR = os.path.join(SAVE_DIR, "posts")
-COMMENT_DIR = os.path.join(SAVE_DIR, "comments")
 CSV_PATH = os.path.join(SAVE_DIR, "ptt.csv")
 
 os.makedirs(POST_DIR, exist_ok=True)
-os.makedirs(COMMENT_DIR, exist_ok=True)
 
 
-def get_articles(board, keywords):
+def is_within_date_range(dt, start_year, end_year):
+    """檢查日期是否在指定年份範圍內"""
+    return start_year <= dt.year <= end_year
+
+
+def get_articles(board, keywords, start_year=2020, end_year=2024):
     count = 0
     page = get_last_page(board)
     collected = []
@@ -60,6 +63,10 @@ def get_articles(board, keywords):
                 except Exception:
                     continue
 
+                # 檢查日期範圍
+                if not is_within_date_range(dt, start_year, end_year):
+                    continue
+
                 matched_keywords = [k for k in keywords if k in main_content]
                 if not matched_keywords:
                     continue
@@ -72,16 +79,13 @@ def get_articles(board, keywords):
                     f.write("content:\n")
                     f.write(main_content)
 
+                # 移除爬留言的部分，只計算留言數量
                 comments = article_soup.select(".push")
-                for idx, com in enumerate(comments):
-                    comment_text = com.text.strip()
-                    com_path = os.path.join(COMMENT_DIR, f"post_{article_id}_comment_{idx}.txt")
-                    with open(com_path, "w", encoding="utf-8") as fc:
-                        fc.write(comment_text)
+                comment_count = len(comments)
 
                 collected.append([
                     article_id, "ptt", dt.date(), title_tag.text.strip(),
-                    main_content.count("推"), len(comments), "N/A", ','.join(matched_keywords)
+                    main_content.count("推"), comment_count, "N/A", ','.join(matched_keywords)
                 ])
                 count += 1
 
@@ -97,8 +101,8 @@ def get_articles(board, keywords):
         writer.writerows(collected)
 
 
-def run_ptt(keywords, board="marriage"):
-    get_articles(board, keywords)
+def run_ptt(keywords, board="marriage", start_year=2020, end_year=2024):
+    get_articles(board, keywords, start_year, end_year)
 
 
 def get_last_page(board):
@@ -114,4 +118,4 @@ def get_last_page(board):
 
 
 if __name__ == "__main__":
-    get_articles("marriage", ["回娘家", "年夜飯", "婆媳", "春節", "性別", "女", "媳婦"])
+    get_articles("marriage", ["回娘家", "年夜飯", "婆媳", "春節", "性別", "女", "媳婦"], 2020, 2024)

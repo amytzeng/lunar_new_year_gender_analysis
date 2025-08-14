@@ -3,11 +3,11 @@ import random
 import shutil
 from pathlib import Path
 
-def split_files(source_dir, train_ratio=0.9, random_seed=42):
+def split_files(source_dir, train_ratio=0.1, random_seed=42):
     """
     將源目錄中的txt文件按比例分配到training和testing資料夾
     :param source_dir: 源文件目錄
-    :param train_ratio: 訓練集比例 (預設 0.9，即 90%)
+    :param train_ratio: 訓練集比例 (預設 0.1，即 10%)
     :param random_seed: 隨機種子 (確保可重現性)
     """
     # 設定路徑
@@ -58,5 +58,5 @@ if __name__ == "__main__":
     if not Path(source_directory).exists():
         print(f"錯誤: 目錄 {source_directory} 不存在")
     else:
-        # 調用分割函數 (90% training, 10% testing)
-        split_files(source_directory, train_ratio=0.9)
+        # 調用分割函數 (10% training, 90% testing)
+        split_files(source_directory, train_ratio=0.1)

@@ -27,7 +27,7 @@ def write_labeled_output(output_file, labels):
             file.write(f"{label} {' '.join(file_numbers)}\n")
 
 def main():
-    input_directory = r'分類器\training'
+    input_directory = r'分類器\Result\training'
     output_file = r'分類器\label_output.txt'
     files_content = read_files_from_directory(input_directory)
 

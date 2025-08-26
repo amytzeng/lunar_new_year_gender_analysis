@@ -1,0 +1,75 @@
+post_id: M.1700274060.A.D1E
+date: 2023-11-18
+title: Re: [閒聊] 生小孩的年齡
+content:
+作者calciumless (給我莫札特的樂觀進取)看板marriage標題Re: [閒聊] 生小孩的年齡時間Sat Nov 18 10:20:56 2023
+  高齡父親的風險是有
+  但都是臨床可忽略的 (clinically negligible)
+  如果你去看最新研究原文  2017的全面review
+  "Is advanced paternal age a health risk for the offspring?"
+  來源: https://www.fertstert.org/article/S0015-0282(16)63091-1/fulltext
+
+  表一綜合了研究成果
+  那些有強烈證據支持父親年齡與疾病相關的病症
+  (Strong evidence for a paternal age effect)
+  實際上發生率(Population-based prevalence)通常都不到萬分之一
+  就算說odds放大到3倍5倍  夠嚇人吧
+  實際意義都是小於千分之一
+
+  第二點
+  這些相關性研究的顯著性常以p-value來判定
+  但是在極大樣本下(樣本數都是幾十萬的)
+  p-value非常容易顯著, 從而放大那些其實臨床上不重要的效應
+  "P-values depend upon both the magnitude of association and the precision of
+   the estimate (the sample size). If the magnitude of effect is small and
+   clinically unimportant, the p-value can be "significant" if the sample size
+   is large."
+  來源: https://shorturl.at/bist4
+
+  第三點
+  這些研究一旦看到這些現象
+  都嘗試以父親精細胞的DNA訊息碎片化來解釋
+  而沒有考慮社會層面的干擾因素
+  我舉個例子
+  大齡父親可能本身條件太好  所以晚婚晚育(香港四大天王全部40+生育)
+  但是另一個極端  就是自身身心條件都不好  只好晚婚晚育
+  因此後者更容易誕生不健康的寶寶
+  但是這種解釋是嚴重違反政治正確  是不可能提出的觀點
+  而很早以前人們就發現 20歲的精子跟50歲的精子其實品質差距不大
+  於是在社會解釋不能提  精子品質講不通的狀況下
+  只好去強調精細胞在不斷分裂中丟失訊息
+
+  所以  年輕爸爸不用在那邊笑老爸爸
+  以為自己年輕孩子就沒問題
+  老爸爸也不用太緊張 成天嚇自己
+  這些數據一方面極其不顯著  一方面是統計方法的侷限
+  無論年紀  好好保持自己身心健康就是
+  孔叔梁纥70歲才生的孔子
+
+--
+※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 151.200.235.135 (美國)
+※ 文章網址: https://www.ptt.cc/bbs/marriage/M.1700274060.A.D1E.html
+推 sungtau     : 蠻中肯的論述 11/18 11:21
+推 zoro178     : 只是可憐了一部份的年輕女孩，20多歲年紀輕輕，就得 11/18 14:45
+→ zoro178     : 要嫁給一群中年老男人，當單親爸爸們再婚的續弦妻， 11/18 14:45
+→ zoro178     : 還得當小孩的繼母.......== 11/18 14:45
+推 zoro178     : 不知道什麼樣的女孩子，會這麼衰被看上？ 11/18 14:48
+推 zoro178     : 中年老男人，一群老不羞，整天覬覦人家年輕嫩妹，真 11/18 15:50
+→ zoro178     : 不要臉.....== 11/18 15:50
+推 heartblue   : 樓上在供三小朋友？？？ 11/18 17:45
+→ ankrro      : 所以同一個人不管是20歲還是50歲，其實一直存在的問 11/19 11:10
+→ ankrro      : 題是基因，不存在的問題是年齡 11/19 11:10
+→ benson502   : 研究很牽強，你的身體20歲跟50歲差別你自己看不出 11/19 12:15
+→ benson502   : 來嗎 11/19 12:15
+→ calciumless : https://shorturl.at/fjzGH      Table II  自己看 11/19 13:53
+→ calciumless : 22-29 與 40-49 前游精子數的中位數幾乎沒有差別 11/19 13:55
+→ calciumless : 精蟲濃度 數量 40-49表現甚至更好 11/19 13:57
+→ calciumless : 活動精蟲與前游精蟲比例的四分位距(IQR) 也相差不大 11/19 14:00
+→ calciumless : 只要沒有超過五十歲 這些精蟲品質指標差距並不很大 11/19 14:01
+→ calciumless : 所以後來研究指向DNA的碎片化程度 11/19 14:03
+推 BURNFISH    : 就像唐寶寶幾乎都是年輕媽媽 11/20 08:12
+推 Altair      : 長知識 11/20 13:14
+噓 lolicat     : 2樓？？？？？？ 11/20 17:34
+推 lolicat     : 補 11/20 17:37
+推 NEWOLD      : 所以超過50真的有差啊 就看過父親51歲生下的小孩 11/21 02:21
+→ NEWOLD      :  高中開始精神分裂症 11/21 02:21

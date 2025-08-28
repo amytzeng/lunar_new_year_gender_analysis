@@ -6,7 +6,7 @@ import time
 import requests
 from bs4 import BeautifulSoup
 from datetime import datetime
-from utils.lunar_mapping import get_lunar_new_year_ranges
+from crawlers.lunar_mapping import get_lunar_new_year_ranges
 
 PTT_URL = "https://www.ptt.cc"
 HEADERS = {"cookie": "over18=1"}

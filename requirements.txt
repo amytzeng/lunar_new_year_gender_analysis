@@ -4,3 +4,11 @@ lxml==4.9.3
 pandas==2.1.3
 tqdm==4.66.1
 dateparser==1.1.8
+openai==1.101.0
+selenium==4.33.0
+selenium-wire==5.1.0
+setuptools==80.9.0
+torch==2.7.1
+webdriver-manager==4.0.2
+websocket-client==1.8.0
+websockets==10.4

@@ -1,5 +1,0 @@
-.facebook.com	TRUE	/	FALSE	0	c_user	61578042598167
-.facebook.com	TRUE	/	FALSE	0	xs	38%3A66Dq3XxKJvdS8w%3A2%3A1751463655%3A-1%3A-1%3AS_CbxzmvHd0T7w%3AAcXIAN_QFoDau4qubjHWCyrnTHY5Ks4OhD2_Xej62g
-.facebook.com	TRUE	/	FALSE	0	datr	djZlaITGdZGmshr0oPVsUCUR
-.facebook.com	TRUE	/	FALSE	0	sb	djZlaHkTfPRfxbpsXB83agmY
-.facebook.com	TRUE	/	FALSE	0	fr	1NFyZ73plaz50zVsH.AWcEWB_bzDxnpo7Zy-nHNiQlx4T8n_N2yMiDa3u7wZ0ol-6evwU.Bogd9b..AAA.0.0.Bogd9j.AWfu0BOSSmVSzoPwbJhs02qBq-4

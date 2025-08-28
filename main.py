@@ -2,7 +2,7 @@ import sys
 import os
 sys.path.append(os.path.dirname(os.path.abspath(__file__)))
 
-from src.ptt_crawler_2 import run_ptt
+from crawlers.ptt_crawler_2 import run_ptt
 # from src.dcard_crawler import run_dcard
 # from src.instagram_crawler import run_instagram
 # from src.facebook_crawler import run_facebook

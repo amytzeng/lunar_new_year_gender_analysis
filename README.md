@@ -96,12 +96,33 @@ NLP 工具：
    
    5 - 無關（廣告）：200 篇（1.77 %）
 
-## 研究背景
-
-此爬蟲工具為「農曆新年性別角色研究」計畫前期語料蒐集使用，目的是蒐集臺灣華語社群中關於春節性別分工、家庭勞動與文化再現的討論文本。
-
 ---
 
-## License
+## 使用方式
 
-本研究爬取之資料 **僅供學術使用** ，請遵守各平臺條款，避免進行未授權的商業使用或再散佈。
+下載專案
+
+git clone https://github.com/yourname/yourrepo.git
+cd yourrepo
+
+安裝需求
+
+pip install -r requirements.txt
+
+執行爬蟲（範例：PTT）
+
+python ptt_crawler.py
+
+執行分類（範例：使用 GPT 分類）
+
+python gpt_classify.py
+
+## 注意事項
+
+本研究資料僅作為學術研究用途，請勿用於商業或再散佈。
+
+PTT 與 Instagram 之資料版權屬原作者所有。
+
+## 授權
+
+本專案程式碼以 MIT License 釋出。

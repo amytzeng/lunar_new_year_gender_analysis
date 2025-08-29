@@ -102,20 +102,28 @@ NLP 工具：
 
 下載專案
 
+```bash
 git clone https://github.com/yourname/yourrepo.git
 cd yourrepo
+```
 
 安裝需求
 
+```bash
 pip install -r requirements.txt
+```
 
 執行爬蟲（範例：PTT）
 
+```bash
 python ptt_crawler.py
+```
 
 執行分類（範例：使用 GPT 分類）
 
+```bash
 python gpt_classify.py
+```
 
 ## 注意事項
 

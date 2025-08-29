@@ -1,7 +1,28 @@
+# Python cache
 __pycache__/
 *.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
 .env
-.ipynb_checkpoints/
-data/posts/
-data/comments/
+.venv/
+env/
 venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# 系統檔案
+.DS_Store
+Thumbs.db
+
+# 暫存資料
+*.log
+*.tmp
+
+# 資料 (避免上傳太大的原始爬文資料)
+data/
+Result/
+training/
+testing/

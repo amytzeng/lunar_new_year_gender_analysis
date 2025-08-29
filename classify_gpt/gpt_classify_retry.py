@@ -4,7 +4,7 @@ from collections import defaultdict
 import time
 
 # 初始化 OpenAI 客戶端
-client = OpenAI(api_key="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")
+client = OpenAI(api_key="key")
 
 # 單篇分類函式（這裡不用批次，因為是重跑 error）
 def classify_text(post_id, text):

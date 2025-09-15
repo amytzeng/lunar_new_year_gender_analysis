@@ -1,0 +1,5 @@
+id: cnn_2022-02-01_20
+date: 2022-02-01
+title: Photos: Lunar New Year 2022 - CNN
+url: https://news.google.com/rss/articles/CBMie0FVX3lxTFBubEFHc04xWjVmM3Q3XzlTbEFXS0p2Nlp1ektMakEzc0FRbU5vRlFsVnJ4bUl6RzhzQUxzQnFxQS1LUUNUS1IzMG04V1doSjBkei1UVEJWTFJoeklGeVlGemQ3VllFcHZaMXhwZ21wam9yTmxsbjkzVUZPWQ?oc=5
+content:

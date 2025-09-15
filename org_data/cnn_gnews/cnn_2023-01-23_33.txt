@@ -1,0 +1,5 @@
+id: cnn_2023-01-23_33
+date: 2023-01-23
+title: CNN 10: The big stories of the day, explained in 10 minutes - CNN
+url: https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB5RzRRU0FmZnFRS3gyQTMxLS1ONm5JNXpOa29way00RndYYWdJX3VFYzJsTGU1RExQVjBVQ0Y0SlA2eVVVNHg4dmU1dFAxTExXNV9SbTloNlllOEYxMGsya0otNDN1Szg?oc=5
+content:

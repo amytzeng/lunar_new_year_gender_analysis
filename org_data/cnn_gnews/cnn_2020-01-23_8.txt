@@ -1,0 +1,5 @@
+id: cnn_2020-01-23_8
+date: 2020-01-23
+title: Fashion’s Chinese New Year quandary: Can rats ever be luxury? - CNN
+url: https://news.google.com/rss/articles/CBMiekFVX3lxTE5YUUxDZnNOWEtwN2NqbXdXalJ2LVAwZWxOVUNuNmtjMzk3cTFhei1HNmV2SFVCUUFuQVUzQ1pVem15MmFNbWhsbGhvN0d2WDhPbkFWTUhWbG5FbnNHNFd1YlJ1UG1uRkl0c3BNbEx3dlA1WjgtTTNndkVR?oc=5
+content:

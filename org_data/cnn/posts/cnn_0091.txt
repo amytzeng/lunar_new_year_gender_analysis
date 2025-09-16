@@ -1,0 +1,8 @@
+article_id: cnn_0091
+url: https://news.google.com/rss/articles/CBMijgFBVV95cUxOWThVM1VvSlI0R0lNQXo2QXM2aTJMRmZHRko3amZmaEQ5VUhSbGtrTkRObGpQc05xbzAwN3VDeXE5M0xqT2Y5X0xKME1SM0JNRFotUXNDSDFoOTlrai1tNU94SjBHa2hQVHdxYVBOTFVERFd2UDZHMDd5NC02cGYtYVNhUXpIeXJTTDNhVGd3?oc=5
+title: China touts record spending over Lunar New Year holiday - CNN
+date: 2025-02-05
+author: 
+matched_keywords: lunar new year
+content:
+[No article text found]

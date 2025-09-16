@@ -1,0 +1,8 @@
+article_id: cnn_0006
+url: https://news.google.com/rss/articles/CBMie0FVX3lxTE5LT01TbWtucFNMQ2lHTWQzUU1QWUU5cEc2Rkc1RTc1ZWFJQlZrRHhPSUpQcE5Ka2pmN0JmQkwtY0pEZllLbDVTdDdGRzZRWXN5OWYxZWtPcFdrbXlEdE1OZ05vOVV4UmxJaUY0MFVaNG5zNWhQQXJ0QVhKQQ?oc=5
+title: Photos: Lunar New Year 2020 - CNN
+date: 2020-01-25
+author: 
+matched_keywords: lunar new year
+content:
+[No article text found]

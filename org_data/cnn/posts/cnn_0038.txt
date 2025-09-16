@@ -1,0 +1,8 @@
+article_id: cnn_0038
+url: https://news.google.com/rss/articles/CBMickFVX3lxTE9IaHhIOFJ1X2p2emJ0Wnl4amNGUDd4OUhSeGtoYWFDTFZmMmJ0ZmNlVlZKUVVVYnhTSWp4SmpkbWZNd3FRV0Q5SU5ORlFxMUE3clRUeWM5bkVxRDhOZDZ6OWkzR2pHdklVVjNuNWdva1JDQQ?oc=5
+title: Photos: Lunar New Year celebrations - CNN
+date: 2023-01-18
+author: 
+matched_keywords: lunar new year
+content:
+[No article text found]

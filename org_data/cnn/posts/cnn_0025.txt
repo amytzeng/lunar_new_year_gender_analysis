@@ -1,0 +1,8 @@
+article_id: cnn_0025
+url: https://news.google.com/rss/articles/CBMifkFVX3lxTFBKZnVKZHdlVWhZYnNBQ2V2WC1zNUhGTjBka0MxOGc2NjM0cDg1M3RLcnctS0pqeXFZc2YtVmN1WHh5Zk5saUhYSTZPV2FiMzhPakJjSXlqQlE5Z0hDUmVfQjh5VUVYZk5RcFRtazdyZ2xKSks3dUtZVGhHbENwUQ?oc=5
+title: Lawmakers want to make Lunar New Year a federal holiday - CNN
+date: 2022-02-03
+author: 
+matched_keywords: lunar new year
+content:
+[No article text found]

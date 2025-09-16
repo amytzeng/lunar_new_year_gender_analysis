@@ -1,0 +1,8 @@
+article_id: cnn_0078
+url: https://news.google.com/rss/articles/CBMiggFBVV95cUxQb0Uwd2d2Wkg0RzZYRVNwZHRWeGZGYWpvZGtWc3BKWVVBS1VJT0FBUTdqTTJjSzExS19ZUGFDQ2xhMkE4UXFZdm43LS1fX0xyWkk0dnh0Z2hxYjgzd0hsa055bkxoMGJNYnhxNHA0MnJVOGtYMEY4TkNhRjU2U1IwOTlB?oc=5
+title: For some Spring Festival revelers in China, traditional attire adds an element of time travel to celebrations - CNN
+date: 2024-02-12
+author: 
+matched_keywords: spring festival
+content:
+[No article text found]

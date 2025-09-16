@@ -1,0 +1,8 @@
+article_id: cnn_0088
+url: https://news.google.com/rss/articles/CBMieEFVX3lxTFBKMFF5aW5kRXFxdkRncHJjdUVweUNEWDlWMFJhdTVQRUk1ZGtjbW5BTnFiaFA0SXI1NlE2TmJOa1dEUXVzVlM3RFBGVGo2Nnhld05HbzhCWUxGbW90MC1qbkRHemVtX0FJVWx0cElKZWVUWnhQSUwyZA?oc=5
+title: A 2025 guide to Lunar New Year as we slither into the Year of the Snake - CNN
+date: 2025-01-28
+author: 
+matched_keywords: lunar new year
+content:
+[No article text found]

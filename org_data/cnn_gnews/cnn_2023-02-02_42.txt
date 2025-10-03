@@ -1,5 +1,0 @@
-id: cnn_2023-02-02_42
-date: 2023-02-02
-title: Lantern Festival celebrations (photos) - CNN
-url: https://news.google.com/rss/articles/CBMiakFVX3lxTE1Eb3VLR290NE5oVXNnWExabExwbkM2aGg4d214WlFmQWlZamxCUG0zYmdhU3RHRnBsZHBKdlIwMVlNLUROdENENjl4Ujl4YlFtRWl5MWwwb1FPLW84d1YxbTNzaGF4ck03b0E?oc=5
-content:

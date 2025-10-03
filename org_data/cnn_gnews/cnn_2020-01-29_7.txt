@@ -1,5 +1,0 @@
-id: cnn_2020-01-29_7
-date: 2020-01-29
-title: This was supposed to be a billion-dollar week for China’s box office. Then the coronavirus hit - CNN
-url: https://news.google.com/rss/articles/CBMid0FVX3lxTE1sMXVEZUNUNmpqSlJ1X1dhcVE5ZXVNcldZRGZIcDE0ZFFuU1RsVnFQTTFtYWpwOXFuUkhhdkZ0cEFsOXc3ZnMtX3MxcnJnS3hDZUpzblJ4SnJZeE9UM1ZuZFJjaUMyeXRvTkVNZy0xOHZUUEJDRXdv?oc=5
-content:

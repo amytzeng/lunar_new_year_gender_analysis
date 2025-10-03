@@ -1,8 +1,0 @@
-article_id: cnn_0077
-url: https://news.google.com/rss/articles/CBMifkFVX3lxTE4yd0V1YkpXNktxTnF5aFFQUUYyUTQyd09pSURPR2QyVTVMOWNnbmdCRnJzQkcwb1VKMzRWRWtkLVgwTFpUZEJNSERqN0ltbEZUemZreDVabFRpWDA3N09qLWxZd1FBdXpVR1VjSjU2M0RLem1FNVBPTnVxQnRDUQ?oc=5
-title: What is Lunar New Year? A 2024 guide to the Year of the Dragon - CNN
-date: 2024-02-12
-author: 
-matched_keywords: lunar new year
-content:
-[No article text found]

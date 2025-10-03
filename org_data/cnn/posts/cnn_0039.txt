@@ -1,8 +1,0 @@
-article_id: cnn_0039
-url: https://news.google.com/rss/articles/CBMimgFBVV95cUxNcXgzUjcyOEprU1JRN0cxd05rSDVnMlpXNEhBckhFSU1GdkptQmpqN3BzYzZvUEJCTFRFMm51WUwwTjRWdm0xU0tMYlp4bldtb2FOZlg1bXdjX1oySk4tMXhUODh4TkRiQ1dvT1A3X3A5VlF1Yk10a3hCOXl5TlFiSS1xb0k0UVBKUWFEZWhsNEhURmFhUzJ4Q1JR?oc=5
-title: Tickets selling fast as Hong Kong-China high-speed rail link reopens ahead of Lunar New Year travel rush - CNN
-date: 2023-01-13
-author: 
-matched_keywords: lunar new year
-content:
-[No article text found]

@@ -1,8 +1,0 @@
-article_id: cnn_0012
-url: https://news.google.com/rss/articles/CBMid0FVX3lxTE5rWmJ2MERmMDBNdURUdEVQZEN4NzBQaFRrWHZJYWpXVXlLMHBNVExNaEFiXzI5SndMVThaWG9za2s2UllpakxPMjBPUjBIaGJ3Q0JGbVFkTXNMM0JYY0ttSFhXV3FHR1VPZFN3TU5YcVNxZ0xHZ3NR?oc=5
-title: Heartbreak and anger as China discourages travel for Lunar New Year - CNN
-date: 2021-02-08
-author: 
-matched_keywords: lunar new year
-content:
-[No article text found]

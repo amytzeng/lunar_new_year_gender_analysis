@@ -1,8 +1,0 @@
-article_id: cnn_0072
-url: https://news.google.com/rss/articles/CBMikAFBVV95cUxPREROVkZ5V1daQ2NEcHdieEx3NnpsMGJIeTJUQmNGMWxyTjNOYW45aW8tQWRSd0tMano2WHhIUmVkRzJFUEprZ28yUW8zQWZwYXdNdnF5Y3VQZUhZYVJMeFIwTW5DS3JQcDltS1VkWWp2eEphSVkyZHd0ZVA4UWNVUTBDQUc4MnFQY0liQkJ6R2g?oc=5
-title: Heavy snow, rain threaten travel chaos during China’s Lunar New Year - CNN
-date: 2024-02-01
-author: 
-matched_keywords: lunar new year
-content:
-[No article text found]

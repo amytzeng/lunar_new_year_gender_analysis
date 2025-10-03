@@ -1,5 +1,0 @@
-id: cnn_2020-01-25_2
-date: 2020-01-25
-title: Photos: Lunar New Year 2020 - CNN
-url: https://news.google.com/rss/articles/CBMie0FVX3lxTE5LT01TbWtucFNMQ2lHTWQzUU1QWUU5cEc2Rkc1RTc1ZWFJQlZrRHhPSUpQcE5Ka2pmN0JmQkwtY0pEZllLbDVTdDdGRzZRWXN5OWYxZWtPcFdrbXlEdE1OZ05vOVV4UmxJaUY0MFVaNG5zNWhQQXJ0QVhKQQ?oc=5
-content:

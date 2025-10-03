@@ -1,5 +1,0 @@
-id: cnn_2020-01-24_5
-date: 2020-01-24
-title: China canceling Lunar New Year festivities is a massive deal - CNN
-url: https://news.google.com/rss/articles/CBMie0FVX3lxTE9KOURsVEc2aUhkcTNRV0RlQnZ6cU5tSWxTT2FoVUEzbktCOGNfQXBGX29ZTmtxZ0tud1RfYk1wT3ZtY01jc2lhWkNOWmFJMWNiM2xmamY1ZUhZR0VMTmZ2aUE4bjBlNUJXVkFoMkMxUFpNRW43aEtYd3ZhMA?oc=5
-content:

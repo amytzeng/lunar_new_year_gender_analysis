@@ -1,8 +1,0 @@
-article_id: cnn_0065
-url: https://news.google.com/rss/articles/CBMirAFBVV95cUxONzhJWlhkbHd4eVhkYW1xenU2Q1duQjBrMTJkSXpjWnZRMmtpNk8wY3o5Q3JNWE9CRzJEcEc5ZkVPSHlDblRoNlVST3BOTTU1dlNnREdMMkxkVUhQY3gxMThibjRjTnhieWliU1BDWHlhLUxYZW1JNVI4QS1zWG1IMGx1SnpxWWVvLWFGajU4NXF2NnN1X2s5QzUxUHhYUDJUUVJTNHRMeGsyU1pK?oc=5
-title: Feng shui master makes predictions about Donald Trump and Taylor Swift for Lunar New Year - CNN
-date: 2024-02-10
-author: 
-matched_keywords: lunar new year
-content:
-[No article text found]

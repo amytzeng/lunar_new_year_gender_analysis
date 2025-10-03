@@ -1,8 +1,8 @@
 lunar_new_year_gender_analysis
 
-# 春節期間 PTT 與 Instagram 婆媳相關文本研究
+# 春節期間多平台文本性別分析研究
 
-本研究透過 Python 3.12.1 與 OpenAI API (GPT-4o-mini)，蒐集並分析 PTT 與 Instagram 上與春節相關的貼文，重點關注「回娘家、年夜飯、婆媳互動、性別角色」等議題。研究目標在於探索節慶期間的性別互動、家庭角色與情緒表達。
+本研究透過 Python 3.12.1 與 OpenAI API (GPT-4o-mini)，蒐集並分析 PTT、Instagram 與 ABC News 上與春節相關的文本，重點關注「回娘家、年夜飯、婆媳互動、性別角色」等議題。研究目標在於探索節慶期間的性別互動、家庭角色與情緒表達，並進行跨平台比較分析。
 
 ## 研究工具
 
@@ -10,9 +10,11 @@ lunar_new_year_gender_analysis
 
 爬蟲：
 
-- requests + BeautifulSoup (PTT)
+- requests + BeautifulSoup (PTT, ABC News)
 
 - Selenium + BeautifulSoup (Instagram)
+
+- Google News RSS (ABC News 文章搜索)
 
 NLP 工具：
 
@@ -50,7 +52,19 @@ NLP 工具：
 
 - 每個關鍵字最多蒐集 100 篇 貼文
 
-3. 資料分類
+3. ABC News 資料蒐集
+
+- 透過 Google News RSS 搜索農曆新年相關文章
+
+- 直接從 ABC News 網站爬取文章內容
+
+- 支援多種搜索方式：關鍵字搜索、URLs檔案、直接搜索
+
+- 輸出格式與 PTT 資料一致（.txt 檔案）
+
+- 已成功爬取 15 篇真實的 ABC News 文章
+
+4. 資料分類
 
 - 人工標註 + SVM
 
@@ -68,7 +82,7 @@ NLP 工具：
 
    - 無法判斷之案例輸出供人工處理
 
-4. 分類規則
+5. 分類規則
 
    1 - 正面、贊成
 
@@ -113,23 +127,45 @@ cd yourrepo
 pip install -r requirements.txt
 ```
 
-執行爬蟲（範例：PTT）
+執行爬蟲
 
 ```bash
-python ptt_crawler.py
+# PTT 爬蟲
+python crawlers/ptt_crawler.py
+
+# Instagram 爬蟲
+python crawlers/instagram_crawler.py
+
+# ABC News 爬蟲
+python crawlers/abc_news_crawler.py crawl_txt urls.txt abc_posts
 ```
 
 執行分類（範例：使用 GPT 分類）
 
 ```bash
-python gpt_classify.py
+python classify_gpt/gpt_classify.py
+```
+
+## 資料結構
+
+```
+├── org_data/           # 原始資料
+│   ├── ptt/           # PTT 文章
+│   ├── instagram/     # Instagram 貼文
+│   └── cnn/           # CNN 文章
+├── abc_posts/         # ABC News 文章（.txt 格式）
+├── crawlers/          # 爬蟲程式
+│   ├── abc_news_crawler.py    # ABC News 爬蟲
+│   ├── ptt_crawler.py         # PTT 爬蟲
+│   └── instagram_crawler.py   # Instagram 爬蟲
+└── classify_gpt/      # GPT 分類工具
 ```
 
 ## 注意事項
 
 本研究資料僅作為學術研究用途，請勿用於商業或再散佈。
 
-PTT 與 Instagram 之資料版權屬原作者所有。
+PTT、Instagram 與 ABC News 之資料版權屬原作者所有。
 
 ## 授權
 

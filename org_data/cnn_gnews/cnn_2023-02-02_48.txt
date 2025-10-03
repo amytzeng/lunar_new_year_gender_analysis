@@ -1,5 +1,0 @@
-id: cnn_2023-02-02_48
-date: 2023-02-02
-title: Celebrating the Lantern Festival, Lunar New Year’s grand finale - CNN
-url: https://news.google.com/rss/articles/CBMibkFVX3lxTE5KazljRnpsdXUtWnJ3bE9VUXloUkh2eE0tY3hRUFFvNE1hYXNIT3M4ZG5UckFSeHB5MENMVjczdkFBVklVUEUyVllCa05WRV8wX0hSc2xSck9mUmZ6Y0w3UTRrVnAyN2Y4NWJGT01n?oc=5
-content:

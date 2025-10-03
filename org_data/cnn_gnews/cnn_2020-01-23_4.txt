@@ -1,5 +1,0 @@
-id: cnn_2020-01-23_4
-date: 2020-01-23
-title: Wuhan coronavirus virus spreads as China scraps New Year celebrations - CNN
-url: https://news.google.com/rss/articles/CBMiekFVX3lxTE03UTBxWkpybGI3OTJ0V2hiX2d1N09JRHNWenUxVHhGZEdPVWo1ZVExMjVQVmNLMmc0ZU9BZ0U1ekVoVURnNGN4ZG5vZzJ5ZlZXQjNJX3Bldzg5eU1VUFZfczBWVEhRZms5cVh2TkJHbkR3VDhKc3hTdVB3?oc=5
-content:

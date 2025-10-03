@@ -1,8 +1,0 @@
-article_id: cnn_0084
-url: https://news.google.com/rss/articles/CBMikwFBVV95cUxQZmhTMjd6SnphRUlpQWNTZkZIc2RFU3doaXBQSHVEQV90N0p6S0xjN0xhSzhLVE1IMUUxYnlUa1gzbHR1N3M0cldzWk5aV1JsQ1N1clVMaVpTTHJ6ZUloOEZSMDlsYmtrNWlSdDdyVWdEZlowNDFtLXQ1UDdNYVhRMDBpY1ZwRF9xUjJzRGhRaGdjb3M?oc=5
-title: 5 Good Things: A Lunar New Year Ritual That Gets Messy (In a Good Way) - CNN
-date: 2025-02-01
-author: 
-matched_keywords: lunar new year
-content:
-[No article text found]

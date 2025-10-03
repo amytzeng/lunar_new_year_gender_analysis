@@ -1,8 +1,0 @@
-article_id: cnn_0024
-url: https://news.google.com/rss/articles/CBMikwFBVV95cUxNNHhnMVZYblN3X1BwYU9NZ25Ka3lnVksxTEFvYnl0NkZKY0RGSTZ5TXRXTGV0UE9KS015WG1qMkxQLTdzdVBqd3VPcDdPNFIwa3VHblZDTnQ0TWhBdTdRa0pROUlOYXNHeW1Kay15SFhwbDdQSXJ4UzhUWXVqTUw0MGhHVE05QVRRdzZLRTcxZUZVeUk?oc=5
-title: Stunning light display illuminates skies for Lunar New Year - CNN
-date: 2022-02-01
-author: 
-matched_keywords: lunar new year
-content:
-[No article text found]

@@ -1,8 +1,0 @@
-article_id: cnn_0086
-url: https://news.google.com/rss/articles/CBMijAFBVV95cUxNeFpObjlxcjlFOThJNVV6ODRIS2RMSGxCaVQ1YXIzRHJUbS05WWQyOEg0ZmlOR1JWSnNFZkZBSlRSNE9Zdm1DbEJQTTFzM2xERmhMME5IalNjZ2Z2Y2FEY2Z2ZEhlS0tBU1dzZFRJZWtMXzRMbEJpbmdPRTFaZWFXWENUeEFjZzBYVlk4aQ?oc=5
-title: In pictures: Lunar New Year celebrations - CNN
-date: 2025-01-29
-author: 
-matched_keywords: lunar new year
-content:
-[No article text found]

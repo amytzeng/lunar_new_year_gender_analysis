@@ -1,0 +1,8 @@
+article_id: cnn_0082
+url: https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTFRRYjlfNDZzbEZCZWpEb19Ba25tRmVfLUZyYmo0NXo0QUlxYXdYWFZHLW10NE1aVWM1dElWOVhpRlZfWDZ6SDMxbC1CZE5PaFBSaERkajRnRUpjdzlaSzlpWjVFNmNDWXVva25HWTNVRmhBUEU0RVBCckw0MDZFUWh2V2t3QmY1?oc=5
+title: Video: CNN asks Beijing locals about economy at Lunar New Year festival - CNN
+date: 2025-01-31
+author: 
+matched_keywords: lunar new year
+content:
+Lunar New Year is a time for celebration, but it’s also a chance to help boost spending all over China. CNN interviews Beijing festival-goers about their hopes and fears for what the Year of the Snake could bring for the country’s beleaguered economy.

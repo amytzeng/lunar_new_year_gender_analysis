@@ -1,3 +1,10 @@
+# Core dependencies for multi-news crawler (crawlers/multi_news_crawler.py)
+# - requests: HTTP library for fetching web pages
+# - beautifulsoup4: HTML parsing library
+# - lxml: XML/HTML parser for BeautifulSoup
+# - tqdm: Progress bar for command-line interfaces
+# - googlenewsdecoder: Decode Google News encoded URLs to actual article URLs (crawlers/decode_google_news_urls.py)
+
 annotated-types==0.7.0
 anyio==4.10.0
 appdirs==1.4.4
@@ -23,6 +30,7 @@ fake-useragent==2.2.0
 filelock==3.18.0
 fonttools==4.59.0
 fsspec==2025.7.0
+googlenewsdecoder
 h11==0.16.0
 h2==4.2.0
 hpack==4.1.0

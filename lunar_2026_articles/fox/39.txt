@@ -1,0 +1,34 @@
+article_id: fox_39
+url: https://www.foxnews.com/politics/kavanaugh-says-court-drew-illogical-line-tariffs-argues-ieepa-plainly-covers-import-duties
+title: Kavanaugh rips Supreme Court majority's ‘illogical’ line on tariffs
+date: 2026-03-06
+author: 
+matched_keywords: Lunar New Year
+content:
+Fox News legal editor Kerri Urbahn and 'The Fixer' host Marcus Lemonis join 'The Faulkner Focus' to discuss the Supreme Court's decision to rule against President Donald Trump's global tariffs.
+Justice Brett Kavanaugh called the Supreme Court’s decision striking down Trump’s emergency tariffs "illogical" in a fiery dissent on Friday and offered a roadmap of alternatives for Trump to attempt to carry out his signature economic policy.
+Kavanaugh, a Trump appointee, said the 6-3 majority cherry-picked ways in which Trump could regulate imports under the International Emergency Economic Powers Act (IEEPA), making what he said was a textualist case that the law already allows similar forms of regulation on imports, including quotas and embargoes. Tariffs are not just in the same category as those but are a "far more modest" alternative to them, Kavanaugh said.
+"If quotas and embargoes are a means to regulate importation, how are tariffs not a means to regulate importation? Nothing in the text supports such an illogical distinction," Kavanaugh wrote.
+Trump last year bypassed Congress and unilaterally levied tariffs on nearly every country in the world by invoking IEEPA. The president argued that an influx of illicit drugs from China, Mexico and Canada and a trade deficit that has decimated American manufacturing constituted emergencies that justified the tariffs.
+Justice Brett Kavanaugh dissented in a pivotal Supreme Court decision striking down Trump's emergency tariffs. (AP Photo/Susan Walsh, File)
+The majority held in a 6-3 opinion that while IEEPA allows a president to "regulate importation" during a declared national emergency, the statute does not clearly authorize tariffs, a core congressional taxing power. Chief Justice John Roberts wrote that when executive action carries sweeping economic consequences, Congress must weigh in on the matter with unmistakable clarity, alluding to what is known as the major questions doctrine .
+Kavanaugh said the Supreme Court's decision in 2022 upholding a vaccine mandate former President Joe Biden imposed on millions of healthcare workers "strongly supports" upholding Trump's tariffs. Like tariffs, that executive action also carried major consequences even though Congress did not explicitly mention vaccines in the health and safety statute Biden used to justify his mandate, Kavanaugh said.
+In oral arguments in November, Solicitor General John Sauer, appearing on behalf of the government, said tariffs were an invaluable way for Trump to negotiate with foreign partners. Weakening his "suite of tools" by removing tariffs from it was a "bit unusual," Sauer said.
+Sauer also said tariffs were the same as embargoes, which block imports altogether. The solicitor general conceded, though, that tariffs had the "incidental and collateral effect" of raising revenue, but he said their primary purpose was to regulate rather than collect income. Kavanaugh agreed.
+"As the [majority of justices] interpret the statute, the President could, for example, block all imports from China but cannot order even a $1 tariff on goods imported from China," Kavanaugh wrote.
+AS TRUMP TOUTS TARIFF WINDFALL, BATTLEGROUND STATES SHOULDER BILLIONS IN COSTS
+The Supreme Court building in Washington, D.C. (AP/Jon Elswick)
+Kavanaugh referenced numerous other statutes he said Trump had in his toolbox, mapping out alternatives in the wake of the high court nixing IEEPA as an option. Kavanaugh said the majority "in essence" concluded that Trump "checked the wrong statutory box."
+Trump, in a speech remarking on the decision, praised Kavanaugh for "his genius and his great ability," adding he was "very proud of that appointment."
+The president referenced a quote from Kavanaugh's dissent, saying, "'Although I firmly disagree with the court's holding today, the decision might not substantially constrain a president's ability to order tariffs going forward.' So think of that … and it doesn't. He's right.
+"We have very powerful alternatives."
+Kavanaugh also raised a glaring question left unaddressed by the high court’s majority of how the U.S. Treasury could go about refunding companies to the tune of billions of dollars that the government gained from the unlawful tariffs.
+JONATHAN TURLEY: SUPREME COURT RULING ON TRUMP TARIFFS COMES DOWN TO A NUMBERS GAME
+President Donald Trump shows off non-reciprocal tariff examples. (Mandel Ngan/Getty Images)
+Kavanaugh said of the "serious practical consequences" of outlawing Trump’s ability to use IEEPA to levy tariffs that the refund process could be a "mess" as lower courts are likely to see an influx of lawsuits from business owners looking for their money back.
+"The United States may be required to refund billions of dollars to importers who paid the IEEPA tariffs, even though some importers may have already passed on costs to consumers or others," Kavanaugh wrote. "As was acknowledged at oral argument, the refund process is likely to be a ‘mess.’"
+CLICK HERE TO DOWNLOAD THE FOX NEWS APP
+The majority opinion, authored by Roberts, found that IEEPA’s language allowing a president to regulate imports intentionally omits the word "tariff."
+Roberts wrote that the other words in the statute "cannot bear" the same weight as the word "tariff," which he said operates like a tax because it allows the government to collect revenue, which he said only Congress can authorize.
+Justices Samuel Alito and Clarence Thomas joined Kavanaugh’s dissent, and Thomas also wrote a separate dissent.
+Ashley Oliver is a reporter for Fox News Digital and FOX Business, covering the Justice Department and legal affairs. Email story tips to ashley.oliver@fox.com .

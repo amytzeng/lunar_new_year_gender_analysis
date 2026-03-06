@@ -1,0 +1,8 @@
+article_id: cbs_156
+url: https://www.cbsnews.com/miami/video/cartel-leader-el-mencho-killed-in-military-operation-sparking-violent-unrest-in-mexico/
+title: Cartel leader ‘El Mencho’ killed in military operation, sparking violent unrest in Mexico
+date: 2026-03-06
+author: 
+matched_keywords: Lunar New Year
+content:
+©2026 CBS Broadcasting Inc. All Rights Reserved.

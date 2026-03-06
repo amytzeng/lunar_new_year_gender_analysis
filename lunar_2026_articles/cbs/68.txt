@@ -1,0 +1,8 @@
+article_id: cbs_68
+url: https://www.cbsnews.com/detroit/video/charges-dropped-against-chinese-national-in-smuggling-case/
+title: Charges dropped against Chinese national in smuggling case
+date: 2026-03-06
+author: 
+matched_keywords: Lunar New Year
+content:
+©2026 CBS Broadcasting Inc. All Rights Reserved.

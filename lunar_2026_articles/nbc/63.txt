@@ -1,0 +1,21 @@
+article_id: nbc_63
+url: https://www.nbcnews.com/tech/security/ai-toy-company-miko-adds-ai-switch-political-pressure-rcna259401
+title: AI toy company Miko adds an AI off switch after political pressure
+date: 2026-03-06
+author: 
+matched_keywords: Lunar New Year
+content:
+Miko, a company that makes toys powered by artificial intelligence, is including an AI on-off switch for its core technology after political pressure and probes of their products.
+The new option, which follows public criticism, is a rare adjustment that allows consumers to step back from AI use as companies of all stripes rapidly integrate the technology into their products.
+“Miko is putting full control in the hands of the parents and caregivers with an ON/OFF toggle option to enable or disable the conversational AI features of Miko 3 and Miko Mini,” the company announced in a press release on Monday .
+Miko toys are moving robots with a touchscreen face, which can play music and games with children and use AI chatbots, called Large Language Models (LLMs), to interact with kids. The company has collaborated with Google, according to a 2024 blog post, to use Google Cloud and Google’s Gemini AI models.
+Recently, Miko has come under scrutiny and political pressure, with watchdogs and politicians raising safety concerns about Miko and other AI toy creators.
+Last week, Sens. Marsha Blackburn, R-Tenn., and Richard Blumenthal, D-Conn., said they had identified a website where any visitor could download thousands of responses that Miko generated to specific children. It seemingly had been accidentally left available online with no password protections or other guardrails and could be accessed by anyone with an internet connection.
+NBC News listened to some of the recordings, including ones that appeared to be from extended conversations where the LLM addressed a child repeatedly by name and asked them questions like how they felt and what music they were listening to. The site became inaccessible last week.
+Miko CEO Sneh Vaswani said in an emailed statement to NBC News at the time that the company had not leaked users’ data and does not store children’s voice recordings but did not comment directly on the recordings that appeared to be responses to the children.
+Blackburn responded to the news of the AI off switch in a statement, saying, "These new parental controls are an eleventh-hour attempt to save face following the cybersecurity breach that came to light just last week where the company exposed sensitive data involving children to the public. Parents should think twice before buying this toy for their children regardless of the latest press release.”
+Ritvik Sharma, senior VP of Growth at Miko, declined to respond directly to Blackburn but said that the new feature “had been in the works for a while” and that the audio responses that were posted online “had nothing to do with us making that announcement.”
+AI toys, as well as the chatbots that power them, are largely unregulated in the U.S. The popularity of toys has surged recently as the technology becomes more widespread and popular.
+Toymakers generally implement safeguards to prevent them from saying inappropriate things to children. But all LLMs are susceptible to “jailbreaks,” or phrases that can convince a chatbot to ignore its developers’ instructions.
+In December, an NBC News investigation found that some of the AI toys most widely marketed toward Americans could be prompted in some contexts to say things that parents would likely find worrisome or objectionable, including descriptions of sexual activity or descriptions of geopolitics that closely aligned with the Chinese Communist Party.
+The AI toy market is booming, particularly in China. MIT Technology Review reported last year that the company has more than 1,500 registered AI toy companies.

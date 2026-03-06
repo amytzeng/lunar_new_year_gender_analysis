@@ -1,0 +1,27 @@
+article_id: cnn_45
+url: https://www.cnn.com/2026/02/18/china/china-humanoid-robots-new-year-gala-intl-hnk
+title: China’s biggest TV event had a clear star: the robot
+date: 2026-03-06
+author: 
+matched_keywords: Lunar New Year
+content:
+Back-flipping, nunchuck-weilding humanoid robots delighted and amazed viewers at China’s annual televised new-year extravaganza with their kung-fu choreography. But they – and their rivals who took to the stage Monday night – also carried a message about just how rapidly Chinese androids are advancing.
+The fluid movements, agility and fault recovery of Chinese firm Unitree Robotics’ bots, which kicked and flipped on-stage alongside young, human martial artists during the broadcast, were leaps ahead of the staid handkerchief-twirling and shuffling footwork of the Unitree models that performed last year to much fanfare.
+And it wasn’t just Unitree. Across state broadcaster CCTV’s Spring Festival Gala this year, China’s growing tech capabilities – and the fierce competition within its high-tech sector – were on full display.
+It’s a theme that’s not new at the gala, China’s largest televised event, which equates roughly to the Super Bowl in its TV programming heft. But it underscores China’s growing drive to transform itself into a tech powerhouse amid a wide-ranging rivalry with the US.
+Several major robotics firms took coveted slots in the roughly four-hour-long gala.
+MagicLab’s humanoid robots performed choreography as human pop stars crooned “We are made in China” in a dance number pointedly named “Intelligent Manufacturing Future.” The company’s robotic dogs were clad in panda suits for another segment.
+Noetix Robotics showed off its capability in creating humanoids made to look like real people, with an actress rolling out an android version of herself in a comedy skit. And Beijing-based firm Galbot’s robot showed how it can do everyday tasks like cracking walnuts, skewering sausages and folding clothes.
+AI also had its moment . This year, ByteDance’s Doubao platform, a gala sponsor, sent out waves of hongbao or red envelopes with virtual cash to users of its AI chatbot app throughout the show, while a comedian at one point asked the app for advice. The company also said its AI video-generation model Seedance 2.0 participated in the visual creation of multiple programs.
+The preponderance of robots was celebrated by many across Chinese social media as topics related to their performances racked up millions of views and users marveled at how fast they were developing.
+“This is the most stunning performance at this year’s Spring Festival Gala. It might even send shock waves across the Pacific,” one commentator on China’s X-like platform Weibo wrote about the Unitree choreography and alluding to US-China competition.
+But the show was also criticised for focusing too much on the androids. “We are looking for humans amid all the robots,” one user wrote on the same platform, in a comment widely echoed across social media discussion.
+State media also framed the gala as drumming up consumer demand, with outlet Global Times reporting that robots from brands including MagicLab, Unitree and Noetix sold out after being offered by online retailer JD.com during the gala.
+The race to perfect robots and automate is part of Beijing’s sweeping push to upgrade the country’s manufacturing capabilities and defend its position as the world’s factory floor in a new era of high tech, rising labor costs and a shrinking workforce.
+China is already by far the world’s largest industrial robot market and home to more than half of all robots installed worldwide in 2024, according to the International Federation of Robotics.
+China has another solution to its shrinking population: robots
+While humanoids have so far been most visible in novelty appearances and entertainment like Monday’s show, they are also being piloted on assembly lines and in logistics hubs and science labs. Dozens of companies are working on development in a field flush with subsidies.
+Last year was one in which the public got used to seeing androids growing more adept at movement, appearing as showpieces in promotional sport events and other events. But 2026 is widely seen as the year when work on their real-world applications, especially in industry, will take center stage.
+Unitree CEO Wang Xingxing referenced the high stakes for the sector in comments to state media after the gala.
+“In the past one or two months, I’ve personally been under quite a lot of pressure. We had to deliver a performance that was significantly better than last year’s,” he said.
+“We hope that through our company’s efforts – and through the collective efforts of society as a whole – we can help advance the development of the entire robot industry.”

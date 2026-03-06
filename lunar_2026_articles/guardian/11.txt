@@ -1,0 +1,26 @@
+article_id: guardian_11
+url: https://www.theguardian.com/society/2026/feb/28/researchers-praise-stunning-results-of-new-prostate-cancer-treatment
+title: Researchers praise ‘stunning’ results of new prostate cancer treatment
+date: 2026-03-06
+author: 
+matched_keywords: Lunar New Year
+content:
+A new drug for advanced prostate cancer has shown promise in early trials experts have said, with the medication shrinking tumours in some patients.
+Prostate cancer is the most common cancer among men in many countries, including the US and UK. About 1.5 million men are diagnosed worldwide each year .
+The new drug has caused excitement as it is a type of treatment called immunotherapy. This approach uses the body’s own immune system to fight disease, and has already proved beneficial for some cancers. However, experts note it has not yet had the same impact on prostate cancer.
+Now scientists have reported results from an early stage trial of an immunotherapy drug called VIR-5500, suggesting it could offer hope to men with advanced prostate cancer.
+“We believe that such treatments may in the long term lead to cures,” said Prof Johann de Bono of the Institute of Cancer Research and the Royal Marsden NHS foundation trust, who led the work.
+De Bono said VIR-5500was an engineered antibody that brought together the body’s killer T-cells with tumour cells trying to evade them. This type of drug, called a T-cell engager, allowed the killer cells to wipe out the tumour ones.
+The special feature of VIR-5500, De Bono added, was that it was designed to only become activated within the tumour. This not only minimised side-effects – an important consideration as other T-cell engagers have been found to trigger severe inflammatory responses in patients with prostate cancer – but allowed the drug to linger in the bloodstream, meaning fewer doses may be needed.
+Under the phase one clinical trial, funded by Vir Biotechnology, 58 men with advanced prostate cancer, and who had stopped responding to other treatments, were given VIR-5500.
+The researchers found the majority of patients – 88% – experienced only very mild side-effects.
+They then looked at the level of prostate-specific antigen (PSA) in the men’s blood – a biomarker whereby higher levels can be a sign of prostate conditions.
+De Bono noted the trial started at low doses, with the dose increasing in stages. When the team looked at data for 17 men given the highest dose, they found that for 14 (82%) their PSA level fell by at least half after treatment, nine (53%) saw their PSA level fall by at least 90%, and five (29%) experienced a fall of at least 99%.
+De Bono described the results as unprecedented for a disease previously thought to be “immune-cold” – in other words resistant to immunotherapy.
+The team added that, of 11 patients given the highest dose and whose tumours were measurable, five showed tumour shrinkage. In one case, involving a 63-year-old man whose cancer had spread to his liver, the team found 14 cancerous liver lesions “completely resolved” after six cycles of treatment.
+The results, which have not yet been peer-reviewed, were presented at the American Society of Clinical Oncology genitourinary cancers symposium in San Francisco.
+De Bono said further clinical trials are now being planned. “We do need more data but the results are stunning,” he said.
+Charlotte Bevan, professor of cancer biology at Imperial College London, who was not involved in the work, said an advance in using immunotherapy for prostate cancer was potentially very exciting, opening up a new class of drug. But, she added, it was important studies were carried out with patients of different ethnicities, as there were disparities in prostate cancer outcomes.
+Simon Grieveson, assistant director of research at Prostate Cancer UK, described the early-phase trial as exciting.
+“With over 12,000 men dying from prostate cancer each year in the UK, we urgently need new and innovative ways to treat the disease,” he said.
+“These early results are extremely promising, with a number of men on the study responding positively to the treatment with minimal side effects. I look forward to seeing this now tested in larger trials, with the hope that this treatment will offer men more valuable time with their loved ones.”

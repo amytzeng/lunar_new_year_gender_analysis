@@ -1,0 +1,24 @@
+article_id: fox_36
+url: https://www.foxnews.com/science/researchers-pinpoint-source-black-holes-3000-light-year-long-jet-stream-using-enhanced-telescope-network
+title: Researchers pinpoint source of black hole's 3,000-light-year-long jet stream using enhanced telescope network
+date: 2026-03-06
+author: 
+matched_keywords: Lunar New Year
+content:
+Black hole find stuns scientists
+Scientists have traced a 3,000-light-year-long cosmic jet streaming out from the first black hole ever imaged to its likely source point with the help of "significantly enhanced coverage" from the global Event Horizon Telescope, a new study published this week revealed.
+The findings, published in the journal "Astronomy & Astrophysics" on Wednesday, could help pinpoint exactly from where and how black holes launch vast cosmic jets that travel at nearly the speed of light.
+M87 is a supermassive black hole located in the Messier 87 Galaxy around 55 million light years from Earth, and is 6.5 billion times larger than the sun.
+The first image of M87 was released to the public in 2019, after the data was collected by the Event Horizon Telescope in 2017.
+Scientists have traced a 3,000-light-year-long cosmic jet streaming out from the first black hole ever imaged to its source point with the help of "significantly enhanced coverage" from the global Event Horizon Telescope, a new study published this week revealed. (Hubble Telescope/NASA)
+Not only is the black hole supermassive, "it's also active," Dr. Padi Boyd of NASA explained in a video about the discovery of the black hole. "Just a few percent are active at any given time. Are they turning on and then turning off? That's an idea… We know there's very high magnetic fields that you launch a jet. And so this image is observational evidence that what we've been seeing for a while is actually being launched by a jet connected to that supermassive black hole at the center of M87."
+M87 both sucks in surrounding gas and dust and spews out powerful jets of charged particles from its poles that form the jet stream, according to Scientific American and Space.com.
+'SMOKING GUN EVIDENCE': WHAT A 'MONSTER' BLACK HOLE WAS DISCOVERED DOING THAT CONCERNED SCIENTISTS
+"This study represents an early step toward connecting theoretical ideas about jet launching with direct observations," Saurabh, team leader of the Max Planck Institute for Radio Astronomy, said in a statement, according to Space.com .
+A first image of the M87 black hole taken by the Event Horizon Telescope and revealed in 2019. (National Science Foundation via Getty Images)
+He added, "Identifying where the jet may originate and how it connects to the black hole's shadow adds a key piece to the puzzle and points toward a better understanding of how the central engine operates."
+The Event Horizon Telescope involves a global network of eight radio observatories that can detect radio waves from astronomical objects like galaxies and black holes that converge to create an Earth-sized telescope.
+The elliptical galaxy M87 is the home of several trillion stars, a supermassive black hole and a family of roughly 15,000 globular star clusters. (NASA, ESA and the Hubble Heritage Team (STScI/AURA); Acknowledgment: P. Cote, Herzberg Institute of Astrophysics, and E. Baltz, Stanford University)
+Event Horizon refers to the boundary of a black hole beyond which light can’t escape, according to the National Science Foundation.
+CLICK HERE TO DOWNLOAD THE FOX NEWS APP
+The findings came after studying data from the Event Horizon Telescope from 2021, but the authors of the study added, "Although this result is robust under the assumptions and tests performed, definitive confirmation and more precise constraints will require future EHT observations with higher sensitivity and improved intermediate-baseline coverage via additional stations and expanded frequency range."

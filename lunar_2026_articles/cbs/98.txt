@@ -1,0 +1,8 @@
+article_id: cbs_98
+url: https://www.cbsnews.com/sanfrancisco/video/hegseth-sets-friday-deadline-for-san-francisco-based-company-anthropic-to-grant-military-use/
+title: Hegseth sets Friday deadline for San Francisco-based company Anthropic to grant military use
+date: 2026-03-06
+author: 
+matched_keywords: Lunar New Year
+content:
+©2026 CBS Broadcasting Inc. All Rights Reserved.

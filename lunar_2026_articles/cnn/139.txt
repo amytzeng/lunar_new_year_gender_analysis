@@ -1,0 +1,46 @@
+article_id: cnn_139
+url: https://www.cnn.com/2026/02/09/business/parents-trump-accounts-kids-faq
+title: What parents need to know about Trump Accounts: An FAQ
+date: 2026-03-06
+author: 
+matched_keywords: Lunar New Year
+content:
+There has been a lot of attention paid to the new Trump Accounts – especially the promised $1,000 federal government contributions for eligible newborns and the public declarations by companies and philanthropists that they will be making contributions, too.
+But the fine print on exactly how the accounts will work is still emerging and there is a lot of information and press releases to sort through from the Treasury, the IRS, the White House and the official site trumpaccounts.gov .
+So … we’ve tried to create a one-stop shop with the most immediately salient points for parents interested in creating an account for their child.
+Here is what we know so far (and where we will make updates as Treasury and the IRS provide more details and clarity).
+Trump Accounts are IRA-style savings accounts for eligible children. They are like traditional IRAs in that money in the accounts will grow tax deferred. But the rules for Trump Accounts differ when it comes to contributions, withdrawals and approved uses of the money. Also, the money may not be tapped before a child turns 18.
+A child must be under age 18 at the end of the year in which an account is opened for them, per the IRS.
+The child also must be a U.S. citizen and have a valid Social Security number.
+A child is only allowed to have one Trump account opened for them. And it must be opened by an “authorized individual” – which is generally a legal guardian or parent. (The IRS breaks out more details on that here .)
+Any child eligible to have a Trump Account and who is born between January 1, 2025 and December 31, 2028 may receive a one-time, $1,000 pilot contribution from the federal government. But only if an authorized individual has opened an account for them and may claim them as a dependent on their tax return, according to enrolled agent David Mellem of Ashwaubenon Tax Professionals.
+Parents must elect to open an account for their child by filling out and submitting Form 4547 . This is the same form on which you will elect to get the $1,000 pilot contribution for your eligible babies.
+At the moment, the best way to do that is to submit the form electronically with your 2025 federal income tax return. But, starting this summer, according to trumpaccounts.gov , there will be an online portal for all parents to establish an account.
+Based on the information requested on Form 4547 it appears parents are required to have a Social Security number. But IRS instructions for the form say that if the parent is “a nonresident or resident alien and you don’t have and aren’t eligible to get an SSN, enter your IRS individual taxpayer identification number.”)
+Once a parent submits Form 4547, starting in May 2026 “the Treasury Department or its agent will send information to the individual who made the election to activate the account through an authentication process and complete the opening of the initial Trump Account,” the IRS said in preliminary guidance.
+Per the IRS, “no pilot program contribution will be deposited in the Trump Account of a child earlier than July 4, 2026.”
+But more generally, it said, Treasury “will make the pilot program contribution as soon as practicable after the election is made and the Treasury Department can confirm with the initial Trump account trustee that the initial Trump account has been opened.”
+Beyond the federal government’s one-time contribution, several parties may contribute to a child’s account. But the rules and limitations differ for each group.
+Employers: They may make deductible contributions to the account of an employee’s child. That money will be tax-free to the employee. The employer’s contribution may not exceed $2,500 a year per employee, not per child, Mellem said. That annual limit will be adjusted for cost of living after 2027, per initial guidance from the IRS.
+To date, several employers – such as JPMorgan Chase and BlackRock – have said they intend to offer their employees a match to the federal government’s seed contribution to Trump Accounts.
+Family and friends: Parents, grandparents and other individuals may make contributions too. But they will not get a deduction for their contributions.
+States, qualified nonprofit organizations and philanthropists: Their contributions must be made to “members of a qualified class” as the IRS puts it – that could mean, for example, all children born in a specific year or all children living in a given state.
+Some business leaders – notably Michael Dell – have pledged to make one-time $250 seed contributions to the accounts of certain groups of children from middle- to lower-income households.
+Family and employer contributions combined may not exceed $5,000 a year for a single account. That limit will be adjusted for cost of living starting in 2027. Contributions from governments and nonprofits will not count toward the limit, per the IRS guidance.
+The money must be invested in a low-cost, broadly diversified US stock index fund or exchange-traded fund. Low cost is defined as an expense ratio of no more than 0.10% – so for every $1,000 in an account the annual fee can’t exceed $1 a year.
+What’s not clear yet: Which funds will be approved for use by the federal government.
+Initially, they will “be created and held with Treasury’s designated financial agent,” according to a White House document. An agent is a financial institution of Treasury’s choosing.
+After that initial period, the White House noted, “parents or guardians will be able to transfer the full balance of a Trump Account to their preferred brokerage firm through a simple trustee-to-trustee rollover.”
+The key to growing a sizable sum depends on how much is contributed to the account every year and how well the index or exchange-traded fund in a child’s account performs.
+This table breaks out some examples.
+The money generally may not be touched until the child turns 18. At that point, it may be withdrawn or it can be left invested.
+When money is taken out, most of it will be subject to income tax (with the exception of the portion that comes from the nondeductible contributions made by, say, a parent, according to Mellem.)
+In addition, depending on how it’s used, the money may be subject to a 10% penalty.
+The child may use the money without penalty to help pay for college or buy a first home. But if the money is taken out before age 59-1/2 and is used for non-approved expenses – e.g., emergencies, credit card debt payments, etc. – it will be subject to a 10% penalty on top of the ordinary income tax owed.
+(It’s worth noting that promoters of the accounts often assert a child may also use the money as an adult to help start a business, but it is not clear from existing materials that such use would be exempt from the 10% penalty.)
+Making an investment in children’s future from birth is a welcome idea in many quarters.
+And in the best circumstances – a child’s family can afford to contribute money every year, the parent works for an employer offering an additional contribution, the stock market does well during the “growth period” of 18 years, etc. – a Trump Account may provide a much-needed source of funds for today’s children to help offset the costs of college and early adulthood.
+But many families won’t be able to afford to make many – or any – contributions. One critique of the accounts is that they will disproportionately benefit families who already have means.
+Madeline Brown, a senior policy associate at the Urban Institute, questions the utility of Trump accounts after the $1,000 pilot ends for lower-income households, since they already have low participation rates when it comes to saving for their children’s future in other tax-advantaged plans like 529s or Roth IRAs.
+“About a third of families don’t have $2,000 in emergency savings, so it’s no surprise that they don’t have the means to go start saving in [other plans] for their children,” Brown said.
+CNN’s Julian Torres contributed to this report.

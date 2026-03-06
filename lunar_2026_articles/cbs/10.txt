@@ -1,0 +1,8 @@
+article_id: cbs_10
+url: https://www.cbsnews.com/losangeles/video/orange-county-dance-troupe-prepares-for-lunar-new-year-celebrations/
+title: Orange County dance troupe prepares for Lunar New Year celebrations
+date: 2026-03-06
+author: 
+matched_keywords: Lunar New Year
+content:
+©2026 CBS Broadcasting Inc. All Rights Reserved.

@@ -1,0 +1,8 @@
+article_id: guardian_102
+url: https://www.theguardian.com/uk-news/gallery/2026/feb/25/reflections-in-kyiv-and-bread-baking-in-gaza-photos-of-the-day-wednesday
+title: Reflections in Kyiv and bread baking in Gaza: photos of the day – Wednesday
+date: 2026-03-06
+author: 
+matched_keywords: Lunar New Year
+content:
+The Guardian’s picture editors select photographs from around the world

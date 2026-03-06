@@ -1,0 +1,8 @@
+article_id: cbs_134
+url: https://www.cbsnews.com/video/new-message-nancy-guthrie-disappearance-sheriffs-department-says/
+title: New message in Nancy Guthrie disappearance, sheriff's department says
+date: 2026-03-06
+author: 
+matched_keywords: Lunar New Year
+content:
+Copyright ©2026 CBS Interactive Inc. All rights reserved.

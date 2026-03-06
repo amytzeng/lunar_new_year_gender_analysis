@@ -1,0 +1,8 @@
+article_id: cbs_208
+url: https://www.cbsnews.com/losangeles/video/police-investigate-long-beach-drive-thru-shooting/
+title: Police investigate Long Beach drive-thru shooting
+date: 2026-03-06
+author: 
+matched_keywords: Lunar New Year
+content:
+©2026 CBS Broadcasting Inc. All Rights Reserved.

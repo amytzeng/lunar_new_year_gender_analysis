@@ -1,0 +1,19 @@
+article_id: guardian_350
+url: https://www.theguardian.com/technology/2026/feb/25/nvidia-quarterly-earnings-report-ai
+title: Nvidia quarterly earnings show immunity to AI bubble fears as it cashes in on datacenter boom
+date: 2026-03-06
+author: 
+matched_keywords: Lunar New Year
+content:
+Nvidia released its quarterly earnings on Wednesday, with the chipmaker revealing higher than expected revenues and extending its years-long streak of surpassing Wall Street’s sky-high expectations.
+The company receives the vast majority of its revenue from its datacenter business , which has been buoyed by the tech industry’s immense investment into AI infrastructure. On Wednesday, Nvidia reported 75% year-over-year growth of this vertical to $62.3bn. The world’s most valuable publicly traded company, Nvidia has dominated the chip market as its processing units have become the backbone of the artificial intelligence boom. The company also posted an enormous total profit for the fiscal year: $120bn.
+“Our customers are racing to invest in AI compute – the factories powering the AI industrial revolution and their future growth,” CEO Jensen Huang said in a statement accompanying the earnings report.
+Investors have been more skeptical in recent months regarding the huge amount of spending that big tech companies have poured into advancing their AI products, with share prices for most of the so-called Magnificent Seven tech firms starting the year off in decline. Nvidia’s growth, meanwhile, has acted as a reassurance to the market, with a stock rally on Wednesday ahead of the company’s earnings report. Throughout the 2024 and 2025 fiscal years, Nvidia beat Wall Street’s expectations every quarter.
+The chipmaker reported earnings of $1.62 per share, beating the $1.53 per share that Wall Street analysts estimated. Its overall revenue for the quarter was $68.13bn, more than analysts’ prediction of $66.2bn in revenue.
+Shares in the company rose by about 3% in after-hours trading immediately following the earnings report, although those gains dropped to less than 1% as the day went on.
+Despite Nvidia’s huge profits, there has been increased scrutiny of the company’s various multibillion-dollar deals with AI firms such as OpenAI. The circular nature of these deals, where Nvidia invests in a company only for that company to turn around and purchase chips from Nvidia, has led some analysts to worry that the AI industry is on riskier footing than its backers would admit.
+One of Nvidia’s marquee deals, a proposed $100bn investment into OpenAI, also fell through earlier this month. Instead, Nvidia will reportedly invest $30bn into OpenAI as the ChatGPT creator seeks to go public later this year at a valuation of about $730bn.
+“We continue to work with OpenAI towards a partnership agreement, and believe we are close,” Huang said on Wednesday’s earnings call.
+Huang has repeatedly downplayed concerns around how AI will disrupt or replace workers across numerous industries. Last month, Huang spoke out against fears of AI replacing software technologies during a global rush to sell off software stocks. At the World Economic Forum in Davos earlier this year, he also framed AI as a job creator that would unlock productivity gains and become a core part of international infrastructure.
+“In this new world of AI, compute equals revenues,” Huang said on the call.
+After years of markets swooning over advances in generative AI, however, some investors have grown more skittish and wary of volatility or potential negative effects that AI may have on the economy. This week, a piece of speculative fiction from a research firm caused a market downturn and panic on Wall Street after it outlined an imagined future in which AI had caused surging unemployment.

@@ -1,0 +1,15 @@
+article_id: guardian_353
+url: https://www.theguardian.com/media/2026/feb/26/guardian-joins-media-coalition-to-protect-original-journalism-from-unpaid-use-by-ai
+title: Guardian joins media coalition to protect original journalism from unpaid use by AI
+date: 2026-03-06
+author: 
+matched_keywords: Lunar New Year
+content:
+A coalition of UK media companies including the Guardian has urged industry peers to back global frameworks ensuring AI firms pay for the journalism they use.
+The news providers are calling on leaders across publishing, broadcasting, media and news to join their newly created group, with the aim of protecting “original journalism” and securing “the long-term sustainability of our industry”.
+The coalition, comprising the Guardian, the BBC, Financial Times, Sky News and Telegraph Media Group (TMG), has been named the Standards for Publisher Usage Rights (Spur). It is seeking the establishment of global licensing frameworks that will ensure AI companies can access high quality journalism for use in products such as chatbots while guaranteeing that publishers retain control of their content and are paid fairly when it is used.
+An open letter signed by Tim Davie, the BBC director general; the Guardian’s chief executive, Anna Bateson; the Sky News executive chair, David Rhodes; the TMG chief executive, Anna Jones; and the FT’s chief executive, Jon Slade, warns their industry’s business model has been weakened by AI.
+“Across the industry, our reporting, our archives, our original content, have become foundational training material for AI systems,” they wrote. “This material has been scraped, copied and reused with no common standards to enable permission or payment, weakening the economic model that supports journalism.”
+The letter added: “Working across the industry, we can build systems that respect original reporting, uphold public trust, and enable both journalism and AI to thrive.”
+Generative AI models, the term for technology that underpins powerful tools such as OpenAI’s ChatGPT chatbot as well as Google’s video generator Veo3, have to be trained on a vast amount of data in order to generate their responses. The main source of this information is the open web, which contains a huge array of data, from the contents of Wikipedia and YouTube to newspaper articles and online book archives . The creative and publishing industries are demanding AI companies seek permission for using that work – and pay them for it.
+As well as establishing licensing regimes, the coalition aims to support the creation of technical tools that protect intellectual property, enable transparent use of journalistic content and develop shared industry standards. The FT and Guardian have both signed content licensing deals with OpenAI.

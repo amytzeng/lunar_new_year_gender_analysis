@@ -1,0 +1,20 @@
+article_id: cbs_65
+url: https://www.cbsnews.com/news/china-hidden-door-handles-cars-ban-starting-2027-safety-concerns/
+title: China banning hidden door handles on cars starting in 2027 due to safety concerns
+date: 2026-03-06
+author: 
+matched_keywords: Lunar New Year
+content:
+February 4, 2026 / 7:50 AM EST / AP
+Hong Kong — China will ban hidden door handles on cars, commonly used on Tesla's electric vehicles and many other EV models, starting next year.
+All car doors must include a mechanical release function for handles, except for the tailgate, according to details released by China's Ministry of Industry and Information Technology.
+Officials said the policy aims to address safety concerns after fatal EV accidents in which electronic doors reportedly failed to operate and trapped passengers inside vehicles.
+The new requirement for both internal and external door handles will take effect on Jan. 1, 2027. For car models that were already approved, carmakers will have until Jan. 1, 2029, to make design changes to match the regulations.
+Vehicles including Tesla's Model Y and Model 3, BMW's iX3 and other models by many Chinese brands feature retractable car door handles that could be subject to the new rules.
+Chris Liu, a Shanghai-based senior analyst at technology research and advisory group Omdia, said the global impact of China's new rules could be substantial and other jurisdictions may follow suit on retractable door handles. Carmakers will be facing potentially costly redesigns or retrofits.
+"China is the first major automotive market to explicitly ban electrical pop-out and press-to-release hidden door handles," he said. "While other regions have flagged safety concerns, China is the first to formalize this into a national safety standard."
+It's likely that regulators in Europe and elsewhere will reference or align with China's approach, Liu said. The new requirements would impact premium EVs more as retractable door handles "are treated as a design and aerodynamic statement," he added.
+A draft of the proposed rules was published by China's Ministry of Industry and Information Technology in September for public comment.
+Last year, the U.S. National Highway Traffic Safety Administration opened an investigation into cases where Tesla's electronic door handles reportedly failed to work.
+© 2026 The Associated Press. All Rights Reserved. This material may not be published, broadcast, rewritten, or redistributed.
+Copyright ©2026 CBS Interactive Inc. All rights reserved.

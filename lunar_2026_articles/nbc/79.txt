@@ -1,0 +1,39 @@
+article_id: nbc_79
+url: https://www.nbcnews.com/politics/elections/state-officials-say-trump-administration-election-security-rcna257031
+title: State officials say the Trump administration has been absent on election security
+date: 2026-03-06
+author: 
+matched_keywords: Lunar New Year
+content:
+State election officials got an unusual invitation from the Trump administration last week: a late February call about midterm preparations organized by the FBI.
+The surprise email came at a tense moment. The Justice Department has sued dozens of states for unredacted voter rolls, the FBI raided an Atlanta-area elections office , and President Donald Trump has called for nationalizing at least some elections.
+Some state election chiefs said the invitation was also the first time they have heard from anyone in this Trump administration about election security in months — or ever. Seven Trump officials — including as many as three Cabinet secretaries — were expected to appear at a National Association of Secretaries of State (NASS) conference in Washington, D.C., last month, but ultimately just one White House aide showed up.
+“Given what has happened over the last two weeks, the drama that occurred at NASS, and then to arbitrarily just send out an email with a predetermined date and time with everybody’s emails exposed, saying get on this call,” said Nevada Secretary of State Cisco Aguilar, a Democrat, “my response was — [I] wrote back to them immediately, like, is this real?”
+Nine secretaries of state at the annual NASS conference, which took place before the FBI’s briefing invitation, said in interviews that they’d had little contact with the second Trump administration, which gutted the federal agency charged with helping states secure their elections last year.
+The first Trump administration designated elections as critical infrastructure and established the Cybersecurity and Infrastructure Security Agency, which worked with states to help secure their elections both physically and digitally, under the Department of Homeland Security.
+The agency offered money, manpower and expertise and funded information-sharing between states until last year, when it was devastated by major cuts. Funding for threat monitoring through the Election Infrastructure Information Sharing and Analysis Center, a DHS-funded nonprofit agency, was cut because it “no longer supports Department priorities,” according to a letter DHS sent to the center last year, which was obtained by NBC News.
+“The fact that they’ve actually dismantled and defunded the very real, tried and true infrastructure that was in place in 2020 to protect our elections against foreign interference, that speaks for itself about where their focus really is,” said Michigan Secretary of State Jocelyn Benson, a Democrat who is running for governor. “State officials are all we have left in terms of guardrails over all these processes.”
+Benson said she has been trying to get the funding to hire former CISA employees to work for the state and try to “reknit” those federal systems back together for upcoming elections in Michigan.
+“It’s harder now than it was, because we had these tools, and we came to rely on these tools,” said Arizona Secretary of State Adrian Fontes, a Democrat. “You can kind of jimmy up a solution to your problem, but those other tools that you were used to that can give you the best results are not there.”
+When an Arizona elections web portal was hacked last year , Fontes broke from tradition and chose to alert state authorities only, not the federal government.
+Colorado Secretary of State Jena Griswold said that her state has built its own threat-monitoring operation to replace the one CISA no longer funds but that the loss of the federal government’s resources and analysts has been felt.
+“We do pick up a lot of it. I can’t tell you what we’re missing,” said Griswold, a Democrat. “If there’s the same cyberattack happening in three states, we can tell people what’s happening in our state. But we don’t know what’s happening in other states.”
+Several secretaries said intelligence briefings from the federal government were invaluable during the first Trump administration.
+“In Trump 1.0, the Department of Homeland Security and CISA in particular were excellent partners,” said Minnesota Secretary Steve Simon, a Democrat.
+Connecticut’s Democratic secretary of state, Stephanie Thomas, said her office was able to conduct public information campaigns to counter disinformation it knew was coming down the pike because of those briefings.
+“But now, who knows? We have no briefings,” she said.
+Simon and Thomas separately said they reached out to the federal government last year in hope of continuing the briefings but never got responses.
+Thomas’ office confirmed Friday that the FBI’s election briefing invitation was the first time it had heard from the Trump administration about anything other than voter rolls. Connecticut is one of the dozens of states the Justice Department has sued to try to obtain their unredacted voter rolls.
+The voter roll lawsuits have frustrated state election officials, who say they’ve been unable to get answers about what the federal government wants with data that includes Social Security numbers and other protected, personal information.
+Asked about the Trump administration’s reduced support for state election security, the White House touted Trump’s support for new voting restrictions.
+“President Trump is committed to ensuring that Americans have full confidence in the administration of elections, and that includes totally accurate and up-to-date voter rolls free of errors and unlawfully registered non-citizen voters," White House spokeswoman Abigail Jackson said in a statement. “The President has also urged Congress to pass the SAVE Act and other legislative proposals that would establish a uniform standard of photo ID for voting, prohibit no-excuse mail-in voting, and end the practice of ballot harvesting to ensure the safety and security of our elections.”
+Not all states were as reliant on CISA as others. Aguilar said Nevada started investing in its own systems before Trump was elected in 2024.
+And New Hampshire Secretary of State David Scanlon, a Republican, touted his state’s cybersecurity work.
+“It’s the ‘Live Free or Die’ state. We have had a tendency not to rely on federal assistance with our election process,” he said. “I’m comfortable that we can handle whatever issues get thrown at us whether the federal government is going to be involved or not.”
+Other Republican secretaries of state also cast less blame on the Trump administration.
+West Virginia Secretary of State Kris Warner said he has worked with the U.S. Election Assistance Commission, a bipartisan federal agency aimed at helping states run their elections, and the Trump administration during midterm preparations.
+Warner, who was elected in 2024, said they’d also begun working with a local university on vulnerability assessments, which other state officials said CISA had done for them.
+At the NASS conference in Washington, Maine Secretary of State Shenna Bellows, a Democrat, pushed the lone White House aide in attendance, Jared Borg, to explain Trump’s executive order on elections, in which he tried to force a documentary proof-of-citizenship requirement and make other major election changes.
+“So how do you square the executive order with the Constitution and the legislative arm?” she said, noting that the Constitution orders states to oversee elections with some regulation from Congress.
+Borg said the question would be best answered by Homeland Security Secretary Kristi Noem and Attorney General Pam Bondi, who he said would speak at the conference the following day.
+The next day, Bellows was among the audience members waiting for them to appear at an afternoon session. But it ended up being canceled at the last minute.

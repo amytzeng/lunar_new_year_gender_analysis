@@ -1,0 +1,8 @@
+article_id: cbs_161
+url: https://www.cbsnews.com/losangeles/video/amber-lees-next-weather-forecast-110/
+title: Amber Lee’s NEXT Weather forecast
+date: 2026-03-06
+author: 
+matched_keywords: Lunar New Year
+content:
+©2026 CBS Broadcasting Inc. All Rights Reserved.

@@ -1,0 +1,19 @@
+article_id: nbc_65
+url: https://www.nbcnews.com/tech/security/google-gemini-hit-100000-prompts-cloning-attempt-rcna258657
+title: Google says attackers used 100,000+ prompts to try to clone AI chatbot Gemini
+date: 2026-03-06
+author: 
+matched_keywords: Lunar New Year
+content:
+Google says its flagship artificial intelligence chatbot, Gemini, has been inundated by “commercially motivated” actors who are trying to clone it by repeatedly prompting it, sometimes with thousands of different queries — including one campaign that prompted Gemini more than 100,000 times.
+In a report published Thursday, Google said it has increasingly come under “distillation attacks,” or repeated questions designed to get a chatbot to reveal its inner workings. Google described the activity as “model extraction,” in which would-be copycats probe the system for the patterns and logic that make it work. The attackers appear to want to use the information to build or bolster their own AI, it said.
+The company believes the culprits are mostly private companies or researchers looking to gain a competitive advantage. A spokesperson told NBC News that Google believes the attacks have come from around the world but declined to share additional details about what was known about the suspects.
+The scope of attacks on Gemini indicates that they most likely are or soon will be common against smaller companies’ custom AI tools, as well, said John Hultquist, the chief analyst of Google’s Threat Intelligence Group.
+“We’re going to be the canary in the coal mine for far more incidents,” Hultquist said. He declined to name suspects.
+The company considers distillation to be intellectual property theft, it said.
+Tech companies have spent billions of dollars racing to develop their AI chatbots, or large language models, and consider the inner workings of their top models to be extremely valuable proprietary information.
+Even though they have mechanisms to try to identify distillation attacks and block the people behind them, major LLMs are inherently vulnerable to distillation because they are open to anyone on the internet.
+OpenAI, the company behind ChatGPT, accused its Chinese rival DeepSeek last year of conducting distillation attacks to improve its models.
+Many of the attacks were crafted to tease out the algorithms that help Gemini “reason,” or decide how to process information, Google said.
+Hultquist said that as more companies design their own custom LLMs trained on potentially sensitive data, they become vulnerable to similar attacks.
+“Let’s say your LLM has been trained on 100 years of secret thinking of the way you trade. Theoretically, you could distill some of that,” he said.

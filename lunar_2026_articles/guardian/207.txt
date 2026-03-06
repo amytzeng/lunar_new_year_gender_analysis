@@ -1,0 +1,8 @@
+article_id: guardian_207
+url: https://www.theguardian.com/profile/caspar-salmon
+title: Caspar Salmon | The Guardian
+date: 2026-03-06
+author: 
+matched_keywords: Lunar New Year
+content:
+Caspar Salmon is a film writer based in London

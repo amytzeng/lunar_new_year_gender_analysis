@@ -1,0 +1,8 @@
+Filter Statistics
+============================================================
+Total articles: 1870
+Relevant articles: 104
+Irrelevant articles: 1766
+Relevance ratio: 5.56%
+Processing time: 471.36 seconds
+Processed at: 2026-03-06 21:37:45

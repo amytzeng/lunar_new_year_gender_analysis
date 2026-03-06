@@ -1,0 +1,8 @@
+article_id: guardian_226
+url: https://www.theguardian.com/profile/isabella-lee
+title: Isabella Lee | The Guardian
+date: 2026-03-06
+author: 
+matched_keywords: Lunar New Year
+content:
+Isabella Lee is a production assistant at Guardian Australia

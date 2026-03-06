@@ -1,0 +1,25 @@
+article_id: ap_4
+url: https://apnews.com/article/nasa-moon-artemis-astronauts-83132fc4f86c3491984844fc309e25d2
+title: NASA revamps Artemis moon landing program by modeling it after speedy Apollo
+date: 2026-03-06
+author: 
+matched_keywords: Lunar New Year
+content:
+NASA said Friday it’s revamping its Artemis moon exploration program to make it more like the fast-paced Apollo program half a century ago, adding an extra practice flight before attempting a high-risk lunar landing with a crew in two years.
+The overhaul in the flight lineup came just two days after NASA’s new moon rocket returned to its hangar for more repairs, and a safety panel warned the space agency to scale back its overly ambitious goals for humanity’s first lunar landing since 1972.
+Artemis II, a lunar fly-around by four astronauts, is off until at least April because of rocket problems.
+The follow-up mission, Artemis III, had been targeting a landing near the moon’s south pole by another pair of astronauts in about three years. But with long gaps between flights and concern growing over the readiness of a lunar lander and moonwalking suits, NASA’s new administrator Jared Isaacman announced that mission would instead focus on launching a lunar lander into orbit around Earth in 2027 for docking practice by astronauts flying in an Orion capsule.
+The new plan calls for a moon landing — potentially even two moon landings — by astronauts in 2028.
+“Everybody agrees. This is the only way forward,” Isaacman said.
+The hydrogen fuel leaks and helium flow problems that struck the Space Launch System rocket on the pad at NASA’s Kennedy Space Center earlier this month had also plagued the first Artemis test flight without a crew in 2022.
+Another three-year gap was looming between Artemis II and the moon landing by astronauts as originally envisioned, Isaacman said.
+Isaacman stressed that “it should be incredibly obvious” that three years between flights is unacceptable. He’d like to get it down to one year or even less.
+Isaacman, a tech billionaire who bought his own trips to orbit and performed the world’s first private spacewalk , took the helm at NASA in December.
+During NASA’s storied Apollo program, he said, astronauts’ first flight to the moon was followed by two more missions before Neil Armstrong and Buzz Aldrin landed on the moon. What’s more, he added, the Apollo moonshots followed one another in quick succession, just as the earlier Projects Mercury and Gemini had rapid flight rates, sometimes coming just a few months apart.
+Twenty-four Apollo astronauts flew to the moon from 1968 through 1972, with 12 of them landing.
+“No one at NASA forgot their history books. They knew how to do this,” Isaacman said. “Now we’re putting it in action.”
+To pick up the pace and reduce risk, NASA will standardize its Space Launch System rockets moving forward, Isaacman said. These are the massive rockets that will launch astronauts to the moon aboard Orion capsules. At the same time, Elon Musk’s SpaceX and Jeff Bezos’ Blue Origin are speeding up their work on the landers needed to get the astronauts from lunar orbit down to the surface.
+Isaacman said next year will see an Orion crew rendezvousing in orbit around Earth with SpaceX’s Starship, Blue Origin’s Blue Moon or both landers. It’s similar to the methodical approach that worked so well during Apollo in the late 1960s, he noted. Apollo 8, astronauts’ first flight to the moon, was followed by two more missions before Armstrong and Aldrin aimed for the lunar surface.
+“We should be getting back to basics and doing what we know works,” he said.
+The Aerospace Safety Advisory Panel recommended this week that NASA revise its objectives for Artemis III “given the demanding mission goals.” It’s urgent the space agency do that, the panel said, if the United States hopes to safely return astronauts to the moon. Isaacman said the revised Artemis flight plan addresses the panel’s concerns and is supported by industry and the Trump administration.
+The Associated Press Health and Science Department receives support from the Howard Hughes Medical Institute’s Department of Science Education and the Robert Wood Johnson Foundation. The AP is solely responsible for all content.

@@ -1,0 +1,31 @@
+article_id: ap_305
+url: https://apnews.com/article/anthropic-military-ai-hegseth-department-of-defense-f05674f7195051ab843e5087d12c8cf8
+title: What to know about Defense Protection Act and the Pentagon’s Anthropic ultimatum
+date: 2026-03-06
+author: 
+matched_keywords: Lunar New Year
+content:
+NEW YORK (AP) — Defense Secretary Pete Hegseth gave Anthropic an ultimatum this week: Open its artificial intelligence technology for unrestricted military use by Friday, or risk losing its government contract.
+Defense officials in the Trump administration also warned they could designate Anthropic , which makes the AI chatbot Claude , as a supply chain risk — or invoke a Cold War-era law called the Defense Production Act to give the military more sweeping authority to use its products, even if the company doesn’t approve.
+Some experts say that using the law this way would be unprecedented, and could bring future legal challenges. The government’s efforts to essentially force Anthropic’s hand also underscore a wider, contentious debate over AI’s role in national security.
+The Defense Production Act gives the federal government broad authority to direct private companies to meet the needs of national defense.
+The act was signed by President Harry S. Truman in 1950 amid supply concerns during the Korean War. But over its now decades-long history, the law’s powers have been invoked not only in times of war but also for domestic emergency preparedness, as well as recovery from terrorist attacks and natural disasters.
+One of the act’s provisions allows the president to require companies to prioritize government contracts and orders deemed necessary for national defense, with the goal of ensuring the private sector is producing enough goods needed during war or other emergencies. Other provisions give the president the ability to use loans and additional incentives to increase production of critical goods, and authorize the government to establish voluntary agreements with private industry.
+The DPA is “one of the government’s most powerful and adaptable industrial policy tools,” said Joel Dodge, an attorney and the director of industrial policy and economic security at the Vanderbilt Policy Accelerator.
+Anthropic is the last of its AI peers to not supply its technology to a new U.S. military internal network . CEO Dario Amodei repeatedly has made clear his ethical concerns about unchecked government use of AI, including the dangers of fully autonomous armed drones and of AI-assisted mass surveillance that could track dissent.
+The Pentagon has maintained that it has no interest in using AI for mass surveillance or to develop autonomous weapons to operate without human involvement.
+If the Defense Department does invoke the DPA to give the military more authority to use Anthropic’s products without its approval, that could mean forcing the company to adapt its model to the Pentagon’s needs without built-in safety limits, or remove certain ethical restrictions from the company’s contract language.
+Experts like Dodge say both would be “without precedent under the history of the DPA.”
+“It’s a powerful law,” he said. ”(But) it has never been used to compel a company to produce a product that it’s deemed unsafe, or to dictate its terms of service.”
+Trump in his first term and former President Joe Biden invoked the DPA to boost supplies to combat the COVID-19 pandemic. And during 2022’s nationwide baby formula shortage , Biden used the law to speed production of formula and authorize flights to import supply from overseas.
+Biden also invoked the DPA in a 2023 executive order on AI, notably in efforts to require that companies share safety test results and other information with the government. Trump repealed the order at the start of his second term.
+Decades ago, the administrations of both President Bill Clinton and George W. Bush used the DPA to ensure that electricity and natural gas shippers continued supplying California utilities amid an energy crisis. And the law was used after Hurricane Maria struck Puerto Rico in 2017 to prioritize contracts for food, bottled water, manufactured housing units and the restoration of electrical systems.
+The DPA requires periodic reauthorization to remain in effect, which can expand or refine the scope of the law. According to congressional documents, its next expiration date is slated for Sept. 30 of this year. Depending on how the Defense Department’s reported demands unfold, Anthropic could be at the top of lawmakers’ minds.
+If the Defense Department uses the DPA provision aimed at prioritizing government contracts and ordering production of certain goods — which the Anthropic case suggests it would — a company can push back if the requested product isn’t something it already produces, Dodge and others say, or if it deems the terms to be unreasonable. But the government may try and overrule that, notes Charlie Bullock, senior research fellow at the Institute for Law & AI.
+“If neither side backs down, it seems realistic that there would be litigation between Anthropic and the government,” Bullock said.
+Some have also noted tension between the Pentagon’s warning that it could designate Anthropic as a supply chain risk while also indicating its products are so important to national defense that it needs to invoke the DPA — two assertions that seem at odds with each other.
+Defense officials appeared to be backing away from the DPA option on Thursday, when Chief Pentagon spokesperson Sean Parnell wrote on social media that if Anthropic didn’t agree to cooperate by 5:01 p.m. ET on Friday, “we will terminate our partnership with Anthropic and deem them a supply chain risk.”
+“We will not let ANY company dictate the terms regarding how we make operational decisions,” Parnell added.
+Dodge thinks the administration is counting on “a lot of forces” as it aims to get Anthropic to bend on Friday.
+If Anthropic agrees to new terms in the face of such threats, that could open up “a Pandora’s box of what the government could do to assert power and control over private companies,” Dodge said.
+Associated Press Writers Matt O’Brien in Providence, Rhode Island and Konstantin Toropin and David Klepper in Washington contributed to this report.

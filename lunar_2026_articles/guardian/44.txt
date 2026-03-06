@@ -1,0 +1,21 @@
+article_id: guardian_44
+url: https://www.theguardian.com/technology/2026/feb/27/block-ai-layoffs-jack-dorsey
+title: Jack Dorsey to cut 4,000 jobs due to AI advances at Square parent Block
+date: 2026-03-06
+author: 
+matched_keywords: Lunar New Year
+content:
+Fintech company Block announced that it would be laying off 4,000 of its 10,000 employees because of gains in AI productivity.
+“Intelligence tools have changed what it means to build and run a company,” Jack Dorsey , Block’s CEO, said in a letter to shareholders on Thursday. “We’re already seeing it internally. A significantly smaller team, using the tools we’re building, can do more and do it better. And intelligence tool capabilities are compounding faster every week.” Block is the parent company for online payment platforms such as Square and Cash App.
+Investors so far appear encouraged by Dorsey’s assertion that the cuts, and increased reliance on AI, will drive profitability, analysts said. Shares increased more than 20% in pre-market trading on Friday.
+Block’s layoffs speak to larger fears about job cuts driven by a growing use of AI. Goldman Sachs noted in February that the increasing pace of AI adoption could drive up unemployment this year, and estimated that the technology had already resulted in 5,000 to 10,000 monthly net job losses last year. A November study from the Massachusetts Institute of Technology found that AI could already replace nearly 12% of the workforce in the US.
+The tech sector is among the most hit, and workers at other tech companies are feeling the heat, too. Marc Benioff’s Salesforce cut about 4,000 jobs last year, with the CEO saying that he “needs less heads” given AI’s efficiency.
+Dorsey claimed on Thursday that the decision to almost halve Block’s workforce wasn’t because the business was in trouble, and that economic performance had actually been strong. (Block beat Wall Street expectations for its fourth quarter, reporting $6.25 bn in total revenue).
+Dorsey said on X that he had two choices: gradually cut his workforce over months and years – “or be honest about where we are and act on it now”.
+He wrote: “Repeated rounds of cuts are destructive to morale, to focus and to the trust that customers and shareholders place in our ability to lead.”
+Block executives said on Thursday’s earnings call that the company had been increasing its reliance on AI for years, noting that some AI work streams were “nearly fully rolled out, others are earlier in their maturity”.
+Block had already laid off hundreds of workers in early February. Earlier this month, employees still at the company reported that there was rapidly deteriorating employee morale and that there were requirements to use generative AI, according to Wired .
+Wired said it reviewed an employee complaint submitted to Dorsey in a recent all-hands meeting that said “morale is probably the worst I’ve felt in four years” and that “the overarching culture at Block is crumbling”.
+Dorsey acknowledged the risk of the cuts on X, and in his message to shareholders. The company’s most recent 10-K filing outlined ways its AI gamble could go wrong. “Our ability to successfully operate with a reduced workforce is expected to depend in part on the effectiveness, reliability and adoption of our proactive intelligence and AI tools,” the company noted. “These technologies may not perform as expected, may require more time or expense to implement effectively, may introduce operational or cybersecurity risks or may fail to enhance productivity and maintain operational efficiency as expected.”
+“For years, we have debated whether AI would dent jobs at the margin. Now we have a public case study in which the CEO explicitly says that intelligence tools have changed what it means to build and run a company,” Stephen Innes of SPI Asset Management told the Associated Press.
+He said: “Other large employers have announced tens of thousands of cuts in recent months. Some have downplayed the AI link. Block did not.”

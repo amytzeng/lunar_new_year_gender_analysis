@@ -1,0 +1,8 @@
+article_id: cbs_7
+url: https://www.cbsnews.com/detroit/video/families-celebrate-lunar-new-year-in-madison-heights/
+title: Families celebrate Lunar New Year in Madison Heights
+date: 2026-03-06
+author: 
+matched_keywords: Lunar New Year
+content:
+©2026 CBS Broadcasting Inc. All Rights Reserved.

@@ -1,0 +1,8 @@
+article_id: cbs_139
+url: https://www.cbsnews.com/video/artemis-nasas-program-to-send-people-back-to-the-moon-60-minutes-archive/
+title: Artemis: NASA's program to send people back to the moon | 60 Minutes Archive
+date: 2026-03-06
+author: 
+matched_keywords: Lunar New Year
+content:
+Copyright ©2026 CBS Interactive Inc. All rights reserved.

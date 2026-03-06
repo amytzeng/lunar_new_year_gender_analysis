@@ -1,0 +1,8 @@
+article_id: cbs_90
+url: https://www.cbsnews.com/colorado/video/aurora-fest-scheduled-to-take-place-on-june-13/
+title: Aurora Fest scheduled to take place on June 13
+date: 2026-03-06
+author: 
+matched_keywords: Lunar New Year
+content:
+©2026 CBS Broadcasting Inc. All Rights Reserved.

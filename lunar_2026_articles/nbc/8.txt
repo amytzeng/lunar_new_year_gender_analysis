@@ -1,0 +1,25 @@
+article_id: nbc_8
+url: https://www.nbcnews.com/politics/congress/house-rejects-air-safety-bill-families-potomac-river-dca-crash-look-rcna260516
+title: House rejects air safety bill as families of deadliest U.S. crash in 25 years look on
+date: 2026-03-06
+author: 
+matched_keywords: Lunar New Year
+content:
+WASHINGTON — The House rejected an aviation safety bill Tuesday that the Senate unanimously passed in response to the deadly midair collision between an American Airlines regional jet and an Army Black Hawk helicopter over the Potomac River last year.
+Family members of some of the 67 crash victims looked on from the gallery above the chamber as House members voted on the ROTOR Act.
+Senate Commerce Committee Chairman Ted Cruz, R-Texas, the author of the bill, was spotted on the House floor trying to whip last-minute support for it. He was seen consoling family members after the failed vote.
+The tally was 264-133 , falling just short of the two-thirds threshold needed to pass since it was being fast-tracked under a procedure known as “suspension of the rules.” Speaker Mike Johnson, R-La., and his entire GOP leadership team voted against the bill after the Defense Department came out against it Monday.
+“I think there was a lot of misunderstanding and misinformation that was put out,” Cruz told reporters after the House vote, vowing not to give up. “We came within a couple of votes of two-thirds. An overwhelming majority of the House voted for ROTOR, and I believe we’re going to pass it.”
+The Rotorcraft Operations Transparency and Oversight Reform, or ROTOR, Act would establish “new requirements for virtually all aircraft and helicopters to use Automatic Dependent Surveillance — Broadcast (ADS-B)” — a technology that broadcasts an aircraft’s location.
+The legislation passed the Senate by unanimous consent in December, giving it momentum as it headed to the House. But the Pentagon pulled its support Monday.
+Sean Parnell, the Pentagon's top spokesman, said in a statement Monday that while the department worked with the Senate on the legislation, it "does not reflect several of the mutually discussed updates" and could disrupt "national defense activities."
+“As currently drafted, enactment would create significant unresolved budgetary burdens and operational security risks affecting national defense activities,” Parnell said. “The Department remains ready to continue productive dialogue with Congress to ensure the legislation achieves its safety goals while protecting essential operational capabilities and resources.”
+House Transportation Committee Chairman Sam Graves, R-Mo., voiced opposition to the legislation Monday night, as well, saying in a statement that “any successful directive or mandate from Congress will be calculated, scalable, and future proof — not a blanket mandate that limits the aviation community to one technology.”
+Graves pledged to bring up a rival, House-led aviation safety bill called the ALERT Act in his committee for a markup as soon as next week.
+“If the ROTOR Act is not approved by the House today, I commit to the supporters of that legislation, to the accident victims’ families, and to the aviation community, that the Transportation and Infrastructure Committee will mark up the ALERT Act as soon as next week and work with our colleagues in the Senate to get this right,” Graves said in a statement Tuesday. “Safety will always be my number one priority, which is why it is vital that we address the NTSB’s recommendations in a timely manner.”
+The ALERT Act is bipartisan and led by the chairs and ranking members of the Transportation and Armed Services committees.
+House GOP Policy Committee Chairman Kevin Hern, R-Okla., a member of Johnson’s leadership team, echoed Graves’ desire to take up the House alternative.
+“I don’t think [the ROTOR Act] went far enough for safety,” Hern said in an interview after Tuesday's vote. “As a pilot for 45 years, there’s not a pilot that I know or have known that doesn’t want to be as safe and secure as possible — not only for their own lives but for the lives of those flying around. And the House bill does a great job.”
+The U.S. government admitted in court documents to failures that led to the midair collision over the Potomac River near Reagan National Airport on Jan. 29, 2025. Sixty passengers and four crew members on American Airlines Flight 5342 were killed; three soldiers on the military helicopter were also killed.
+There were no survivors. It was the deadliest plane crash in the U.S. since 2001.
+“The United States admits that it owed a duty of care to Plaintiffs, which it breached, thereby proximately causing the tragic accident,” attorneys for the government said in a court filing.

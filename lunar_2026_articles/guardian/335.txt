@@ -1,0 +1,45 @@
+article_id: guardian_335
+url: https://www.theguardian.com/news/2026/feb/13/the-crunch-political-donations-exceptional-figure-skating-and-the-year-of-the-horse
+title: The Crunch: political donations, exceptional figure skating and the year of the horse
+date: 2026-03-06
+author: 
+matched_keywords: Lunar New Year
+content:
+Hello and welcome to another edition of The Crunch!
+In this week’s newsletter we have charts on Venezuelan oil , how countries can decouple emissions and GDP growth , some nice pieces from the Winter Olympics , and a tribute to the many great graphics and data staff who have been laid off from the Washington Post . Also, read to the end for a couple of nice things about horses !
+It was political donations disclosure season in Australia and we spent a good couple of days crunching the numbers on the amount of money going to different places.
+If you don’t account for inflation, then the amount of donations is now the largest on record and that is even without looking at Clive Palmer’s contribution .
+We also took a look at so-called “dark money”, which is the amount of money that a party has received for which we don’t know the source.
+However, probably my (Nick’s) favourite chart of donations was this one, comparing the amount of money donated by people named Scott Farquhar:
+There is a serious side to this chart – the government has changed how donations are declared in Australia, so it is now harder for journalists and citizens to know exactly who the people donating money are .
+1. Can we grow without heating the planet?
+Our colleague Alex Clark has an interesting piece looking at the enormous levels of Co2 associated with increasing GDP/living standards. There’s a couple of animated line charts and a scatter in here that really hammer this point home:
+The piece is part of the Beyond Growth series produced by our UK colleagues and it has some other interesting pieces like this one about re-thinking economics , and a closer look at how Romania separated GDP growth from emissions .
+2. Hop, skip and a big jump
+The New York Times has some great visuals covering the Winter Olympics, including who is leading the medal count, and a breakdown of how Kira Kimura won a gold in snowboarding.
+But we learned a lot from this story about why landing a “quad axel” (a jump with four-and-a-half turns) is so hard in figure skating. It includes high speed camera footage of American Ilia Malinin doing the jump and this chart showing how exceptional it is:
+Landing backwards, with eight to 10 times your body weight isn’t for the feint of heart. This breakdown also reminded us of a piece from the ABC during the 2024 Olympics. We also took a look at medal counts in 2024.
+3. The heavy cost of the Syrian civil war
+Hundreds of thousands of Syrians have been killed in the civil war since it began in 2011. But as Our World in Data points out , the numbers of those killed in fighting is just one part of the cost of war:
+The Syrian civil war increased deaths from all causes, and millions were displayed and pushed into poverty.
+4. How much, exactly?
+Reuters have a very nicely designed animated/side scrolling piece looking at Venezuelan oil:
+The oil barrel progress bar and oil slowly revealing the white on white text are just really neat touches.
+Al Jazeera also has this mind-melting visualisation where they show the scale of all of Venezuela’s oil as a huge three-dimensional object .
+We’ve linked to more than 20 Post stories since this newsletter began – one of the single biggest sources. Many of the journalists who made those visuals were among the more than 300 laid off last week.
+So we’re dedicating this section to some of our favourite Washington Post visualisations from the past couple of years, starting with this story looking at how (in)accessible Winter Olympic sports are :
+There are some great maps in there showing the inequality of access to winter sports, and how this correlates with the number of athletes. We wonder what it would look like for Australia!
+Here are some of our other favourites stories:
+How snowflakes get their intricate shapes
+Voting patterns in US presidential elections
+Rising temperatures are fueling more dangerous floods
+The story of three families affected by the LA wildfires
+How TikTok keeps its users scrolling
+Illustrated cards of 50 species that help humans in different ways
+The Post’s union has started a fundraiser to support affected staff.
+The South China Morning Post has this lovely illustrated guide for the upcoming year of the horse ($), with some nice hand-drawn animations, spinning zodiacs and more!
+Elsewhere on the internet, our team has been loving this fun web experiment which involves drawing a horse , then watching it get animated and run along with all the other hand-drawn horses.
+This Isometric NYC project is extremely cool and was also a big contender for this week’s Off The Charts but unfortunately, due to lack of horses and permission to use a screenshot, it has now been relegated to a footnote, but check it out all the same.
+If you would like to receive The Crunch to your email inbox every fortnight, sign up here .
+What should we feature in the next edition? Did we miss anything awesome this week? Let us know by replying to this newsletter or in the comments of the web version.
+If you are a Guardian supporter and need assistance with regards to contributions and/or digital subscriptions, please email customer.help@guardian.co.uk

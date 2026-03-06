@@ -1,0 +1,8 @@
+article_id: cbs_276
+url: https://www.cbsnews.com/detroit/video/investigators-race-to-find-nancy-guthrie/
+title: Investigators race to find Nancy Guthrie
+date: 2026-03-06
+author: 
+matched_keywords: Lunar New Year
+content:
+©2026 CBS Broadcasting Inc. All Rights Reserved.

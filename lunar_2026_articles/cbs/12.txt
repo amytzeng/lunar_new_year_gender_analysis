@@ -1,0 +1,8 @@
+article_id: cbs_12
+url: https://www.cbsnews.com/chicago/video/lunar-new-year-parade-held-in-chicagos-uptown-neighborhood/
+title: Lunar New Year Parade held in Chicago's Uptown neighborhood
+date: 2026-03-06
+author: 
+matched_keywords: Lunar New Year
+content:
+©2026 CBS Broadcasting Inc. All Rights Reserved.

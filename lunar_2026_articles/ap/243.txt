@@ -1,0 +1,36 @@
+article_id: ap_243
+url: https://apnews.com/article/supreme-court-tariffs-trump-ee971f36fbd3a3876909c37188dfee57
+title: What to know about the Supreme Court ruling on tariffs
+date: 2026-03-06
+author: 
+matched_keywords: Lunar New Year
+content:
+NEW YORK (AP) — The Supreme Court dealt President Donald Trump a bruising loss on a cornerstone of his economic policy, striking down sweeping tariffs he imposed on nearly every country.
+In its 6-3 opinion on Friday, the court ruled Trump’s attempt to use an emergency powers law to enact the levies was not valid.
+Two of the three justices appointed by Trump joined the majority in striking down the first major piece of his second-term agenda to come before them.
+Trump relied on the 1977 International Emergency Economic Powers Act, or IEEPA, as justification for a historic barrage of tariffs, even though that law contains no mention of tariffs. IEEPA, which allows the president to seize assets and block transactions during a national emergency, was first used during the Iran hostage crisis. It has since been invoked for a range of global unrest, from the 9/11 attacks to the Syrian civil war.
+The president said the U.S. trade deficit was so serious, it too qualified as an emergency, a contention the high court dismissed.
+“The fact that no President has ever found such power in IEEPA is strong evidence that it does not exist,” Chief Justice John Roberts wrote for the majority.
+In their opinion, the justices noted the Constitution “very clearly” gives Congress, not the president, the power to impose taxes, including tariffs.
+Justices Samuel Alito, Clarence Thomas and Brett Kavanaugh dissented.
+“The tariffs at issue here may or may not be wise policy. But as a matter of text, history, and precedent, they are clearly lawful,” Kavanaugh wrote.
+The Treasury had collected more than $133 billion from the import taxes the president has imposed under the emergency powers law as of December, federal data shows.
+But the Supreme Court did not address whether the companies and individuals who paid those tariffs could be refunded. Many companies, including the big-box warehouse chain Costco, have already lined up to demand refunds in lower courts. But even if some system for refunds is eventually set up, ordinary Americans may not see relief.
+Kavanaugh, who dissented from Friday’s decision, noted the process could be complicated.
+“The Court says nothing today about whether, and if so how, the Government should go about returning the billions of dollars that it has collected from importers. But that process is likely to be a ‘mess,’ as was acknowledged at oral argument,” Kavanaugh wrote.
+Trump said the court’s failure to address refunds meant it would result in years of litigation.
+The average person, who didn’t directly buy products from overseas but felt the weight of tariffs through higher prices on some products, is unlikely to share in any prospective windfall.
+Refunds, should they happen, would likely go primarily to companies that paid the levies.
+Early last year, Trump cited IEEPA to impose tariffs on America’s three biggest trading partners: Mexico, Canada and China. To justify the levies, he declared a national emergency over undocumented immigration and the trafficking of drugs like fentanyl and the chemicals made to use it.
+Then in April, on what Trump billed as “Liberation Day,” he imposed “reciprocal” tariffs of up to 50% on goods from dozens of countries — and a baseline 10% tariff on just about everyone else, also using IEEPA as justification.
+Trump also used IEEPA to slap steep import taxes on Brazilian imports, citing the country’s criminal prosecution of former President Jair Bolsonaro , and on India, for the country’s purchases of Russian oil .
+Many of the tariffs Trump has imposed under IEEPA have seen a roller coaster of activity after their implementation — taken away, increased and reintroduced at various times in the past year.
+While the Supreme Court’s decision upends many of the levies, others imposed by Trump relied on other justifications and are not affected.
+Most of America’s trading partners still face steep tariffs on specific sectors, including on steel, aluminum , cars , copper, lumber, kitchen cabinets , bathroom vanities and upholstered furniture.
+Trump was unsparing in his criticism of the decision, calling those voting with the majority “unpatriotic” and “disloyal,” and a “disgrace to our nation.”
+“Foreign countries that have been ripping us off for years are ecstatic. They’re so happy. And they’re dancing in the streets,” Trump said. “But they won’t be dancing for long.”
+Trump promised to press forward with his agenda, saying “there are methods, practices, statutes and authorities” that “are even stronger than the IEEPA tariffs.” Among Trump’s vows Friday was to sign an executive order to impose a new 10% global tariff to make up for the overturned levies.
+That new tax would be implemented under a federal law that limits such tariffs to 150 days. If Trump can convince Congress to go along with the plan, though, they could be extended legislatively.
+While Trump bemoaned the decision, many opponents of tariffs cheered it.
+We Pay the Tariffs, a group of small businesses that had fought the implementation of import taxes, called the decision a “tremendous victory” for companies that had been hurt by the tariffs.
+“They’ve taken out loans just to keep their doors open,” the group’s leader, Dan Anthony, said. “They’ve frozen hiring, canceled expansion plans, and watched their life savings drain away to pay tariff bills that weren’t in any budget or business plan. Today, the Supreme Court has validated what we’ve been saying all along: These tariffs were unlawful from the start.”

@@ -1,0 +1,31 @@
+article_id: ap_285
+url: https://apnews.com/article/stocks-markets-nvidia-block-trump-f248d9463d4dffc7a9ffa6635afda137
+title: US stocks sink and oil prices rise as worries about AI, inflation and possible war hit Wall Street
+date: 2026-03-06
+author: 
+matched_keywords: Lunar New Year
+content:
+NEW YORK (AP) — U.S. stocks sank Friday as Wall Street kept punishing companies that could become losers in the artificial-intelligence revolution. A surprisingly discouraging update on inflation also hurt the market, while oil prices climbed with worries about tensions between the United States and Iran .
+The S&P 500 fell 0.4% and staggered to the finish of just its second losing month in the last 10. The Dow Jones Industrial Average dropped 521 points, or 1.1%, the Nasdaq composite sank 0.9%.
+The losses came as investors returned to knocking down software companies and other businesses they suspect could get supplanted by AI-powered competitors.
+Block, the company behind Cash App, Square and other businesses, gave a potential signal of what AI could do after Chair Jack Dorsey said it’s cutting its workforce by nearly half. That’s even though he said 2025 was a strong year for the company, which is sending more cash to shareholders through stock buybacks.
+“Intelligence tools have changed what it means to build and run a company,” Dorsey said in a letter to investors while announcing Block’s latest profit results. “We’re already seeing it internally. A significantly smaller team, using the tools we’re building, can do more and do it better.”
+The co-founder of Twitter also said, “I don’t think we’re early to this realization. I think most companies are late. Within the next year, I believe the majority of companies will reach the same conclusion and make similar structural changes.”
+Block is cutting more than 4,000 jobs from its workforce of over 10,000. Its stock jumped 16.8% after making the announcement, while announcing its latest quarterly results.
+Capable AI tools that can replace humans could perhaps replace entire companies, or at least eat away at their profit margins. Fears about AI disruption have caused sudden and swift sell-offs for stocks seen as potentially under threat, and they’ve rolled through industries as different as trucking logistics and legal services.
+Salesforce, whose platform helps customers manage their relationships with clients, fell 2.3%. It gave back much of its 4% gain from the day before after reporting a better profit than analysts expected.
+The pain has also hit private-equity companies that have bought or lent money to software companies, which need to withstand the AI threat to keep repaying those loans. Apollo Global Management dropped 8.6% for the one of the sharpest losses in the S&P 500. Blue Owl Capital, which has been a target for investors because of the loans to it’s made to the software industry, fell 6%.
+Even the companies currently seeing their revenue and profit soar because of AI-related demand are under pressure. Nvidia fell 4.2% and was the heaviest weight on the U.S. stock market. A day earlier, it dropped to its worst loss since last spring even though it reported a better profit than analysts expected and forecast more in revenue for the current quarter.
+Rival chip companies also fell. Worries are hurting such companies not only about whether their stock prices rose too high in recent years but also whether the huge spending driving their growth can continue. Can big spenders like Amazon and Alphabet make back all their billions of dollars in AI investments through higher productivity and profits in the future?
+On the winning side of Wall Street was Netflix, which climbed 13.8% after walking away from its bid to buy Warner Bros. Discovery’s studio and streaming business. That put Skydance-owned Paramount in a position to take over its Hollywood rival.
+Paramount Skydance shares jumped 20.8%, while Warner Bros. Discovery fell 2.2%.
+All told, the S&P 500 fell 29.98 points to 6,878.88. The Dow Jones Industrial Average dropped 521.28 to 48,977.92, and the Nasdaq composite sank 210.17 to 22,668.21.
+Some of the strongest action in financial markets was for oil, where the price for a barrel of benchmark U.S. crude rose 2.8% to settle at $67.02. It’s the latest swing in a market unsettled by tensions between the United States and Iran over Iran’s nuclear program .
+The U.S. military has already gathered a massive fleet of aircraft and warships in the Middle East, and a conflict could disrupt the global flow of oil and drive prices higher.
+Brent crude, the international standard, rose 2.4% to $72.48 per barrel.
+Also hurting the broad market was a report showing that inflation at the U.S. wholesale level was at 2.9% last month, much higher than the 1.6% that economists expected.
+That could pressure the Federal Reserve to hold off longer on its cuts to interest rates. Lower rates would give the economy and prices for investments a boost, but they risk worsening inflation at the same time.
+In the bond market, the yield on the 10-year Treasury sank to 3.96%. It briefly swiveled higher following the inflation report, but it’s down from its 4.02% level late Thursday. Treasury yields often fall when nervousness is high and investors are moving into investments that are considered safer.
+ln stock markets abroad, indexes were mixed in Europe and Asia. South Korea’s Kospi fell 1% from its latest record, and Hong Kong’s Hang Seng rose 0.9% for two of the world’s larger moves.
+AP Business Writers Matt Ott and Elaine Kurtenbach contributed.
+Earlier versions of the story incorrectly referred to Apollo Global Management as Blue Apollo Global Management.

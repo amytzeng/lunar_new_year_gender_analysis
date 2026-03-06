@@ -1,0 +1,8 @@
+article_id: cbs_205
+url: https://www.cbsnews.com/losangeles/video/former-fbi-agent-dennis-franks-discusses-the-latest-on-the-nancy-guthrie-case/
+title: Former FBI agent Dennis Franks discusses the latest on the Nancy Guthrie case
+date: 2026-03-06
+author: 
+matched_keywords: Lunar New Year
+content:
+©2026 CBS Broadcasting Inc. All Rights Reserved.

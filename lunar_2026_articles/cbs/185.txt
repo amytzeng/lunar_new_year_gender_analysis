@@ -1,0 +1,8 @@
+article_id: cbs_185
+url: https://www.cbsnews.com/losangeles/video/city-holds-special-meeting-on-recent-moreno-valley-mall-closure/
+title: City holds special meeting on recent Moreno Valley Mall closure
+date: 2026-03-06
+author: 
+matched_keywords: Lunar New Year
+content:
+©2026 CBS Broadcasting Inc. All Rights Reserved.

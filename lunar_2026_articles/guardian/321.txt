@@ -1,0 +1,10 @@
+article_id: guardian_321
+url: https://www.theguardian.com/lifeandstyle/2026/feb/28/sudoku-7227-expert
+title: Sudoku 7,227 expert
+date: 2026-03-06
+author: 
+matched_keywords: Lunar New Year
+content:
+Click here to access the print version.
+Fill the grid so that every row, every column and every 3x3 box contains the numbers 1 to 9.
+To see the completed puzzle, buy the next issue of the Guardian (for puzzles published Monday to Thursday). Solutions to Friday and Saturday puzzles are given in either Saturday’s or Monday’s edition.

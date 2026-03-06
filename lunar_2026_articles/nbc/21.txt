@@ -1,0 +1,21 @@
+article_id: nbc_21
+url: https://www.nbcnews.com/world/asia/robotic-dog-made-china-gets-indian-university-kicked-ai-summit-rcna259682
+title: A robotic dog made in China gets an Indian university kicked out of an AI summit
+date: 2026-03-06
+author: 
+matched_keywords: Lunar New Year
+content:
+NEW DELHI — A private Indian university was booted from a top artificial intelligence summit in New Delhi on Wednesday after one of its staffers displayed a commercially available robotic dog made in China , claiming it was the university’s own innovation.
+According to two government officials, Galgotias University was ordered to take down its stand at the summit a day after the university’s professor of communications, Neha Singh, told state-run broadcaster DD News that robotic dog Orion was developed by the Centre of Excellence at the university.
+Internet users, however, quickly identified the robot as the Unitree Go2, sold by China’s Unitree Robotics with a starting price tag of $1,600 and used widely in research and education.
+On Wednesday, Singh told reporters she never explicitly claimed the dog was the university’s own creation, but only an exhibit.
+The incident was an embarrassment for host country India , the two government officials said, speaking on condition of anonymity as they were not authorized to speak to the media.
+A statement from Galgotias on Tuesday said the university was “deeply pained” and described the incident as a “propaganda campaign” that could spread negativity and harm the morale of students working to innovate, learn and build their skills using global technologies.
+Then, in a new statement on Wednesday, the university apologized for the confusion and said Singh, its representative at the AI summit pavilion, was not authorized to talk to the media and was “ill-informed.”
+“She was not aware of the technical origins of the product and in her enthusiasm at being on camera, gave factually incorrect information,” it said.
+It was not immediately clear whether the university had removed its booth from the summit.
+Still, the episode underscores the high stakes for India as it tries to cast itself as a global hub for AI and advanced manufacturing, drawing billions of dollars in investments while stressing credibility and local innovation.
+The summit kicked off Monday with some organizational hiccups as attendees and exhibitors reported long lines and delays at the venue. Several exhibitors took to social media to complain that their personal belongings and products on display were stolen. Organizers later said the items were recovered and returned.
+The India AI Impact Summit, billed as a flagship event in the Global South, is being attended by at least 20 heads of state and governments, including French President Emmanuel Macron and Brazilian President Luiz Inácio Lula da Silva .
+Indian Prime Minister Narendra Modi will address a session Thursday.
+Also expected to attend are Google Chief Executive Sundar Pichai, Qualcomm CEO Cristiano Amon, OpenAI CEO Sam Altman, Microsoft President Brad Smith and AMI Labs Executive Chairman Yann LeCun.

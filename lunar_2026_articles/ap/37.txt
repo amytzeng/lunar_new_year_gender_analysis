@@ -1,0 +1,21 @@
+article_id: ap_37
+url: https://apnews.com/article/nasa-artemis-moon-astronauts-1e02b236e110e02c0241a581a311bb25
+title: NASA delays astronaut moon mission again after new rocket problem
+date: 2026-03-06
+author: 
+matched_keywords: Lunar New Year
+content:
+CAPE CANAVERAL, Fla. (AP) — In the latest setback to return astronauts to the moon, NASA delayed the highly anticipated flight yet again after a new problem cropped up with the rocket Saturday.
+April is now the earliest that the four Artemis II astronauts could fly to the moon.
+NASA revealed the latest problem just one day after targeting March 6 for Artemis II, humanity’s first flight to the moon in more than half a century. Overnight, the flow of helium to the rocket’s upper stage was interrupted, officials said. Solid helium flow is essential for purging the engines and pressurizing the fuel tanks.
+This helium issue has nothing to do with the hydrogen fuel leaks that marred a countdown dress rehearsal of the Space Launch System rocket earlier this month and forced a repeat test.
+NASA Administrator Jared Isaacman said a bad filter, valve or connection plate could be to blame for the stalled helium flow. Regardless of the cause, he said, the only way to access the area and fix the problem is to return the 322-foot (98-meter) rocket to its hangar for repairs.
+“We will begin preparations for rollback, and this will take the March launch window out of consideration,” Isaacman said via X. NASA’s next opportunities would be at the beginning or end of April.
+“I understand people are disappointed by this development,” he added. “That disappointment is felt most by the team at NASA, who have been working tirelessly to prepare for this great endeavor.”
+Earlier in the day, NASA said it was preparing to move the rocket back to the Vehicle Assembly Building at Kennedy Space Center while raising the possibility of the work being done at the pad.
+The situation is dynamic, said spokeswoman Cheryl Warner. Whether the fixes are at the pad or in the hangar, the rollback preparations alone rule out any chance of making a March launch, she said.
+Hydrogen fuel leaks had already delayed the Artemis II lunar fly-around by a month. A second fueling test on Thursday revealed hardly any leaks, giving managers the confidence to aim for a March liftoff. The four astronauts went into their two-week quarantine Friday evening, mandatory for avoiding germs.
+Everything worked fine with the rocket’s helium system during both dress rehearsals, Isaacman said. The “unexpected development” cropped up later in routine testing that kept engineers up all night assessing the situation.
+The interrupted helium flow is confined to the SLS rocket’s interim cryogenic propulsion stage. This upper stage is essential for placing the Orion crew capsule into the proper high-altitude orbit around Earth for checkout, following liftoff. After that, it’s supposed to separate from Orion and serve as a target for the astronauts inside the capsule, allowing them to practice docking techniques for future moon missions.
+During NASA’s Apollo program, 24 astronauts flew to the moon from 1968 through 1972. The new Artemis program has completed only one flight so far, a lunar-orbiting mission without a crew in 2022. That first test flight was also plagued by hydrogen fuel leaks before blasting off, as well as a helium issue similar to the one that arose Saturday. The first moon landing with a crew under Artemis is still at least a few years away.
+The Associated Press Health and Science Department receives support from the Howard Hughes Medical Institute’s Department of Science Education and the Robert Wood Johnson Foundation. The AP is solely responsible for all content.

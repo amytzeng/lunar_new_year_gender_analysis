@@ -1,0 +1,8 @@
+article_id: guardian_129
+url: https://www.theguardian.com/world/china+asia-pacific
+title: China + Asia Pacific | The Guardian
+date: 2026-03-06
+author: 
+matched_keywords: Lunar New Year
+content:
+Jimmy Lai and the rule of law in Hong Kong Letter: Bi Haibo of the Chinese embassy in the UK responds to an editorial 17.08 GMT China sets lowest GDP growth target for decades as it braces for economic slowdown ‘High-quality growth’ target of 4.5-5% outlined at Two Sessions as Chinese premier talks of complex situations at home and abroad 5 Mar 2026 05.47 GMT Why does Yao Ming, the 7ft 6in ex-basketballer, attend China’s Two Sessions meetings? Among the 3,000 delegates is former athlete who sits as an independent on the National People’s Congress 5 Mar 2026 01.56 GMT

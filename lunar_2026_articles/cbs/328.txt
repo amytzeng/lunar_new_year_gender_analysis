@@ -1,0 +1,8 @@
+article_id: cbs_328
+url: https://www.cbsnews.com/video/suspected-bio-lab-las-vegas-potentially-linked-2023-california-case/
+title: Suspected bio lab in Las Vegas potentially linked to 2023 California case
+date: 2026-03-06
+author: 
+matched_keywords: Lunar New Year
+content:
+Copyright ©2026 CBS Interactive Inc. All rights reserved.

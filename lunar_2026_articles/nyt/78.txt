@@ -1,0 +1,706 @@
+article_id: nyt_78
+url: https://www.nytimes.com/interactive/2026/02/10/us/politics/fulton-county-search-warrant-affidavit.html
+title: Read the Fulton County search warrant affidavit
+date: 2026-03-06
+author: 
+matched_keywords: Lunar New Year
+content:
+The document includes numerous claims about ballots and elections that have been widely debunked. Witnesses’ names were redacted before the affidavit was unsealed.
+(Rev. 4/30/2014 Search Warrant
+
+FILED IN CHAMBERS
+U.S.D.C ATLANTA
+
+In the Matter of the Search of:
+
+United States District Court
+
+Northern District of Georgia
+
+The premises located at The Office of the Clerk of Court, 5600 Campbellton Fairburn Road, Fairburn, Georgia 30213
+
+Jan 28 2026
+
+Date:
+
+KEVIN P. WEIMER, Clerk
+
+By:
+
+APPLICATION & AFFIDAVIT FOR SEARCH WARRAN
+
+CASE NUMBER: 1:26-MC-0177
+
+Nicole Lawson Jenkins
+Deputy Clerk
+
+UNDER SEAL
+
+I, Hugh Raymond Evans, being duly sworn, depose and say:
+
+I am a(n) Special Agent of FBI and have reason to believe that, on the property or premises known as
+The Office of the Clerk of Court, 5600 Campbellton Fairburn Road, Fairburn, Georgia 30213 There is now concealed certain property, certain data, and certain information, namely,
+
+See Attachment B
+
+which constitutes evidence of the commission of a criminal offense and property which has been used as the means of committing a criminal offense, concerning violations of Title 52, United States Code, Sections 20701 and 20511, over which the United States District Court for the Northern District of Georgia has jurisdiction. The facts to support a finding of Probable Cause are as follows:
+
+SEE ATTACHED AFFIDAVIT
+
+Continued on the attached sheet and made a part hereof.
+
+Sworn to me by telephone pursuant to Federal Rule of Criminal Procedure 4.1
+
+Yes No
+
+えん
+Signature of Affiant
+Hugh Raymond Evans
+
+January 28, 2026
+
+Date
+
+CATHERINE M. SALINAS
+
+UNITED STATES MAGISTRATE JUDGE
+
+Name and Title of Judicial Officer
+
+Attorney for the Government Thomas Albus
+(USAMOE)/314-539-2200/Thomas. Albus@usdoj.gov
+
+at
+
+Atlanta, Georgia
+City and State
+
+Catherine Saling
+Signature of Judicial Officer
+ATTACHMENT A
+
+Property to Be Searched
+
+The property to be searched is The Office of the Clerk of Court located at 5600
+
+Campbellton Fairburn Road, Fairburn, Georgia 30213.
+ATTACHMENT B
+
+Particular Things to be Seized
+
+1. All records relating to violations of Title 52, United States Code, §§ 20701 and 20511
+
+those violations occurring after October 12, 2020, including:
+
+a. All physical ballots from the 2020 General Election in Fulton County; including, but not limited to: absentee ballots to include envelopes; advanced voting ballots, provisional ballots; in-person election day ballots; emergency ballots; damaged or destroyed ballots; duplicated ballots; or any other ballot that was used to cast a vote;
+
+b. All tabulator tapes for every voting machine used in Fulton County; including, but not limited to; zero tapes, opening tapes, closing tapes and any other tabulator tape printed from a voting machine utilized during the 2020 General Election in Fulton County;
+
+c. All ballot images produced during the original ballot count beginning on November 3, 2020, the recount, and any other ballot images that were created from ballot scanning from the 2020 General Election in Fulton County;
+
+d. All voter rolls from the 2020 General Election in Fulton County from absentee, early voting, in person, and any other voter roll that indicates voters: to whom an absentee ballot was issued, from whom an absentee ballot was received, or who participated in advanced voting or election day voting;
+
+This warrant authorizes a review of electronic storage media and electronically stored information seized or copied pursuant to this warrant in order to locate evidence, fruits, and instrumentalities described in this warrant. The review of this electronic data may be conducted by any government personnel assisting in the investigation, who may include, in addition to law enforcement officers
+
+1
+and agents, attorneys for the government, attorney support staff, and technical experts. Pursuant to this warrant, the FBI may deliver a complete copy of the seized or copied electronic data to the custody and control of attorneys for the government and their support staff for their independent
+
+review.
+
+2
+AFFIDAVIT
+
+I, Hugh Raymond Evans, Special Agent with the Federal Bureau of Investigation, being
+
+first duly sworn, hereby depose and state as follows:
+
+AGENT BACKGROUND
+
+1.
+
+I am a Federal Bureau of Investigation (“FBI”) Special Agent assigned to the
+
+Atlanta Field Office's Public Corruption Squad.
+
+2.
+
+I have been a Special Agent with the Federal Bureau of Investigation since December 6, 2020, when I entered on duty at the FBI Academy in Quantico, Virginia. While stationed at Quantico, I received extensive training on investigating various violations of federal law. I am currently assigned to the FBI Atlanta Field Office and am assigned to the Public Corruption and Civil Rights Squad. Prior to being employed by the FBI, I was a licensed attorney in good standing by the Alabama State Bar and was in private practice for approximately four
+
+years.
+
+3. The facts set forth in this affidavit are based on my personal observations and knowledge, and may also be based on: (a) my training and experience, (b) information obtained from other individuals participating in the investigation, (c) reports and/or business records, (d) recorded conversations, (e) communications with other individuals who have personal knowledge of the events and circumstances described herein, and (f) investigative files. Since this affidavit is being submitted for the limited purpose of establishing probable cause, I have not included in this affidavit every detail of the investigation. Rather, I have set forth facts that I believe are sufficient to establish probable cause for the issuance of the requested search warrant. Unless specifically indicated otherwise, any conversations and statements described in this affidavit are related in substance and in part only.
+
+1
+4. Based on my training and experience and the facts as set forth in this affidavit, there
+
+is probable cause to believe that violations of Title 52, United States Code, Sections 20701
+(Retention and Preservation of Records of Elections); and 20511 (Deprivation of a Fair Election) have been committed by unknown persons.
+
+JURISDICTION
+
+5. This Court has jurisdiction to issue the requested warrant because it is "a court of competent jurisdiction” as defined by 18 U.S.C. § 2711. 18 U.S.C. §§ 2703(a), (b)(1)(A), & (c)(1)(A). Specifically, the Court is "a district court of the United States. . . that has jurisdiction over the offense being investigated." 18 U.S.C. § 2711(3)(A)(i).
+
+PROBABLE CAUSE
+
+Introduction
+
+6. Following the November 3, 2020, presidential election, there were many allegations of electoral impropriety relating to the voting process and ballot counting in Fulton County, Georgia. Some of those allegations have been disproven while some of those allegations have been substantiated, including through admissions by Fulton County. This warrant application is part of an FBI criminal investigation into whether any of the improprieties were intentional acts that violated federal criminal laws. The FBI criminal investigation originated from a referral sent by Kurt Olsen, Presidentially appointed Director of Election Security and Integrity.
+
+7.
+
+Title 52, United States Code, Section 20701 requires election officers to retain election records for 22 months following an election for a federal office. The statute's retention requirement applies to "all records and papers which come into his possession relating to any .. act requisite to voting in such election." Violation of this statute is a misdemeanor.
+
+8.
+
+Title 52, United States Code, Section 20511(2) makes it a crime to “knowingly and willfully deprive[ ] ... the residents of a State of a fair and impartially conducted election process,
+
+2
+by (b) the procurement, casting, or tabulation of ballots that are known by the person to be
+
+...
+
+materially false, fictitious, or fraudulent under the laws of the State in which the election is held.”
+
+Violation of this statute is a felony.
+
+9.
+
+This investigation has presently focused on the following deficiencies or defects with the November 3, 2020, election and tabulation of the votes thereof:
+a. The tabulator machines used by Fulton County are designed to create and save a scanned image of each ballot. Fulton County has admitted that it does not have scanned images of all the 528,777 ballots counted during the Original Count or the 527,925 ballots counted during the Recount.¹
+
+b. Fulton County has confirmed that during the Recount of votes, some ballots were scanned multiple times. Ballot images made available in response to public record requests show ballots with unique markings duplicated within the ballot images.
+
+c. During the Risk Limiting Audit, auditors counting the votes by hand reported vote tallies for batches inconsistent with the actual votes within the batch. The State's Performance Review Board² reported that Secretary of State investigators confirmed inaccurate batch tallies from the Risk Limiting Audit.
+
+d. Auditors assisting in the Risk Limiting Audit reported counting purported absentee ballots that had never been creased or folded, as would be required for the ballot to be mailed to the voter and for the ballot to be returned in the sealed envelope requiring the voter's signature for authentication.
+
+e. On the day of the deadline to report the Recount results, Fulton County reported a recount totaling 511,343 ballots, 17,434 ballots fewer than original counted. The following day, Fulton County then reported a total of 527,925 ballots counted.
+
+1 The Fulton County Ballots were counted three times. For purposes of clarity, this affidavit uses the following terms to refer to each of the three counts. “Original count” is used to reference the original count of ballots on election night and into the following day. “Risk Limiting Audit" refers to the hand recount completed in mid-November 2020. "Recount” refers recount completed by machine in early December 2020.
+2 Following the election, the Georgia State Election Board convened a bipartisan Performance Review Board to review the election.
+
+3
+10.
+
+If these deficiencies were the result of intentional action, it would be a violation of federal law regardless of whether the failure to retain records or the deprivation of a fair tabulation
+of a vote was outcome determinative for any particular election or race.
+
+11.
+
+As set out more fully below, this warrant seeks the seizure of election records, to include paper ballots, ballot images, and absentee ballot envelopes, currently retained by the Fulton
+County Board of Registration and Election as evidence of violations of Title 52.
+
+Missing Ballot Images
+
+12.
+
+Following the 2020 election, the Georgia Secretary of State's office made available
+
+ballot images of absentee ballots cast in the 2020 general election.³
+
+13.
+
+Georgia resident
+
+Wit. 1
+
+was a chemical engineer and taught at a technical
+
+college.
+
+Wit.
+
+began conducting research and analysis on elections following the November 3, 2020, election. As part of that analysis, Wit. 1 reviewed images of the released absentee voter ballot images. He discovered that the number of ballot images from the Recount did not reconcile with the number of ballots cast.
+
+14.
+
+Wit. 1
+
+filed a complaint with the Georgia State Election Board on July 8, 2022, alleging, among other things, that during the Recount of the 2020 Election there were 17,852 missing ballot images from the reported results on the Georgia Secretary of State's website. 4
+
+3 Atlanta Journal Constitution, Ballot images made public in Georgia after heated election (June 3, 2021).
+4 Wit. 1 also filed another complaint in which 36 errors were identified within the batch tallies of absentee ballot from the Risk Limiting Audit, which were confirmed by Governor Kemp in a letter dated November 17, 2021. Errors included duplicated or misidentified batch entries and incorrect batch entries reflecting 100% vote for one candidate.
+15.
+
+When a complaint is filed with the State Election Board, investigators from the Secretary of State's Office may be assigned to investigate the complaint, assisting the State
+
+Election Board in adjudicating the complaint.
+
+16.
+
+Wit. 1's initial complaint was investigated by the Secretary of State's Office under case number SEB2023-025. The investigation was presented during the May 7, 2024, State Election Board Hearing. The State Election Board issued a letter of reprimand to Fulton County and, in lieu of a referral to the Georgia Attorney General, sought to enter into a Memorandum of Understanding between Fulton County, the Georgia Secretary of State, and the State Election Board and mutually agree to a monitor for the 2024 election cycle. If an agreement for a monitor could not be decided it would be presented for referral to the Georgia Attorney General.
+
+Wit. 2
+
+17.
+
+Election Board.
+
+Wit. 2
+
+is the Republican-appointed member of the Georgia State was an obstetrician prior to serving on the State Election Board. She served on the Georgia State Election Board since February or March 2022. Prior to the 2021 Senate
+
+Runoff,
+
+Wit. 2
+
+Wit. 2
+
+had not worked an election. As a member of the State Election Board,
+is tasked with listening to State Election Board Investigator reports and, with the other members of the board, deciding if there is sufficient evidence of a violation of election law. If the Board determines sufficient evidence exists, the Board decides what additional actions need to be taken including referral to the Georgia Attorney General or local District Attorney for further
+
+investigation.
+
+18. After Wit. 2 received the complaint, she requested the ballot images to review from the Georgia Secretary of State.
+
+Wit. 2
+
+said the Secretary of State would not
+
+5 The State Election Board is comprised of five members. One is appointed by the Governor. One is appointed by the Georgia Senate. One is appointed by the Georgia House. One is appointed by the Georgia Democratic Party. One is appointed by the Georgia Republican Party.
+
+5
+provide the ballot images and instead she would have to review them in person at the Secretary of
+
+State's Office. For the next several weeks,
+
+Wit. 2
+
+went to the Secretary of State's Office to
+
+review the ballot images.
+
+Wit. 2
+
+19.
+
+began reviewing ballot images after the May 7, 2024, Georgia State
+
+Election Board meeting.
+
+Wit. 2
+
+was not certain whether the images she reviewed were from
+
+Wit. 2
+
+election night or from the recount. stated she was provided a laptop that had two flash drives in it. There were two notes next to the laptop. One contained her name and a password to access the computer along with instructions to not remove the flash drive from the computer. The other note stated, “Vince must have miscounted. Only 15,464 ballot images. Short of 17,774 by did not have a copy of this note but wrote what the note said.
+
+Wit. 2
+
+Wit. 2
+
+2,310".
+
+20.
+
+Wit. 2
+
+away.
+
+stated she noticed several things about the ballot image files right noticed the Secure Hash Algorithm or SHA files were missing. Wit. 2
+
+explained that every ballot image, or TIF file, should produce a corresponding SHA file. The SHA file guarantees that the TIF file has not been modified.
+
+Wit. 2
+
+stated she had no prior
+
+expertise in reviewing SHA files prior to joining the State Election Board.
+
+21.
+
+22.
+
+Wit. 2 stated the missing SHA files were a red flag to her that someone had manipulated the data. She believed the removal of the SHA files was an intentional act by someone. Wit. 2 stated while she was reviewing the images, she also noticed modification dates associated with the files well past the timeframe of the 2020 Election. She observed at least one file with date modified of January 11, 2024, along with others modified prior to January 11, 2024.
+
+23.
+
+Wit. 3
+
+the current House-appointed State Election Board member, confirmed
+
+there were missing ballot images.
+
+Wit. 3
+
+'s knowledge regarding the 2020 election came from her
+
+6
+current role on the State Election Board and not first-hand.
+
+Wit. 3
+
+was not aware of a clerical or technical issue in which the images would be lost and if that did occur, it should be documented.
+Wit. 3 stated the image acts as a receipt for the ballot.
+
+24.
+
+Wit. 3 said to remedy the missing ballot images physical ballots are needed to conduct a hand recount of the physical ballots, images, and votes cast.
+
+25.
+
+Wit. 4 who was the Director of Elections for the Georgia Secretary of State
+
+in 2020, was not aware of physical ballots not matching the number of ballot images.
+
+Wit. 4
+
+said
+
+a discrepancy like that would be problematic but did not know if anyone went back and checked
+
+that.
+
+26.
+
+Wit. 4
+
+said during the hand count, they did not audit for issues like image discrepancies. He said the images are just duplicates. It would be more concerning if there was discrepancies between physical ballots and voter count. The concern is less about the images and more about the ballots and voter count.
+27. Following the Recount, the Georgia Secretary of State conducted a full recount of Fulton County's ballots. When the Secretary of State conducted the recount, they did not focus on the images taken by the scanners. They took the actual ballots that were cast and counted them one by one to come up with the total. Wit. 4 stated a possible explanation for missing images was that they were stored on a memory card and it was not uploaded correctly or became corrupt, that would account for the missing images.
+
+28.
+
+During a Civil Action in the United States District Court for the Northern District of Georgia, Fulton County Board of Registration and Elections admitted it has not preserved the majority of ballot images from in-person voting for the November 3, 2020, Original Count. This
+is another impediment to ruling out non-criminal explanations for the activities during the election.
+
+7
+Duplicated Ballots
+
+29.
+
+Wit. 5
+
+is a data analyst who reviewed and analyzed original ballot images and recount ballot images. Wit. 5 stated he downloaded the data online from “ZebraDuck" and believed it was from an Open Records Request from Fulton County but was not positive as he was not a part of acquiring the data. Wit. 5 received the data second hand.
+30. Wit. 5 used a computer program that reviewed the ballot images to look for duplicates. It was looking for stray marks or other unique markings on a ballot that would allow it to be uniquely identified. He would then review the duplicate to confirm.
+
+31.
+
+Wit. 5 said based on the total number of reported votes cast, there were images missing in the files he reviewed, however none of the missing images were from hand completed ballots. The only missing ballot images were from in-person computer generated ballots which contained a QR code.
+
+32.
+
+In the election, a QR code was generated to reflect the unique combination of all votes cast on the ballot. In other words, if two voters made identical votes down the ballot, the QR codes would be identical for both voters. Because these ballots were computer generated, he could not identify duplicated ballots based on examining them for unique stray marks or other attributes on the ballot. For that reason, images of in-person ballots were inconsequential to his
+
+review.
+
+33. Wit. 5 concluded there were duplicate ballots included in both the Original Count and the Recount. Further, Wit. 5 identified new ballots as well as test ballots in the Recount that did not appear in the Original Count.
+
+34.
+
+Wit. 5 said there were 17,852 digital images of ballots missing from the Recount
+data set he reviewed. He concluded it was suspicious that the missing image files were deleted at approximately the same time the duplicate votes began appearing in the system.
+
+8
+35.
+
+Based on his review, Wit. 5 concluded that what he observed could be intentional but was not partisan. Wit. 5 explained that by adding the duplicate ballots, Donald Trump received approximately 10% more than his average in Fulton County (40% instead of 30%). This indicated to Wit. 5 that the introduction of duplicate ballots was intended to make the recount numbers match
+more than to affect the outcome of the election. Such action would be an intentional tabulation of
+
+ballots in a false manner in violation of 52 U.S.C. § 20511.
+
+36.
+
+Wit. 6
+
+a former investigator at the Secretary of State's Office said that the complaint of duplicate ballots was investigated by tallying ballots by hand for the Presidential race. No further investigation was conducted once the investigators learned that 40% of the duplicated ballots cast a vote for Trump. The investigators concluded it was not intentional
+
+misconduct.
+
+37.
+
+Additionally,
+
+Wit. 5
+
+stated he found similar issues of ballots being introduced during the recount to make the total numbers match those obtained during the original count in
+
+other counties throughout Georgia.
+
+38.
+
+In its response to the Secretary of State investigation, the Fulton County Director of Registration & Elections who took over following the 2020 election admitted that duplication of ballots "may have occurred,” but indicated that, if it did occur, it happened due to human error.
+
+Tabulator Tapes
+
+39. Tabulator tapes are printed from each voting machine once the machines are closed. The tabulator tape indicates how many votes were received for each candidate on that particular machine and how many total ballots were counted.
+
+40.
+
+Wit. 3 stated that one issue that impacts the accountability process is when tabulator tapes are not signed in addition to election officials not preserving the ballot images.
+
+9
+41. Wit. 3 said ultimately, the tabulator tapes should match the number of physical
+
+ballots. The tabulator tape is what is used as the “holy grail” for the final count.
+
+42.
+
+Georgia Rules and Regulations require that tabulation tapes be printed from each machine at poll closing. These tapes must be signed by the poll manager and two witnesses. See
+
+Ga. Comp. R. & Regs. 183-1-12-.12.
+
+43. Since at least 2003, Clay Parikh has worked in the cyber security field in both private sector and for government agencies. Since 2008, he has done security and performance testing of voting machines. Due to his background in voting machine security and performance, Parikh is often asked to review data related to technical questions related to voting machines. Parikh is currently a Special Government Employee, a temporary officer or employee in the U.S. Executive Branch appointed to work for up to 130 days.
+
+44.
+
+Wit. 7
+
+Parikh reviewed tabulator tape images and related documents he obtained from a Fulton County Open Records Request. Parikh was asked by to review the tabulator tapes and analyze them. Wit. 7 is a member of the Election Oversight Group, LLC and drafted a report regarding the 2020 Election in Fulton County.
+45. Parikh determined that closing tabulator tapes were missing for some machines and, of 138 closing tapes that were provided by Fulton County in response to Open Record Requests, only 16 tabulators accounted for approximately 315,000 ballots. In his review, Parikh identified one tabulator that was used to close out 15 tabulator machines from 12 different locations. In addition, the poll closing time and report printed times on several closing tabulator tapes were close enough in time that Parikh believed someone had to have manipulated the times on the reports. Parikh believed this showed that the memory cards were removed from the original tabulator and put in another tabulator to print out the closing tabulator tapes.
+
+10
+
+10
+46.
+
+Parikh also reviewed the protective counter number on the tabulator tapes. The protective counter is similar to an odometer on a vehicle. It counts the number of ballots tabulated on that machine for the machine's lifetime. Comparing the protective counter at the start of the election and the end of the election, and comparing that change in the protective counter to the closing tapes, helps ensure the integrity of the tabulation. Parikh's analysis further revealed that the protective counters on at least five tabulator tapes from the same unit were identical, and that some of the reported ballots scanned exceeded the protective counter number. This indicated to Parikh that no ballots were ever scanned on these machines and that the numbers generated from those ballots were done so by placing an unencrypted memory card into the unit to generate the closing tape. This would have allowed an opportunity for the tabulation to be tampered with.
+47. All of the closing tabulator tapes that Parikh provided in his review, based on the poll opening times and the locations, appear to be from in-person early voting locations.
+
+48.
+
+Wit. 6 stated tabulator tapes are specific to a particular scan of ballots by
+a specific machine, for instance, at issue here are the tabulator tapes from the November 3, 2020, original count. The original tabulator tapes are not used during the recount because the ballots are scanned again utilizing a different machine. In the recount, a report is generated from the new machine scanning the ballots, and that is what is compared to the results of the original count to confirm the overall results. Wit. 6 stated the tabulator tapes from the original count are not compared to the reports from the recount.
+
+Wit. 6
+
+stated that the ballots are what mattered.
+
+49.
+
+During the Fulton County Risk Limiting Audit, which was a hand count,
+
+Wit. 6
+
+believes that all ballots were accounted for.
+
+11
+50.
+
+During a standard Risk Limiting Audit only a small sample of ballots are counted to verify the results, but in the 2020 election all ballots were audited due to the closeness of the
+
+race.
+
+51.
+
+During a December 9, 2025, meeting before the State Election Board, Fulton County stated that tabulator tapes accounting for 315,000 ballots were not properly signed. The Georgia Secretary of State Brad Raffensberger stated in the media he considered the unsigned tabulator tapes an administrative oversight.
+
+52.
+
+Pristine Ballots
+
+When a voter elects to vote by absentee ballot, the absentee ballot is mailed to the voter. When the ballot is returned—either by mail or by drop box-it must be sealed inside two envelopes with a properly authenticated signature. An absentee ballot must be folded to fit into the envelope. A pristine ballot, as described in further detail below, is an absentee ballot that has no indications that it has been folded and mailed as a typical absentee ballot would.
+
+53.
+
+As it pertains to pristine ballots,
+
+Wit. 3
+
+stated that absentee ballots look
+
+different than in person ballots. She said there is no reason to have a pristine absentee ballot with no folds. She was unsure if provisional ballots get folded or not, but said they look different than
+
+absentee ballots.
+
+54.
+
+Wit. 1 also included in his complaints to the Georgia State Election Board, allegations that extra ballots were introduced during the count of the absentee ballots.
+
+55.
+
+Wit. 8
+
+was a poll manager during the 2020 Presidential Election and had been a poll manager for over 25 years. She was asked to work during the Risk Limiting Audit.
+56. In Fulton County, due to the election being so close it was decided a full hand count would be conducted instead of the limited-in-size risk limiting audit.
+
+12
+57.
+
+Wit. 8 received boxes of ballots that had broken security seals. When she asked
+
+about the security seals, she was told by an unknown individual that they did not matter.
+
+58.
+
+Wit. 8 recalled receiving one batch of ballots that contained 110 ballots. Wit. 8 said she noticed quickly that those ballots seemed different. Of the 110 ballots, 107 had the exact same votes for each candidate on the ballot. These ballots were also pristine in that they had not been folded. She said the 107 were labeled as absentee ballots but they were too clean to be absentee ballots, in her opinion. She also said the texture of the 107 ballots felt different from all the other ballots and the bubbles were all filled in the same.
+59. Wit. 8 stated she also received a stack of about 60 ballots that were labeled as having come from a senior living center. Wit. 8 believed these ballots should have been folded as
+
+well but were not.
+
+60.
+
+Wit. 8 also observed suspicious handling of ballots. She observed what she believed to be stacks of ballots on a table that was outside of security camera view, but she was too far away to view what, if anything, was printed on the ballots. Wit. 8 said she did not know where the ballots came from or what their purpose was.
+
+61.
+
+Audit.
+
+Wit. 9
+
+Wit. 9
+
+worked with Wit. 8 at the same table during the Risk Limiting
+
+recalled the 107 ballots as
+
+selections had been made with a stamp.
+
+recollection of the 107 identical ballots.
+
+Wit. 8 did. Wit. 9 said the ballots looked like the
+
+Wit. 9 stated that Wit. 8 would have the better
+
+62.
+
+Wit. 9
+
+stated she also saw two females who were re-voting ballots.
+
+Wit. 10
+
+the then-Director of Elections for Fulton County Board of Registrations & Elections, told her they were having to re-vote the ballot because the original ballot was not being accepted by the machine.
+
+13
+Wit. 9
+
+63.
+
+Had the ballots audited by
+
+said the paper they were using was different than the original ballots. Wit. 9 did not know why these votes were being re-voted now and not during the Original Count. Wit. 8 and Wit. 9 been duplicated ballots of damaged
+
+said she
+
+or unscannable ballots, they would have been marked as such. Georgia law requires the duplication of ballots to be verified by witnesses, requires the duplicate ballot be clearly labeled by the word "duplicate," and requires that the original ballot be retained. See Georgia Code 21-2- 483 (effective July 1, 2011).
+
+64.
+
+Wit. 4
+
+who was the Secretary of State's Election Director in 2020, stated in Fulton County there would likely be thousands of different ballot combinations throughout the
+
+Wit. 4
+
+County. explained if a worker wanted to take an absentee ballot and change the vote, they would have to produce another ballot. He said if someone was able to get ahold of a blank ballot, then it could be possible. However, Wit. 4 did not think it feasible that someone could tamper with absentee ballots due to how many people are in the room. He said it would take a tremendous amount of organization and secrecy. He said it may be possible for someone to quickly introduce one ballot, but to do anything on a large scale would be barely possible.
+
+65.
+
+However, Wit. 4 stated there is no way to determine if someone within the process of counting votes substituted fictious ballots for real ballots if the ballot totals matched the number of voters accounted for in absentee ballots. On the other hand, Wit. 4 explained that if 100 extra ballots were introduced without removing real ballots, that would be caught during the reconciliation process by comparing ballots to total voters.
+
+66.
+
+Wit. 4
+
+was not aware of any discrepancies between voters counted and ballots
+
+counted.
+
+14
+67.
+
+Wit. 4
+
+explained there would be pristine absentee ballots in every election. These ballots would be generated by the Vote Review Panel every time they adjudicated a damaged
+ballot. The new pristine ballot would be the ballot created and used to count that individuals vote.
+
+68.
+
+Wit. 6
+
+was an Investigator for the Georgia Secretary of State's Office in 2020 and had been since 2009. Wit. 6 received and investigated multiple complaints regarding
+
+the 2020 election.
+
+69.
+
+Wit. 6
+
+said that if someone were to sneak in fraudulent ballots, the number of ballots versus the people who voted would not be equal. In addition, he did not know how someone would get ahold of a ballot because there were not extra ballots sitting around. He described how there were provisional ballots available on election day but those all had to be accounted for. was a poll worker during the 2020 Election. Prior to the election, she was asked to assist with logic and accuracy testing on the voting machines. Logic and Accuracy testing is the pre-election testing where test ballots are tabulated to ensure all the machines are working accurately.
+
+70.
+
+Current Fulton County Commissioner,
+
+71.
+
+Wit. 11
+
+While doing logic and accuracy testing, Wit. 11 was assigned to the test ballot printing station where they printed the test ballots to run through the machines. Wit. 11 stated there were stacks of paper to use as test ballots that were unsecured. She stated she could have printed any ballot she wanted.
+72. Wit. 11 witnessed individuals who were printing random ballots. She was able to rip up some of the ballots. She was not sure the reason they were printing ballots as all the test ballots had already been printed.
+
+73.
+
+While she was in the warehouse conducting the tests, she stated voting machines with ballots came in from an early voting location at State Farm Arena. Her belief was these were
+
+15
+actual voted ballots. Wit. 11 said these ballots were removed from the machines and were
+
+unattended for a period of time before they were gathered in ballot cases.
+
+74.
+
+Wit. 6
+
+did not know how a person could possibly inject fraudulent absentee
+
+ballots into the absentee ballot process.
+
+75.
+
+Wit. 6 stated the Georgia Secretary of State's Office also counted Fulton County's
+
+ballots and the number they got matched what was given by Fulton County.
+
+Seven Hills Strategies Report
+
+76.
+
+Seven Hills Strategies, LLC, was contracted by the Georgia State Election Board
+to serve as an independent, non-partisan monitor for pre-electoral processes in Fulton County leading up to the November 3, 2020, General Election. Seven Hills published its report, “State Election Board Report – Post Election Executive Summary” on January 12, 2021.
+77. Noted in the report was that Fulton County's absentee processes were "extremely sloppy and replete with chain of custody Issues."
+
+78.
+
+The report found that during the Risk Limiting Audit, there were chain of custody issues, ballots left unattended, unsealed bags being used, and auditors not recording seal numbers
+
+on ballot bags.
+
+79.
+
+The report found that during the recount, ballots of different types had been mixed together for storage. This resulted in additional rounds of scanning during the recount because the wrong ballots were scanned on two separate occasions. Ballots were also stored in boxes with no precinct information. This became an issue when they had to retrieve particular batches that had been overlooked during scanning. It further became an issue when trying to ascertain which ballots had been missed because two scanners had both been named “ICC16".
+
+16
+80. On August 18, 2021, pursuant to a request from the General Assembly, the State Election Board appointed a Performance Review Board.
+81. The duty of the Performance Review Board was to make a thorough and complete investigation of the local election official with respect to all actions of the local election official regarding the technical competency in the maintenance and operation of election equipment, proper administration and oversight of registration and elections, and compliance with state law and regulations.
+82. The Performance Review Board stated, “Secretary of State Investigators who investigated complaints regarding the November 2020 General Election in Fulton County elections had similar findings to the Seven Hills Strategies' report—no evidence of fraud, dishonesty, or intentional misconduct, but persistent disorganization that made it difficult to get to the bottom of certain claims. Our review reaches a similar conclusion-we do not see any evidence of fraud, intentional misconduct, or large systematic issues that would have affected the result of the
+
+November 2020 election."
+
+The Election Records' Location
+
+83. The election records identified in Attachment B and sought by this warrant are currently located at a warehouse facility operated by the Fulton County Board of Registration & Elections. This warehouse is: The Fulton County Election Hub, located at 5600 Campbellton Fairburn Road, Fairburn, Georgia 30213. According to Fulton County, the election records still exist at that location. While the election records are normally subject to destruction two years following the election, the Fulton County Superior Court has ordered that the election records relating to the 2020 election be retained under seal.
+
+84.
+
+On the morning of January 28, 2026, this Court issued a search warrant for the premises of “The Fulton County Election Hub, located at 5600 Campbellton Fairburn Road,
+
+17
+Fairburn, Georgia 30213. See No. 1:26-mc-0158-CMS (N.D.Ga.). When I arrived at the warehouse to execute the warrant, officials from the Fulton County Board of Registration and Elections allowed entry into the warehouse. Those officials brought me to an access-limited portion of the warehouse controlled by the Clerk of Court for Fulton County Superior Court. Elections officials and Superior Court officials indicated that the election records identified in Attachment B are located within the Superior Court's Clerk of Court's portion of the warehouse. In an abundance of caution given the distinct legal entities located within the facility, I am seeking this additional warrant to search The Office of the Clerk of Court, located at 5600 Campbellton Fairburn Road, Fairburn, Georgia 30213
+
+CONCLUSION
+
+85. If these deficiencies were the result of intentional action, the election records identified in Attachment B are evidence of violations of Title 52 U.S.C. §§ 20511 and 20701. Seizure of the election records would corroborate the analysis that evinces that election records were destroyed and or the tabulation of votes included materially false votes, either through duplicated scanning of specific ballots, interjection of pristine ballots, or other methods described above. I request that the Court issue the proposed search warrant.
+86. I further request that the Court order that all papers in support of this application, including the affidavit and search warrant, be sealed until further order of the Court. These documents discuss an ongoing criminal investigation that is neither public nor known to all of the targets of the investigation. Accordingly, there is good cause to seal these documents because their premature disclosure may seriously jeopardize that investigation, including by giving targets an opportunity to destroy or tamper with evidence, change patterns of behavior, notify confederates, and flee from prosecution.
+
+18
+Respectfully submitted,
+
+Isl
+
+Ольз
+Hugh Raymond Evans Special Agent
+Federal Bureau of Investigation
+
+1999

@@ -1,0 +1,8 @@
+article_id: cbs_318
+url: https://www.cbsnews.com/losangeles/video/political-expert-recaps-the-state-of-the-union-address/
+title: Political expert recaps the State of the Union address
+date: 2026-03-06
+author: 
+matched_keywords: Lunar New Year
+content:
+©2026 CBS Broadcasting Inc. All Rights Reserved.

@@ -1,0 +1,21 @@
+article_id: cbs_155
+url: https://www.cbsnews.com/colorado/news/denver-new-provider-license-plate-reader-services-axon/
+title: Denver selects new provider for license plate reader services
+date: 2026-03-06
+author: 
+matched_keywords: Lunar New Year
+content:
+February 24, 2026 / 11:31 AM MST / CBS Colorado
+On Tuesday, Denver Mayor Mike Johnston announced that a new provider will take over management of license plate reader services from Flock Group Inc.
+The city announced nearly two weeks ago that it had begun accepting bids for license plate reader services. The move followed a conflict between the mayor and the city council over whether to extend Denver's contract with Flock.
+Flock cameras have been installed at 70 intersections across the Denver area to help reduce crime, but the community has raised concerns about privacy and who has access to the footage.
+The mayor's office said that Axon has been selected to take over license plate reader services. The company already works with the City and County of Denver, collecting surveillance data through body-worn cameras, and its systems can integrate with the Denver Police Department's.
+"We've heard the community loud and clear, and it is time to make a change," said Johnston. "Axon is among our most reliable partners and will collaborate with us on strong safeguards that protect immigrants, women seeking reproductive healthcare, and the Constitutional rights of Denverites. I'm grateful to Council for helping us build a data system that is accountable to our residents, and that will set the standard for how cities balance the needs for both privacy and safety."
+In a release, the mayor's office said Axon offered the most comprehensive security certifications among the vendors tested, and the company will not use customer data to train AI models. They highlighted that Axon's data won't be accessible to federal authorities and can only be used for the purposes set forth by the city. Axon will be subject to regular reviews and will not be allowed to retain data for longer than 21 days unless it's part of an active investigation. Denver will retain full and exclusive ownership of all data, they added.
+Under Colorado law, Axon's data cannot be used for civil immigration enforcement, abortion-related investigations or any other purpose not explicitly agreed to.
+License plate readers have helped Denver officers recover over 400 stolen vehicles since their implementation, according to the Denver Police Department. They've assisted police with solving hit-and-run, shooting and homicide investigations as well.
+Denver Police Chief Ron Thomas says they're "among the most critical tools we have to develop investigative leads."
+The mayor's office said the one-year contract will be brought before the city council before the Flock Safety contract expires in March.
+"The data doesn't lie. This technology makes a real difference in public safety," said Councilwoman Amanda Sawyer. "I look forward to considering this contract with a fresh and fair assessment as it goes through the Council process."
+© 2026 CBS Broadcasting Inc. All Rights Reserved.
+©2026 CBS Broadcasting Inc. All Rights Reserved.

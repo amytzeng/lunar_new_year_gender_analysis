@@ -1,0 +1,18 @@
+article_id: ap_2
+url: https://apnews.com/article/moon-apollo-magnetic-field-nasa-00eabdfa6a5bccd3f80da0a0279b21a2
+title: Old Apollo rocks shed new light on the moon’s magnetic field long ago
+date: 2026-03-06
+author: 
+matched_keywords: Lunar New Year
+content:
+CAPE CANAVERAL, Fla. (AP) — Lunar rocks collected by Apollo astronauts more than half a century ago are providing a fresh take on the moon’s mysterious magnetic field, scientists reported Wednesday.
+Samples to be retrieved by future moonwalkers in NASA’s new Artemis program should yield even more clues. Four Artemis astronauts are expected to fly around the moon in a crucial test flight , blasting off as early as April from Kennedy Space Center after weeks of delays.
+The study by University of Oxford researchers in England suggests that while the moon’s magnetic field has been weak during most of its existence, it strengthened and even exceeded Earth’s magnetic activity during extremely brief periods 3 billion to 4 billion years ago. Their findings appear in the journal Nature Geoscience.
+Magnetic fields help to shield against dangerous cosmic rays and, in the case of Earth, the sun’s harsh radiation as well.
+The moon had “incredibly short spikes in high magnetic field strength” lasting no more than 5,000 years and possibly as short as a few decades, the result of melting titanium-rich rocks deep within the moon, said lead author Claire Nichols.
+Scientists previously theorized that the lunar magnetic field remained strong for long stretches based on their analysis of rocks fetched by Apollo moonwalkers from 1969 through 1972. With Artemis astronauts exploring the moon’s south polar region instead of the low-latitude lava plains of Apollo days, the new samples should shed even more light on the moon’s ancient magnetism.
+Nichols and her team pored over earlier measurements of the Apollo samples and found that high titanium levels corresponded with preserved traces of high magnetic activity. Rocks from the first and last moon landings — Apollo 11 and Apollo 17 — were loaded with titanium.
+“We have found a missing link,” Nichols said in an email. Magnetic field activity can be “intermittently really strong and may fluctuate far more than we have traditionally thought.”
+The researchers consider the Apollo samples not representative of what’s found on the moon because they came from similar locales where titanium abounded, after being shoved to the surface through volcanic eruptions. Future Artemis astronauts plan to study ancient rocks near the south pole where permanently shadowed craters are thought to contain water ice.
+Understanding the history of the moon’s magnetic shield “is critical for thinking about planetary habitability,” Nichols said.
+The Associated Press Health and Science Department receives support from the Howard Hughes Medical Institute’s Department of Science Education and the Robert Wood Johnson Foundation. The AP is solely responsible for all content.

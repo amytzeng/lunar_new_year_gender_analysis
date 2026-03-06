@@ -1,0 +1,8 @@
+article_id: cbs_321
+url: http://www.cbsnews.com/video/021526-face-the-nation/?ftag=
+title: 2/15: Face The Nation
+date: 2026-03-06
+author: 
+matched_keywords: Lunar New Year
+content:
+Copyright ©2026 CBS Interactive Inc. All rights reserved.

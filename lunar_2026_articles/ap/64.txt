@@ -1,0 +1,31 @@
+article_id: ap_64
+url: https://apnews.com/article/joe-biden-donald-molloy-donald-trump-donald-trump-es-montana-e3a04f8eec165d5582d409ec8dd36c7c
+title: The first-in-the-nation TikTok ban that wasn’t
+date: 2026-03-06
+author: 
+matched_keywords: Lunar New Year
+content:
+A Montana judge has mooted the state’s would-be TikTok ban before it could block a single viral video.
+U.S. District Court Judge Donald Molloy on Feb. 20 concluded the case over the legality of the Montana Legislature’s TikTok ban, which had been paused since Molloy temporarily blocked its implementation in 2023.
+Several Montana users of the popular social media platform, along with TikTok’s Chinese owner, ByteDance, filed lawsuits days after the ban law was signed. That civil litigation was later combined into a single case against the state, defended by Attorney General Austin Knudsen. The challenge alleged the law violated the First Amendment and overstepped the authority of state government by wading into national security issues.
+Molloy dismissed the case on the basis of a clause in the law, which Gov. Greg Gianforte signed in May 2023, that voided the ban if ByteDance sold a majority share of TikTok to a non-Chinese company. That change of ownership occurred in January .
+The 2023 Legislature’s TikTok ban grew out of concerns about Chinese access to Americans’ data. It was the first statewide attempt to ban TikTok in the United States.
+In a statement on Feb. 20, Knudsen lauded the transfer of ownership that led to the case’s dismissal.
+“President Trump, with his years of business and negotiation experience, worked diligently and succeeded in finding the right American company to purchase TikTok and make sure that Montanans and Americans will no longer be spied on by a foreign adversary,” Knudsen wrote. “Today’s dismissal ends years of litigation, brought on by TikTok, and will stop wasting taxpayers’ money.”
+The state Department of Justice did not respond to a Montana Free Press request for an interview for this story.
+Knudsen’s office signaled its support for the Montana law banning TikTok when it was first heard in the Legislature in February 2023. Department of Justice Crime Information Bureau Chief Anne Dormandy testified in support of the bill at its initial hearing.
+“There are grave concerns with the popular app related to national security and China’s influence through TikTok,” Dormandy said.
+The bill passed out of the Legislature with mostly Republican support. Gianforte expressed concerns that the bill’s language might subject it to a legal challenge, but ultimately signed it in spring 2023. The law immediately drew multiple court challenges . Before the ban could take effect as scheduled in January 2024, Molloy blocked it in November 2023.
+That year marked an uptick in the federal government’s scrutiny of TikTok over national security concerns. The Biden administration mandated that agency employees delete the app from government-issued mobile devices in February. And in March, members of Congress peppered TikTok CEO Zi Chew with questions about data privacy during a marathon hearing .
+While Montana’s ban languished in court, Biden signed a law in 2024 banning the social media app unless ByteDance sold it within the following 270 days. That law survived a slew of legal challenges , and TikTok ultimately blocked American users for a few hours on Jan. 18, 2025, a day before the federal law required it to. On Jan. 19, Trump assured the company he would issue an executive order that would extend ByteDance’s window to sell. He did.
+In 2025, Trump extended the sale window on four separate occasions, allowing TikTok to continue to operate in the U.S. The company finalized a deal on Jan. 23, 2026.
+ByteDance retains 19.9% ownership of TikTok. Other investors with substantial shares include technology conglomerate Oracle, private equity firm Silver Lake, and United Arab Emirates-owned investment company MGX.
+That deal made Montana’s 2023 state law moot based on a clause in the state legislation voiding the ban if majority ownership was transferred away from a federally designated “foreign adversary.”
+But some legal experts are casting doubt about whether that transfer actually mitigates concerns of Chinese access to Americans’ data.
+Timothy Edgar, a cybersecurity expert at Brown University and Harvard Law School, filed an amicus brief in 2024 that argued against forcing ByteDance to divest from TikTok on constitutional grounds.
+Edgar said data privacy concerns had been better addressed at the end of Trump’s first term and early in the presidency of Joe Biden, when pressure from the executive branch forced TikTok to negotiate terms with the Committee on Foreign Investment in the United States.
+“I felt that those restrictions were really quite significant, and no other social media company in the world has ever done anything like that,” Edgar said. Edgar said the forced sale that made Montana’s ban moot could give users a false sense of security.
+“I actually worry that there’s going to be less oversight of TikTok’s data, less pressure to uphold some of the requirements in that data safeguarding agreement that they had,” Edgar said. “And so, in a way, we’re in a worse position now than we were when TikTok was owned by ByteDance.”
+Edgar emphasized that potential security risks remain, despite the company diluting its Chinese ownership.
+“They focused on the wrong thing,” Edgar said about the supporters of the forced sale. “They focused on who owns the company instead of on what are the real risks? How would a country like China get ahold of data? And what are we going to do to protect our personal data against China? And, you know, TikTok is certainly one potential vulnerability, but there are so many others.”
+This story was originally published by Montana Free Press and distributed through a partnership with The Associated Press.

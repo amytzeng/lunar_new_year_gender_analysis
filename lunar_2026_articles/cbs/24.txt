@@ -1,0 +1,8 @@
+article_id: cbs_24
+url: https://www.cbsnews.com/colorado/video/far-east-center-celebrates-lunar-new-year-with-festival/
+title: Far East Center celebrates Lunar New Year with festival
+date: 2026-03-06
+author: 
+matched_keywords: Lunar New Year
+content:
+©2026 CBS Broadcasting Inc. All Rights Reserved.

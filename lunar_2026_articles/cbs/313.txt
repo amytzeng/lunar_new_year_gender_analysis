@@ -1,0 +1,28 @@
+article_id: cbs_313
+url: https://www.cbsnews.com/news/tariffs-stock-market-dow-jones-nasdaq-february-23/
+title: Dow closes down more than 800 points as AI and tariff risks rattle investors
+date: 2026-03-06
+author: 
+matched_keywords: Lunar New Year
+content:
+Updated on:  February 23, 2026 / 5:05 PM EST / CBS News
+Stocks slumped on Monday as jittery investors digested President Trump's plan to raise global tariffs to 15% and amid renewed concerns about the impact of artificial intelligence apps on the technology industry.
+The Dow Jones slid 822 points, or 1.7%, to close at 48,804, while the S&P 500 fell 72 points, or 1%. The tech-heavy Nasdaq Composite dropped 1.1%.
+Gold, regarded as a safe haven in periods of market turbulence, rose 3.4% to $5,254, according to FactSet.
+Wall Street analyst Adam Crisafulli, head of Vital Knowledge, pointed to concerns about the AI impact on the software sector and other industries as the main reason stocks sank on Monday.
+AI — which until recently had propelled the stock market to a succession of record highs — is "increasingly a net negative for the equity market," he told investors in a research note.
+Wall Street is also fretting over the repercussions the technology could have for white-collar jobs, a fear stoked in part by a viral Substack post published Sunday by Citrini Research, an independent research firm.
+In the analysis, Citrini presents a hypothetical scenario from 2028 where rapid AI development begins to chip away at the labor force as companies decide they need fewer workers. In the scenario, unemployment has risen to 10.2%.
+The Free Press: Are We at an AI Precipice?
+Mr. Trump's move to immediately hike tariffs after the Supreme Court on Friday struck down his administration's emergency tariffs also injected fresh uncertainty into financial markets, analysts noted. Mr. Trump initially said he would impose a 10% global tariff , but on Saturday upped that levy to 15% .
+"Stocks got a boost Friday from the Supreme Court's tariff ruling, but it quickly became clear that the decision was simply going to open a new chapter in the trade saga — not end it," according to Chris Larkin, managing director of trading and investing at E-Trade from Morgan Stanley.
+Despite today's drop, Wall Street's response was far milder than in April 2025, when stocks nosedived after Mr. Trump announced a sweeping set of reciprocal tariffs and a baseline 10% tariff on U.S. trading partners.
+"Tariffs really aren't driving the Mon[day] price action, but the enormous uncertainty and confusion associated with the SCOTUS decision and Trump's subsequent actions and threats (including several social media posts) certainly aren't helping equity sentiment," Crisafulli said.
+The U.S. dollar's value edged lower against other currencies. Bitcoin briefly fell below $64,000 but remained above its low point reached earlier this month. Gold continued to rise thanks to its reputation as something safer to own during uncertain times.
+Most of the president's previous levies hinged on a law called the International Emergency Economic Powers Act, or IEEPA. Mr. Trump is now turning to Section 122 of the Trade Act of 1974 to implement his next round of global tariffs, which are scheduled to take effect starting Feb. 24.
+While the new round of tariffs may introduce more uncertainty, they are unlikely to have a meaningful impact on economic activity, Angelo Kourkafas, a senior global investment strategist at financial firm Edward Jones, said in an email.
+"We advise investors not to overreact to headlines," he said.
+Edited by Alain  Sherter
+The Associated  Press contributed to this report.
+© 2026 CBS Interactive Inc. All Rights Reserved.
+Copyright ©2026 CBS Interactive Inc. All rights reserved.

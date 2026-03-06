@@ -1,0 +1,11 @@
+article_id: cnn_201
+url: https://www.cnn.com/2026/02/24/science/video/nasa-artemis-2-delay-helium-leak-digvid
+title: NASA’s historic moon mission hits a snag
+date: 2026-03-06
+author: 
+matched_keywords: Lunar New Year
+content:
+The NASA-led Artemis II mission encountered an unexpected helium issue that will delay the highly anticipated launch of four astronauts to deep space.
+© 2026 Cable News Network. A Warner Bros. Discovery Company. All Rights Reserved. CNN Sans ™ & © 2016 Cable News Network.
+Scan the QR code to download the CNN app on Google Play.
+Scan the QR code to download the CNN app from the Apple Store.

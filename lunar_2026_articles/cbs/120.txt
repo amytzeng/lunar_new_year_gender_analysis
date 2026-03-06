@@ -1,0 +1,8 @@
+article_id: cbs_120
+url: https://www.cbsnews.com/colorado/video/windsor-police-department-begins-blue-envelope-program-adopted-by-other-law-enforcement-in-colorado/
+title: Windsor Police Department begins Blue Envelope program adopted by other law enforcement in Colorado
+date: 2026-03-06
+author: 
+matched_keywords: Lunar New Year
+content:
+©2026 CBS Broadcasting Inc. All Rights Reserved.

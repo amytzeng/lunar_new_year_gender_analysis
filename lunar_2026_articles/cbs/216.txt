@@ -1,0 +1,8 @@
+article_id: cbs_216
+url: https://www.cbsnews.com/video/trump-delivering-state-of-the-union-address-as-republicans-face-midterm-fears/
+title: Trump delivering State of the Union address as Republicans face midterm fears
+date: 2026-03-06
+author: 
+matched_keywords: Lunar New Year
+content:
+Copyright ©2026 CBS Interactive Inc. All rights reserved.

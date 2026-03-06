@@ -1,0 +1,8 @@
+article_id: cbs_118
+url: https://www.cbsnews.com/video/armed-man-shot-and-killed-after-entering-secure-perimeter-at-mar-a-lago/
+title: Armed man shot and killed after entering secure perimeter at Mar-a-Lago
+date: 2026-03-06
+author: 
+matched_keywords: Lunar New Year
+content:
+Copyright ©2026 CBS Interactive Inc. All rights reserved.

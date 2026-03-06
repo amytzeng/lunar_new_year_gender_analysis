@@ -1,0 +1,8 @@
+article_id: cbs_235
+url: https://www.cbsnews.com/newyork/video/nurses-return-to-work-at-some-nyc-hospitals-following-month-long-strike/
+title: Nurses return to work at some NYC hospitals following month-long strike
+date: 2026-03-06
+author: 
+matched_keywords: Lunar New Year
+content:
+©2026 CBS Broadcasting Inc. All Rights Reserved.

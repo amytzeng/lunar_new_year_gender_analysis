@@ -1,0 +1,8 @@
+article_id: cbs_100
+url: https://www.cbsnews.com/sanfrancisco/video/tuesday-morning-first-alert-weather-forecast-with-zoe-mintz-22426/
+title: Tuesday morning First Alert weather forecast with Zoe Mintz - 2/24/26
+date: 2026-03-06
+author: 
+matched_keywords: Lunar New Year
+content:
+©2026 CBS Broadcasting Inc. All Rights Reserved.

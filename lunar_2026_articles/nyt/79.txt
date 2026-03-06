@@ -1,0 +1,22 @@
+article_id: nyt_79
+url: https://www.nytimes.com/by/oren-cass
+title: Oren Cass
+date: 2026-03-06
+author: 
+matched_keywords: Lunar New Year
+content:
+Recent and archived work by Oren Cass for The New York Times
+Regulating the industry is useful. Shaming it is crucial.
+Questions remain about the Fed’s independence, the future path of interest rates and whether Kevin Warsh can reform the institution as he has proposed.
+By Oren Cass, Jason Furman and Natasha Sarin
+Two economists on the price of playing nice with a superpower.
+By Jason Furman, Oren Cass, Ariel Kaminer and Derek Arthur
+The rate cut was the least of it.
+By Rebecca Patterson, Oren Cass, Jason Furman and Lawrence H. Summers
+The economic forecasts are murky, the markets are gyrating, and maybe we’ll all get fewer dolls this year.
+By Oren Cass, Jason Furman and Rebecca Patterson
+The most significant effort to remake the post-World War II trade system was underway — until it wasn’t.
+By Oren Cass, Jason Furman, Rebecca Patterson and Lawrence H. Summers
+It’s a matter of timing and communication.
+Will these strategies do to Trump’s presidency what they did to Biden’s?
+Their economic models produced a disaster, but they doubled down.

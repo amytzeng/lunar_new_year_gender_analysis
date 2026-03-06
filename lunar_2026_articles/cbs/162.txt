@@ -1,0 +1,8 @@
+article_id: cbs_162
+url: https://www.cbsnews.com/losangeles/video/evacuation-warning-in-place-as-southern-california-winter-storm-brings-threat-of-debris-flows/
+title: Evacuation warning in place as Southern California winter storm brings threat of debris flows
+date: 2026-03-06
+author: 
+matched_keywords: Lunar New Year
+content:
+©2026 CBS Broadcasting Inc. All Rights Reserved.

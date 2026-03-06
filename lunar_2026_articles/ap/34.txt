@@ -1,0 +1,30 @@
+article_id: ap_34
+url: https://apnews.com/article/stocks-markets-trump-inflation-ai-d088a5ec8d70b8ef5b1131c4a1c4bc52
+title: US stocks edge higher after swinging through worries about AI and the economy
+date: 2026-03-06
+author: 
+matched_keywords: Lunar New Year
+content:
+NEW YORK (AP) — A quiet finish for the U.S. stock market on Tuesday masked big swings underneath the surface as companies talked about how discouraged their customers are feeling and some tech stocks continued to feel the downside of the artificial-intelligence boom.
+The S&P 500 rose 0.1% after flipping earlier between a gain of 0.5% and a loss of nearly 1%. The Dow Jones Industrial Average added 32 points, or 0.1%, and the Nasdaq composite gained 0.1%.
+Paramount Skydance helped lead the market and rose 4.9% after Warner Bros. Discovery said it would allow Paramount a chance to give its “best and final” bid to buy the entertainment company. Paramount is trying to top an offer from Netflix.
+Warner Bros. Discovery rose 2.7%, and Netflix added 0.2%.
+On the losing end of Wall Street was General Mills, which sank 7% after warning that its customers are feeling uneasy. The company behind the Cheerios, Nature Valley and Pillsbury brands cut its forecast for an underlying measure of profit for 2026, saying declines would likely be sharper than it earlier expected.
+Several surveys have recently shown weak confidence among U.S. households , which are struggling with inflation that remains higher than anyone would like, a job market coming off a weak year of growth and worries about tariffs.
+Genuine Parts, which sells auto and industrial replacement parts, said it’s also “navigating a dynamic environment” while reporting weaker results for the latest quarter than analysts expected.
+It plans to split into two separate, publicly traded companies in early 2027, with one focusing on auto parts and the other on industrial parts. Genuine Parts’ stock fell 14.6%
+Drops for some Big Tech stocks were the heaviest weights on the market Tuesday, including a 1.2% fall for Alphabet.
+The moves were tentative, though, and Nvidia swung between being one of the market’s heaviest weights and one of its biggest strengths.
+Markets need such Big Tech companies to stabilize and “need to see less sell first/ask questions later behavior from investors,” according to Sameer Samana, head of global equities and real assets at Wells Fargo Investment Institute.
+Last week, Wall Street shook when stocks of software and other companies tumbled as investors hunted for companies that could be potential losers if AI ends up remaking the world and their industries.
+“Overall, the market is still close to records highs, but it may not feel that way to some investors because of the sharp sell-offs that seem to derail upswings almost as soon as they begin,” according to Chris Larkin, managing director, trading and investing, at E-Trade from Morgan Stanley.
+The market has seen a sharp turnaround from prior years, when the promise of AI helped drive U.S. stock indexes to record after record. Now, companies in industries as varied as software and legal services and trucking have seen investors suddenly turn against them when worries flare that AI-powered competitors could steal their customers.
+The companies spending big on AI are feeling their own pressure, too.
+Global fund managers say they’re worried about the risk that companies are pouring too many dollars into AI data centers and chips. Those companies will need to see tremendous profits and productivity to make their investments worth it. Alphabet, for example, said its spending on AI and other investments could double this year to roughly $180 billion.
+A survey of global fund managers by Bank of America found a record percentage is saying that companies are “overinvesting.” That could mean an eventual pullback in spending on chips from Nvidia and other companies.
+All told, the S&P 500 added 7.05 points to 6,843.22. The Dow Jones Industrial Average rose 32.26 to 49,553.19, and the Nasdaq composite gained 31.71 to 22,578.38.
+In the bond market, Treasury yields held relatively steady.
+The yield on the 10-year Treasury edged up to 4.05% from 4.04% late Friday.
+In stock markets abroad, indexes rose in Europe following a quiet day in Asia, where most markets were closed for Lunar New Year holidays.
+Japan’s Nikkei 225 slipped 0.4%. Weak economic data for Japan appeared to weigh on the market, and a 5.1% decline for tech giant SoftBank Group also pulled shares lower. The decline followed a big rally after a Feb. 8 general election appeared to clear the way for Prime Minister Sanae Takaichi’s ruling party to push through policies to help the economy.
+AP Business Writers Yuri Kageyama and Matt Ott contributed.

@@ -1,0 +1,28 @@
+article_id: ap_300
+url: https://apnews.com/article/organ-donor-transplant-dcd-afe806d47e1c10e29d9464cc93e30ee7
+title: More organs are being donated after the heart stops, not brain death. Policies are changing too
+date: 2026-03-06
+author: 
+matched_keywords: Lunar New Year
+content:
+WASHINGTON (AP) — The vast majority of organ donations once came from people who were brain-dead. Now they’re increasingly coming from people who died when their heart stopped beating, a major shift that can boost transplants but also raises public confusion , researchers reported Thursday.
+What’s called donation after circulatory death, or DCD, jumped dramatically in a short period: It accounted for 49% of all deceased donors in the U.S. last year, up from 2% in 2000.
+Technology has helped overcome barriers to using those organs — ways to keep them from deteriorating as the heartbeat winds down — spurring this type of donation at the same time the nation is hunting ways to overcome a dire shortage. More than 100,000 people are on the transplant waiting list and thousands die waiting. Just over 49,000 transplants were performed last year.
+But specialists from NYU Langone Health found donation after circulatory death is far more common in some parts of the country than others. That suggests better educating the public and local hospitals about the option could further increase access to lifesaving transplants.
+The findings, published in the medical journal JAMA, come as some rare but scary reports of potential donors who showed signs of life have shaken trust in the transplant system.
+Additional safeguards are being developed by both federal officials and the nonprofit organ procurement organizations, or OPOs, that the government certifies to coordinate donation. The new findings may aid that policymaking.
+Donation after circulatory death is complex and “we need to make sure we are doing it well,” said Dr. Babak Orandi, an NYU transplant surgeon and study co-author. “If we stop doing it or severely restrict it, there would be pretty significant repercussions for patients.”
+While living donors can provide certain organs, most transplants are thanks to donations from the deceased. Brain death is declared when testing shows someone has no remaining brain function. If they’re a possible organ donor, the body is kept on a ventilator to support the organs until they’re retrieved.
+Donation after circulatory death can be an option if someone has a nonsurvivable injury but all brain function hasn’t ceased, and the family chooses to end life support. Death occurs after the heart gradually stops beating. Once that happens there’s a mandatory wait — five minutes, according to guidelines from the American Society of Transplant Surgeons — to be sure it won’t restart. Then the person’s doctor declares death.
+By law, donation and transplant groups can’t participate in the decision to end life support, and they’re not in the room when it’s withdrawn. Organ retrieval cannot begin until death is declared. If death doesn’t occur quickly enough, within about two hours, the organs aren’t usable and retrieval isn’t attempted.
+To track the donor evolution, the NYU team analyzed data from the nation’s Organ Procurement and Transplantation Network, and from 55 OPOs that recover organs in assigned regions around the country.
+Last year, circulatory death accounted for more than half the donors at 24 organ donation agencies. But it varied widely, with some accounting for as little as 11% of donors.
+Hospital resources play a role, according to the Association for Organ Procurement Organizations. Decisions to withdraw life support are common, but small or rural hospitals may not be as familiar with the extra steps involved with donation.
+Another factor is whether hospitals have adopted that new technology. The quality of organs can suffer as the heart stops, briefly depriving them of oxygen. After death is declared, a tool called normothermic regional perfusion allows surgeons to temporarily restore that blood flow to organs in the chest or abdomen — avoiding the brain — while they do the delicate work of removing them.
+It has helped enable use of organs from older, sicker donors after their hearts stop. But even temporarily restoring blood flow after death has raised ethical questions.
+The Health Resources and Services Administration is preparing new national policies to improve safeguards for this type of donation. One proposal would allow anyone involved with a potential donor who questions if their condition is right for life-support withdrawal to call for a pause in those preparations.
+Other proposals would require OPOs to document that the hospitals caring for the potential donor are performing appropriate neurological exams, and to educate families of potential DCD donors about the steps required.
+The Association of Organ Procurement Organizations has some similar guidelines and some OPOs already have created checklists to help hospitals.
+The group also urges withdrawing life support in the critical care unit, not in an operating room, to help avoid public confusion about when death occurs and when organ groups step in, said association president Jeff Trageser.
+Donation after circulatory death “requires a lot of buy-in from the community, including the local hospitals, to make this happen,” said NYU’s Orandi. “A couple of cases out of many, many cases has led to a loss of trust.”
+The Associated Press Health and Science Department receives support from the Howard Hughes Medical Institute’s Department of Science Education and the Robert Wood Johnson Foundation. The AP is solely responsible for all content.

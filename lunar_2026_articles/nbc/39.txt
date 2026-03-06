@@ -1,0 +1,21 @@
+article_id: nbc_39
+url: https://www.nbcnews.com/business/business-news/elon-musks-spacex-acquires-xai-rcna257121
+title: Elon Musk's SpaceX acquires xAI
+date: 2026-03-06
+author: 
+matched_keywords: Lunar New Year
+content:
+SpaceX on Monday acquired xAI, the artificial intelligence startup that also owns the X social media platform, in a deal combining two companies owned by Elon Musk.
+Musk in a news release said that the combination would aim to  pursue AI data centers in outer space.
+The deal comes on the verge of SpaceX's highly anticipated initial public offering, which is expected to occur later this year.
+The deal creates "the most ambitious, vertically-integrated innovation engine on (and off) Earth, with AI, rockets, space-based internet, direct-to-mobile device communications and the world’s foremost real-time information and free speech platform," Musk said in a statement .
+The combined company will become the world’s most valuable private company, worth more than $1.2 trillion, Bloomberg News reported . NBC News has not been able to verify the valuation, and the companies did not respond to requests for comment.
+Musk went on to say that space would be a crucial avenue for building advanced artificial intelligence.
+"In the long term, space-based AI is obviously the only way to scale," Musk wrote. "The only logical solution therefore is to transport these resource-intensive efforts to a location with vast power and space."
+Musk also offered an ambitious timeline for starting to develop AI from space. He's failed to meet many of the previous goals he set for his companies.
+“My estimate is that within 2 to 3 years, the lowest cost way to generate AI compute will be in space,” he wrote in Monday’s news release.
+SpaceX already conducts rocket tests using reusable parts, provides cellular phone and data services to T-Mobile customers, and is working with NASA to return humans to the moon in the near future.
+Meanwhile, xAI, Musk's bid to get in on the AI boom, has reportedly soared to a more than $200 billion valuation . Along the way, the company and its AI bot, Grok, have drawn criticism. Recently, the company limited its image generation technology after users said it was creating sexualized deepfakes . A number of state attorneys general and the European Union are investigating the company.
+Musk's companies have often been intertwined, but Monday's deal brings them even closer together. Another one of Musk's companies, Tesla, has invested in xAI and uses some of its technology.
+Musk merged his social media site X with xAI in early 2025 , but the tie-up between xAI and SpaceX marks the largest combination to date of Musk's vast business projects.
+Founded in 2002, SpaceX has helped catapult Musk to the ranking of richest person in the world, with a net worth of more than $670 billion . The company has quickly become a critical supplier of satellite-based internet around the world, with more than 9,000 satellites orbiting Earth, used by both consumers and governments. SpaceX also holds multiple NASA contracts.

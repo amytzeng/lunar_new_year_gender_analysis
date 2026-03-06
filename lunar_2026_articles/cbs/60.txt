@@ -1,0 +1,8 @@
+article_id: cbs_60
+url: https://www.cbsnews.com/losangeles/video/terminal-island-freeway-look-at-this/
+title: Terminal Island Freeway | Look At This!
+date: 2026-03-06
+author: 
+matched_keywords: Lunar New Year
+content:
+©2026 CBS Broadcasting Inc. All Rights Reserved.

@@ -1,0 +1,24 @@
+article_id: cnn_70
+url: https://www.cnn.com/2026/02/24/tech/anthropic-chinese-ai-distillation-intl-hnk
+title: Are China’s ‘AI tigers’ cheating? US rival Anthropic alleges some are
+date: 2026-03-06
+author: 
+matched_keywords: Lunar New Year
+content:
+United States artificial intelligence firm Anthropic is accusing three prominent Chinese AI labs of illegally extracting capabilities from its Claude model to advance their own, claiming it raises national security concerns.
+The Chinese unicorns – DeepSeek, Minimax and Moonshot AI – created over 24,000 fraudulent accounts and trained their models using over 16 million exchanges with Claude, a process known as distillation, Anthropic alleged in a Monday blogpost .
+CNN has reached out to DeepSeek, MiniMax and Moonshot AI for comment.
+Distillation is a common method of training in the AI industry with frontier labs often distilling their own models to make cheaper versions for customers. But most leading proprietary AI model providers including Anthropic explicitly ban such practices. Claude is not available in China.
+The accusations come after Anthropic’s rival OpenAI made similar allegations earlier this month that DeepSeek and other Chinese AI companies are illegally distilling its ChatGPT models over the past year, in a memo sent to the US House Select Committee on China.
+DeepSeek shocked the industry last year when it launched a powerful model close to matching industry frontrunners like ChatGPT – but with fewer computing resources required.
+This development challenged the prevailing wisdom then that training advanced models require more processing power, and raised questions about the effectiveness of US tech and export controls.
+OpenAI then said it was reviewing evidence that DeepSeek “may have improperly distilled” its models.
+In the memo this month, OpenAI said the rapid advancements of DeepSeek are based on “its ongoing efforts to free-ride on the capabilities developed by OpenAI and other US frontier labs.”
+DeepSeek has yet to comment publicly on Open AI’s allegations.
+Anthropic warned that illicitly distilled models may lack safety guardrails that companies like itself and other US model providers implement, and that they could create national security risks if they are used for cybercrimes and bio-weapons, for example.
+These models could also enable “authoritarian governments to deploy frontier AI for offensive cyber operations, disinformation campaigns, and mass surveillance,” it said. “The window to act is narrow.”
+China’s AI industry looks unstoppable in the race to best US rivals. But is it?
+DeepSeek’s surprising rise ignited debate over whether US export controls had failed. But Anthropic argued that the fact that Chinese AI labs in question developed high-performance models through distillation underscored the rationale for those restrictions, which it said it has long supported to preserve the US’s lead in AI.
+Besides DeepSeek, MiniMax and Moonshot AI’s model Kimi have risen to prominence in China, becoming known as “AI tigers.” The three currently rank among the top 15 models on the prominent Artificial Analysis leaderboard.
+Anthropic said that by exposing the distillation attempts, it demonstrates the effectiveness of export controls and shows that cutting-edge model development cannot be sustained alone through innovation without access to advanced chips.
+“In reality, these advancements depend in significant part on capabilities extracted from American models, and executing this extraction at scale requires access to advanced chips,” it said.

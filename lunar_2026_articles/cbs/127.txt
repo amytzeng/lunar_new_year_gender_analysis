@@ -1,0 +1,8 @@
+article_id: cbs_127
+url: https://www.cbsnews.com/detroit/video/detroit-woman-sues-city-police-department/
+title: Detroit woman sues city police department
+date: 2026-03-06
+author: 
+matched_keywords: Lunar New Year
+content:
+©2026 CBS Broadcasting Inc. All Rights Reserved.

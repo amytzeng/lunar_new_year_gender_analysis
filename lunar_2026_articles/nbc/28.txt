@@ -1,0 +1,16 @@
+article_id: nbc_28
+url: https://www.nbcnews.com/science/space/nasa-delays-artemis-ii-moon-launch-issues-wet-rehearsal-rcna257196
+title: NASA delays Artemis II moon launch after issues during rehearsal
+date: 2026-03-06
+author: 
+matched_keywords: Lunar New Year
+content:
+NASA said on Tuesday that it was delaying its mission to send four astronauts on a journey around the moon, after issues arose during a critical test of its rocket.
+Mission managers were conducting an elaborate launch day walkthrough, known as a “wet dress rehearsal,” at Kennedy Space Center in Florida when engineers detected leaking hydrogen at the base of the Space Launch System rocket. NASA was forced to end the test with around 5 minutes and 15 seconds remaining in the simulated launch countdown.
+Shortly after 2 a.m. ET on Tuesday, NASA announced that it would forgo February’s launch window (which lasted until Feb. 11) for the Artemis II mission around the moon to allow teams to review data and conduct another wet dress rehearsal. The agency said it will aim for March “as the earliest possible launch opportunity.”
+NASA has said launch opportunities are available from March 6 through March 9 and on March 11, with additional dates in April, if needed.
+“To me, the big takeaway was we got a chance for the rocket to talk to us, and it did just that,” John Honeycutt, the Artemis II mission management team chair, said Tuesday afternoon in a news briefing discussing the wet dress rehearsal.
+He added that the elaborate practice run is designed to put the rocket and team through their paces “before we ask our crew to go fly on launch day.”
+NASA’s wet dress rehearsals are a standard part of its process and allow mission managers to assess the performance and readiness of a rocket. That is especially important in this case, since the agency's Space Launch System (SLS) booster and Orion spacecraft have never launched with astronauts onboard and haven't flown since late 2022.
+“With more than three years between SLS launches, we fully anticipated encountering challenges,” NASA Administrator Jared Isaacman wrote in a post on X . “That is precisely why we conduct a wet dress rehearsal. These tests are designed to surface issues before flight and set up launch day with the highest probability of success.”
+The hourslong rehearsal involved filling the rocket with more than 700,000 gallons of cryogenic propellant and simulating each step of the launch countdown as would occur on the actual day.

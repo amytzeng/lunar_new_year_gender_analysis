@@ -1,0 +1,8 @@
+article_id: cbs_297
+url: https://www.cbsnews.com/chicago/video/horse-rescued-from-icy-swimming-pool/
+title: Horse rescued from icy swimming pool
+date: 2026-03-06
+author: 
+matched_keywords: Lunar New Year
+content:
+©2026 CBS Broadcasting Inc. All Rights Reserved.

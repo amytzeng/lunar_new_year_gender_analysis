@@ -1,0 +1,8 @@
+article_id: cbs_257
+url: https://www.cbsnews.com/newyork/video/columbia-student-back-at-home-after-being-detained-by-dhs-agents/
+title: Columbia Student back at home after being detained by DHS agents
+date: 2026-03-06
+author: 
+matched_keywords: Lunar New Year
+content:
+©2026 CBS Broadcasting Inc. All Rights Reserved.

@@ -1,0 +1,10 @@
+article_id: nyt_2
+url: https://www.nytimes.com/video/style/100000010742155/prada-fall-runway.html
+title: Prada Peels Back the Layers at Milan Fashion Week
+date: 2026-03-06
+author: 
+matched_keywords: Lunar New Year
+content:
+new video loaded: Prada Peels Back the Layers at Milan Fashion Week
+Russia-Ukraine Crisis
+Visual Investigations

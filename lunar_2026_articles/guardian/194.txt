@@ -1,0 +1,8 @@
+article_id: guardian_194
+url: https://www.theguardian.com/technology/cybercrime+hacking
+title: Cybercrime + Hacking | The Guardian
+date: 2026-03-06
+author: 
+matched_keywords: Lunar New Year
+content:
+‘This will be a stressful job’: Sam Altman offers $555k salary to fill most daunting role in AI 29 Dec 2025 14.44 GMT The Com: the growing cybercrime network behind recent Pornhub hack 19 Dec 2025 13.34 GMT UK Foreign Office victim of cyber-attack in October, says Chris Bryant 19 Dec 2025 12.59 GMT Denmark says Russia was behind two ‘destructive and disruptive’ cyber-attacks 18 Dec 2025 19.19 GMT

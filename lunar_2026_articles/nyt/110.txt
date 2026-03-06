@@ -1,0 +1,20 @@
+article_id: nyt_110
+url: https://www.nytimes.com/by/jason-furman
+title: Jason Furman
+date: 2026-03-06
+author: 
+matched_keywords: Lunar New Year
+content:
+Recent and archived work by Jason Furman for The New York Times
+The future of the field is still up for grabs.
+Questions remain about the Fed’s independence, the future path of interest rates and whether Kevin Warsh can reform the institution as he has proposed.
+By Oren Cass, Jason Furman and Natasha Sarin
+And the market is gently shrugging.
+Will anyone be in charge?
+There are some possible explanations for what’s happening with seemingly conflicting macroeconomic data.
+Consensus may be a thing of the past. And that’s good.
+Two economists on the price of playing nice with a superpower.
+By Jason Furman, Oren Cass, Ariel Kaminer and Derek Arthur
+The rate cut was the least of it.
+By Rebecca Patterson, Oren Cass, Jason Furman and Lawrence H. Summers
+Economic data suggests labor supply and immigration changes are affecting job growth. The Federal Reserve can’t fix that, but Trump can.

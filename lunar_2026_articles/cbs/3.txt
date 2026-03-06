@@ -1,0 +1,8 @@
+article_id: cbs_3
+url: https://www.cbsnews.com/video/nasa-chief-jared-isaacman-major-changes-artemis-program-full-interview/
+title: NASA chief Jared Isaacman discusses major changes to Artemis program to get it "back on track"
+date: 2026-03-06
+author: 
+matched_keywords: Lunar New Year
+content:
+Copyright ©2026 CBS Interactive Inc. All rights reserved.

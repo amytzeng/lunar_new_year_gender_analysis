@@ -1,0 +1,24 @@
+article_id: guardian_74
+url: https://www.theguardian.com/environment/2026/feb/25/toxic-waste-from-screens-ends-up-in-endangered-dolphins-study-finds
+title: Toxic waste from screens ends up in endangered dolphins, study finds
+date: 2026-03-06
+author: 
+matched_keywords: Lunar New Year
+content:
+Toxic e-waste chemicals from television, computer and smartphone screens have been found in the brains and bodies of endangered dolphins and porpoises in the South China Sea.
+Research published in Environmental Science & Technology detected significant levels of gene-altering liquid crystal monomers (LCMs) in Indo-Pacific humpback dolphins and finless porpoises.
+LCMs are synthetic, organic chemicals commonly used in the manufacture of screens for televisions, laptops and smartphones. These chemicals control how light passes through display screens and enable the clear images users have come to expect from devices.
+LCM pollutants from e-waste are of particular concern to scientists because they contaminate the air, wastewater and oceans.
+“These light-emitting organic chemicals were designed to be very stable so they could last a long time inside your TV, computer and phone screens,” said Yuhe He, one of the study’s authors and a researcher at City University of Hong Kong. “Ironically, this very stability is what makes them a problem in the environment: they don’t easily break down.”
+Previous studies have illustrated that these pollutants pose health risks to humans as well as sea animals.
+The toxic pollutants detected in the dolphins and porpoises have been similarly detected in the fish and invertebrates that these species eat, suggesting that LCMs enter the animals through the food chain.
+He and colleagues analysed tissue samples from the endangered species in the South China Sea over 14 years. They screened for 62 individual liquid crystal monomers across samples of dolphin and porpoise blubber, muscle, liver, kidney and brain tissue.
+Since the research began, manufacturers have largely replaced LCMs with LEDs (light-emitting diodes) in screens. The scientists noticed a correlation between the rise and fall of the use of these chemicals and their accumulation in the sea animals over the course of the study.
+Analysis shows that activity from the four most detected types of LCMs included gene alteration related to DNA repair and cell division in dolphin cells.
+While the highest concentrations of the contaminants were found in the blubber, the scientists were surprised to detect small amounts of LCMs in the animals’ brains, which demonstrated the chemicals’ ability to cross the blood-brain barrier.
+“The presence of LCMs in their brains is a major red flag,” He said. “If these chemicals can cross the blood-brain barrier in dolphins, we must be concerned about the potential for similar effects in humans who are exposed through contaminated seafood or even drinking water.”
+Electronic waste is a growing problem around the world, with 62m tonnes of it generated each year. The main culprit is “ fast tech ” – cheap and often poorly manufactured items viewed as disposable, including devices that use LCMs.
+To reduce the damage, the researchers said people should try to extend the life of their electronics through repairs and disposing of them using certified e-waste recycling methods.
+The researchers added that stricter regulations were needed over the use of persistent chemicals in consumer electronics before they enter the market.
+“We don’t yet have direct evidence of the human health impact, but our lab tests on dolphin cells showed that these chemicals can alter gene activity related to DNA repair and cell division,” He said.
+“This is a warning signal. If we wait until the damage to human health is fully proven, it will likely be too late. Acting now on e-waste regulation is about preventing a future public health crisis.”

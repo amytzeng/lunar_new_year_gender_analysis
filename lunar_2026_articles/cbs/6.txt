@@ -1,0 +1,8 @@
+article_id: cbs_6
+url: https://www.cbsnews.com/colorado/video/denvers-far-east-center-holds-lunar-new-year-festival/
+title: Denver's Far East Center holds Lunar New Year festival
+date: 2026-03-06
+author: 
+matched_keywords: Lunar New Year
+content:
+©2026 CBS Broadcasting Inc. All Rights Reserved.

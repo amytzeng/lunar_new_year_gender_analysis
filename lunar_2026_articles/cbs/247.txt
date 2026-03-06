@@ -1,0 +1,8 @@
+article_id: cbs_247
+url: https://www.cbsnews.com/boston/video/attleboro-schools-reopen-upsetting-parents-who-say-the-travel-conditions-are-still-unsafe/
+title: Attleboro schools reopen, upsetting parents who say the travel conditions are still unsafe
+date: 2026-03-06
+author: 
+matched_keywords: Lunar New Year
+content:
+©2026 CBS Broadcasting Inc. All Rights Reserved.

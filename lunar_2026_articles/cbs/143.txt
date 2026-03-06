@@ -1,0 +1,8 @@
+article_id: cbs_143
+url: https://www.cbsnews.com/miami/video/temperatures-back-up-to-the-70s-after-chilly-days-in-south-florida/
+title: Temperatures back up to the 70s after chilly days in South Florida
+date: 2026-03-06
+author: 
+matched_keywords: Lunar New Year
+content:
+©2026 CBS Broadcasting Inc. All Rights Reserved.

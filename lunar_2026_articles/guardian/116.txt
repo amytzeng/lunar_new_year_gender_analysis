@@ -1,0 +1,8 @@
+article_id: guardian_116
+url: https://www.theguardian.com/technology/robots+technology
+title: Robots + Technology | The Guardian
+date: 2026-03-06
+author: 
+matched_keywords: Lunar New Year
+content:
+‘It’s survival of the fittest’: the UK kebab chain seeking an edge with robot slicers 20 Feb 2026 16.00 GMT New York governor pulls robotaxi expansion proposal for cities outside Big Apple 19 Feb 2026 21.24 GMT China’s dancing robots: how worried should we be? 18 Feb 2026 05.19 GMT Should we be impressed or worried by China's humanoid robot display? – video Video 0:52 The big AI job swap: why white-collar workers are ditching their careers 11 Feb 2026 05.00 GMT Hail our new robot overlords! Amazon warehouse tour offers glimpse of future 6 Feb 2026 12.00 GMT

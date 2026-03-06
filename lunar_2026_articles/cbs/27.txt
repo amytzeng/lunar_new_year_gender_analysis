@@ -1,0 +1,8 @@
+article_id: cbs_27
+url: https://www.cbsnews.com/newyork/video/year-of-the-horse-ushered-in-at-nyc-lunar-new-year-celebrations/
+title: Year of the Horse ushered in at NYC Lunar New Year celebrations
+date: 2026-03-06
+author: 
+matched_keywords: Lunar New Year
+content:
+©2026 CBS Broadcasting Inc. All Rights Reserved.

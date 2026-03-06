@@ -1,0 +1,59 @@
+article_id: ap_160
+url: https://apnews.com/article/tax-season-returns-irs-3392b432dafba153142f6dc3b5b9eab9
+title: Tax season is underway. Here’s what to know for stress-free filing with the IRS
+date: 2026-03-06
+author: 
+matched_keywords: Lunar New Year
+content:
+NEW YORK (AP) — Tax season is underway and you have until April 15 to file your return with the IRS. If you want to avoid the stress of the looming deadline, start getting organized as soon as possible.
+“Don’t wait until the last minute but also don’t rush,” said Tom O’Saben, director of tax content and government relations at the National Association of Tax Professionals,
+Gathering all your documents, signing up for direct deposit and keeping copies of your tax returns are some of the best practices when it comes to preparing to fill out your taxes. This year, due to the Republican tax and spending bill that President Donald Trump signed over the summer, there are new deductions taxpayers should know about.
+Among them are no tax on tips, no tax on overtime, deductions for car loan interest, and deductions for people who were 65 or older by Dec. 31, said Miguel Burgos, a certified public accountant and an expert for TurboTax.
+The average refund last year was $3,167. This year, analysts have projected it could be $1,000 higher, thanks to changes in tax law. More than 165 million individual income tax returns were processed last year, with 94% submitted electronically.
+If you find the process too confusing, there are plenty of free resources to help you get through it.
+Here are some things you need to know:
+While the required documents might depend on your individual case, here is a general list of what everyone needs:
+—Social Security number
+—W-2 forms, if you are employed
+—1099-G, if you are unemployed
+—1099 forms, if you are self-employed
+—Savings and investment records
+—Any eligible deduction, such as educational expenses, medical bills, charitable donations, etc.
+—Tax credits, such as the child tax credit, retirement savings contributions credit, etc.
+To find a more detailed document list, visit the IRS website.
+O’Saben recommends gathering all of your documents in one place before you start your tax return and also having your documents from last year. Taxpayers can also create an identity protection PIN number with the IRS to guard against identity theft. Once you create a number, the IRS will require it to file your tax return.
+— Change to standard deduction
+The standard deduction for single taxpayers is $15,750 for this year. For married couples filing jointly, it has increased to $31,500. For heads of households, the standard deduction is $23,625.
+— Change to state and local taxes (SALT) deduction
+The deduction cap on state and local taxes has increased from $10,000 to $40,000. The change is also known as the Working Families Tax Cut and was enacted in July 2025.
+“This is a big benefit, especially for states like California, New York, and New Jersey, that have a higher state income tax,” said Keith Hall, president and CEO of the National Association for the Self-Employed and a certified CPA.
+The SALT deduction is a federal tax deduction for some state and local taxes paid during the year. The total deduction had been capped at $10,000 since it started in 2018.
+People who have not previously itemized their SALT deduction might want to consider it this year. To know if you should itemize your deductions, O’Saben recommends that you ask yourself the following questions: Did you pay state taxes? Did you pay property taxes? Do you have mortgage interest? Do you have charitable contributions?
+What is known as “no tax on tips” is not quite accurate. This new deduction is only for qualified tips and is subject to income limitations.
+“It can be cash, it can be electronic as well. But the main thing is, hey, it has to be voluntary (tips),” Burgos said.
+The maximum annual deduction is capped at $2,500. The deduction phases out for taxpayers with modified adjusted gross income over $150,000, or $300,000 for joint filers. The tax deduction is also limited to specific industries where tipping is common practice. Some of the included industries are bartenders, food servers, musicians and housekeeping cleaners.
+To claim the new tax break, you will need to fill out a new tax form called Schedule 1-A.
+—Additional Schedule 1-A deductions
+Schedule 1-A is an IRS form used to claim and calculate four tax deductions originating from the tax and spending bill. They are the change in state and local tax deduction, deduction on qualified tips, and car loan and senior deductions.
+IRS Direct File, the electronic system for filing tax returns for free, will not be offered this year. For those who make $89,000 or less per year, IRS Free File offers free guided tax preparation; you can choose from eight IRS partners, such as TaxAct and FreeTaxUSA.
+Beyond companies such as TurboTax and H&R Block, taxpayers can also hire licensed professionals, such as certified public accountants. The IRS offers a directory of tax preparers across the United States.
+The IRS also funds two programs that offer free tax help: Volunteer Income Tax Assistance (VITA) and Tax Counseling for the Elderly (TCE). People who earn $69,000 or less a year, have disabilities, or are limited English speakers, qualify for the VITA program. Those who are 60 or older qualify for the TCE program. The IRS has a site for locating organizations hosting VITA and TCE clinics.
+Many people fear getting in trouble with the IRS if they make a mistake. Here’s how to avoid some of the most common ones:
+—Double-check your name on your Social Security card
+When working with clients, O’Saben asks them to double-check their number and their legal name, which can change when people get married.
+“If you got married last year and you now want to use your married name, that married name doesn’t exist if you haven’t filed it with Social Security,” O’Saben said.
+—Search for online tax statements
+Many people opt out of physical mail but when you do, it can also include your tax documents.
+“These documents may actually be available online because you may have chosen to have paperless contact. And because of that, you may need to go get those documents yourself,” O’Saben said.
+—Make sure you report all of your income
+If you had a second job in 2025, you need the W-2 or 1099 form for each job.
+In general, if you make a mistake or you’re missing something in your tax records, the IRS will audit you. An audit means that the IRS will ask you for more documentation.
+Currently, the tax credit is $2,200 per child but only $1,700 is refundable. This refund is called the Additional Child Tax Credit. To claim the Additional Child Tax Credit, you must have at least $2,500 of income for the tax year.
+You qualify for the full amount of the Child Tax Credit for each qualifying child if you meet all eligibility factors and your annual income is not more than $200,000 ($400,000 if filing a joint return). Parents and guardians with higher incomes may be eligible to claim a partial credit.
+You can find more details about the child tax credit here .
+Last September, the IRS began phasing out paper tax refund checks. If you’re expecting a tax refund , the IRS recommends you sign up for direct deposit.
+Tax season is prime time for tax scams , O’Saben said. These scams can come via phone, text, email and social media. The IRS uses none of those means to contact taxpayers.
+Sometimes scams are even operated by tax preparers, so it’s important to ask lots of questions. If a tax preparer says you will get a refund that is larger than what you’ve received in previous years, for example, that may be a red flag, O’Saben said.
+If you can’t see what your tax preparer is working on, get a copy of the tax return and ask questions about each of the entries.
+It’s always good practice to keep a record of your tax returns, just in case the IRS audits you for an item you reported years ago. O’Saben recommend keeping copies of your tax return documents five to seven years.
+The Associated Press receives support from Charles Schwab Foundation for educational and explanatory reporting to improve financial literacy. The independent foundation is separate from Charles Schwab and Co. Inc. The AP is solely responsible for its journalism.

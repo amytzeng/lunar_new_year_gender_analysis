@@ -1,0 +1,9 @@
+article_id: guardian_109
+url: https://www.theguardian.com/technology/video/2026/feb/18/should-we-be-impressed-or-worried-by-china-humanoid-robot-display-video
+title: Should we be impressed or worried by China's humanoid robot display? – video
+date: 2026-03-06
+author: 
+matched_keywords: Lunar New Year
+content:
+China Media Group's 2026 Spring Festival Gala drew widespread attention with a performance of humanoid robots that appeared to do martial arts alongside young performers. However, as the videos spread, viewers expressed both admiration and unease over the accelerating development of the machines. Experts have mixed views.
+China’s dancing robots: how worried should we be?

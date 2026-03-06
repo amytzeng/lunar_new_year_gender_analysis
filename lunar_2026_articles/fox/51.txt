@@ -1,0 +1,40 @@
+article_id: fox_51
+url: https://www.foxnews.com/politics/top-ai-firm-alleges-chinese-labs-used-24k-fake-accounts-siphon-us-tech
+title: Top AI firm alleges Chinese labs used 24K fake accounts to siphon US tech
+date: 2026-03-06
+author: 
+matched_keywords: Lunar New Year
+content:
+Fox News anchor Bret Baier explores how the technology is changing how the world operates on 'Special Report.'
+FIRST ON FOX: As Washington tightens export controls to preserve America’s artificial intelligence edge, top AI firm Anthropic alleges three China-based AI laboratories found another way to access advanced U.S. capabilities.
+The U.S. firm alleges DeepSeek, Moonshot AI and MiniMax used roughly 24,000 fraudulent accounts to generate more than 16 million exchanges with Anthropic's Claude chatbot in a coordinated "distillation" campaign designed to extract high-value model outputs, according to a report first obtained by Fox News Digital.
+The threat goes beyond ripping off U.S. companies, according to the report. Anthropic argues that models built through large-scale distillation are unlikely to retain the safety guardrails embedded in frontier U.S. systems.
+"Foreign labs that distill American models can then feed these unprotected capabilities into military, intelligence, and surveillance systems—enabling authoritarian governments to deploy frontier AI for offensive cyber operations, disinformation campaigns, and mass surveillance," Anthropic said.
+The U.S. military reportedly used Anthropic’s AI tool Claude during the operation that captured Venezuelan leader Nicolás Maduro. (Kurt "CyberGuy" Knutsson)
+Anthropic says it identified the campaigns using IP address correlations, request metadata and infrastructure indicators that differed sharply from normal customer traffic. The activity, the company said, was concentrated on Claude’s most advanced capabilities — including complex reasoning, coding and tool use — rather than casual consumer prompts.
+"We have high confidence these labs were conducting distillation attacks at scale," Jacob Klein, Anthropic’s head of threat intelligence, told Fox News Digital.
+Distillation is a common AI training technique in which a smaller or less capable model is trained on the outputs of a stronger one. Frontier labs often use it internally to create cheaper versions of their own systems.
+But Anthropic says the campaigns it uncovered were unauthorized and designed to shortcut years of research and reinforcement learning work.
+DEMOCRATS WARN TRUMP GREEN-LIGHTING NVIDIA AI CHIP SALES COULD BOOST CHINA’S MILITARY EDGE
+Across the three operations, more than 16 million exchanges were allegedly generated over a period ranging from weeks to months, according to Klein. Anthropic intervened after detecting the activity, though he acknowledged the broader challenge is ongoing.
+"There isn’t an immediate silver bullet to stop all of these," Klein said. "We view this as larger than Anthropic."
+While the company cannot precisely quantify how much the Chinese labs allegedly improved their systems, Klein said the capability gains were "meaningful" and "substantial."
+"What we can say with confidence is they distilled us at scale," he said.
+Fox News Digital reached out to DeepSeek, Moonshot AI and MiniMax for comment and has yet to receive replies.
+The report raises new questions about the effectiveness of current U.S. export controls, which largely have focused on limiting China’s access to advanced AI chips and direct transfers of model weights.
+Klein argued that distillation targets a different layer of competitive advantage — the reinforcement learning process that refines and sharpens frontier models after they are trained.
+"If you think about how you stay ahead in the AI race, compute is one piece of that," Klein said. "But increasingly reinforcement learning is critical. Distillation allows you to extract those capabilities."
+China accused of stealing U.S. AI technology. (Kritsapong Jieantaratip via Getty Images)
+He emphasized that advanced chips still "very much matter," but said policymakers must think about the issue "holistically."
+Anthropic said it has shared its findings with relevant U.S. government entities and industry partners. Klein suggested publicly naming the labs could prompt "thoughtful government action" or at least engagement with the companies involved.
+At the same time, the company said it has no evidence that the Chinese government directly coordinated the campaigns. But proxy services used to resell access to U.S. frontier AI models operate openly in China.
+Washington has tried to slow China’s AI progress by limiting access to the most advanced computer chips used to train powerful systems. But Anthropic argues that even without direct access to those chips, foreign labs can still copy parts of a model’s intelligence by repeatedly querying it and training their own systems on the answers.
+Anthropic has been in the spotlight in recent weeks amid reported tensions with the Pentagon over how its AI models can be used in military operations. (iStock)
+On Feb. 12, OpenAI sent a memo to the House Select Committee on the Chinese Communist Party alleging that Chinese AI startup DeepSeek systematically "stole" its intellectual property through large-scale distillation. According to OpenAI, DeepSeek employees allegedly used third-party routers and masking techniques to bypass geographic access restrictions and harvest outputs from ChatGPT .
+CLICK HERE TO DOWNLOAD THE FOX NEWS APP
+That same day, Google’s Threat Intelligence Group warned of what it described as "distillation attacks" targeting its Gemini models. Google said it observed campaigns using more than 100,000 prompts aimed at replicating Gemini’s reasoning abilities.
+The company attributed the activity to "private-sector companies" as well as state-aligned actors.
+Together, the reports suggest distillation has emerged as a growing flashpoint in the U.S.–China AI race, raising questions about how frontier American systems can be protected even when direct transfers of model weights and cutting-edge chips are restricted.
+Anthropic has been in the spotlight in recent weeks amid reported tensions with the Pentagon over how its AI models can be used in military operations.
+War Secretary Pete Hegseth is meeting with CEO Dario Amodei to discuss terms governing military use of Claude, Axios first reported and sources familiar confirmed to Fox News Digital.
+Administration officials said Anthropic asked questions about the model’s reported role in a U.S. operation targeting Venezuelan leader Nicolás Maduro, suggesting the company wouldn't approve of its product being used, while Anthropic insisted disagreements were over mass surveillance and fully autonomous weapons.

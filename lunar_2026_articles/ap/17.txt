@@ -1,0 +1,24 @@
+article_id: ap_17
+url: https://apnews.com/article/texas-us-house-midterms-election-redistricting-gerrymandering-e56d03c72b6cf7bbb321671e03a5c1bb
+title: Why Texas’ redistricting plan isn’t a sure bet
+date: 2026-03-06
+author: 
+matched_keywords: Lunar New Year
+content:
+WASHINGTON (AP) — Texas set the stage for this year’s redistricting battle by drawing a new congressional map intended to boost Republicans in the midterm elections. Now, with primaries underway , the party’s hopes hinge on a key question — whether voters who helped elect President Donald Trump two years ago will show up for other Republican candidates when he’s not on the ballot.
+The new map is supposed to help Republicans pick up five Democratic-held seats, a target set by Trump . If they succeed, Democrats will represent only eight of the state’s 38 districts, down from their current 13.
+Republicans pursued this goal with a tactic called “cracking,” which means spreading Democratic-leaning voters across districts that include more Republican-leaning voters. This way, it’s harder for Democrats to patch together a majority in individual congressional races.
+But the math behind this isn’t so simple. Predicting whether certain voters lean left or right, or whether they’ll cast a ballot, is complex, and getting it wrong can have consequences.
+One common approach is to look at the most recent general election. The logic is simple: As the latest expression of voter preferences, it offers the most up-to-date snapshot of the electorate.
+The new map is more likely to deliver those five seats to the GOP if Texans vote the same way they did in the 2024 presidential election — that is, Trump voters stick with Republicans and Kamala Harris voters stick with Democrats. Under that assumption, seats like the new 28th and 34th Districts, which are currently represented by Democrats, would flip to Republican control.
+But any single election is also shaped by its broader political environment. Was the incumbent party unpopular? How did voters feel about the economy?
+In the case of 2024, those answers are “yes” and “bad.” The election was a strong one for Republicans nationwide, and especially for Trump. An Associated Press analysis finds that if voters in 2026 were to cast ballots the same way they did in the 2024 presidential race, most of those races would not be particularly close. Only four would have margins within 15 percentage points.
+However, applying the results of a more Democratic-leaning election to the new districts makes the picture appear more muddled. If voters revert to their 2020 presidential preferences, Republicans will have a harder time gaining all five seats.
+When looking at 2020 presidential results on the new map instead of 2024, districts along the southern border, which have a high proportion of Hispanic voters, shift from narrow Republican margins to narrow Democratic ones. Others, such as districts in and around Dallas, move from strongly Republican to more competitive, though still GOP-leaning. Under 2020 voting patterns, nine districts would have margins within 15 points.
+To be clear, some seats — like a Dallas-area seat currently held by Democratic Rep. Marc Veasey, which has been stretched to include more Republican-leaning voters — include enough Republican-leaning areas that even 2020-style voting would not keep them in the Democratic column.
+Rather than seek reelection in the redder version of his district, Veasey is retiring from Congress.
+“The city of Fort Worth has no Democratic representation,” Veasey said of the new maps.
+“It’s going to be sad,” Veasey added. “I feel terrible.”
+The question will be whether voters Trump picked up in 2024 will stick with his party in the midterms. While the country as a whole shifted to the right in 2024 compared with 2020, some demographic groups moved more sharply than others. Hispanic voters in particular — who are heavily represented along the border and in several Texas cities — supported Trump at higher rates than they had four years earlier.
+There are warning signs for this plan, particularly in heavily Hispanic areas: Even as Trump made double-digit improvements in his margins along the southern border, those voters also returned Democratic incumbent Reps. Henry Cuellar and Vicente Gonzalez to Congress. Both are running again in reconstituted districts.
+Ultimately, the success of Texas’ new congressional map hinges on a central uncertainty: whether 2024 marked a durable political realignment or a high-water mark for Republican gains among key constituencies. The coming primaries won’t answer that question on their own — but they will offer the first clues as to whether the map’s architects bet correctly.

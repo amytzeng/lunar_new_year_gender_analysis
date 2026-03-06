@@ -1,0 +1,20 @@
+article_id: guardian_40
+url: https://www.theguardian.com/environment/2026/feb/26/drax-power-plant-to-stop-burning-controversial-canadian-wood-within-next-year
+title: Drax to stop burning controversial Canadian wood within next year
+date: 2026-03-06
+author: 
+matched_keywords: Lunar New Year
+content:
+The owner of Drax power plant has started reducing the amount of Canadian wood pellets it burns, and will stop burning trees from British Columbia entirely within the next year.
+The FTSE 250 company Drax Group said its Canadian wood pellet plants, which once supplied millions of tonnes of biomass to be burnt in its North Yorkshire power plant, had cost the company almost £200m in financial impairments last year.
+The company said the pellet production plants, which have come under criticism from environmentalists, faced a “challenging outlook” after a decision in the second half of last year that, from 2027, the Drax power plant would burn pellets sourced only from the US.
+Despite the writedown, Drax shares soared to 20-year highs to give the company a market value of about £3bn after it reported better than expected full-year earnings of £947m for 2025 and raised shareholder dividends by 11.5%.
+The decision to end its imports of Canadian biomass to the UK was linked to Ottawa’s decision to impose tariffs on its biomass exports, the company said.
+It set out the plans amid growing scrutiny of the sustainability credentials of its Canadian supply chain after claims it was using wood sourced from some of British Columbia’s most environmentally important forests.
+The Guardian revealed late last year that forestry experts believe Drax may have continued to burn 250-year-old trees sourced from some of Canada’s oldest forests as recently as last summer despite increasing concerns over its historical sustainability claims, which first emerged in 2022.
+At the time, a spokesperson for Drax said its sourcing policy meant it did “not source biomass from designated areas of old growth” – which amounts to less than half of the total old-growth forest areas in British Columbia – and only sourced woody biomass “from well-managed, sustainable forests ”.
+Britain’s biggest power plant has received more than £7bn in subsidies levied on household energy bills on the condition that the biomass pellets are made from waste or low-value wood from sustainable forests.
+Claims about its sustainability credentials were first called into question by a 2022 documentary from the BBC, which Drax dismissed as “inaccurate” and “ill-informed”. The company’s former top lobbyist later claimed in an employment tribunal that she was sacked after telling the Drax boss, Will Gardiner, in the weeks following the broadcast that the company’s denials were “misleading the public, government and its regulator” about the sustainability of the imported pellets.
+The company may still continue to produce pellets in Canada , but these will be exported to third-party buyers, primarily in Asia.
+The UK government has moved to curtail the company’s subsidies by offering a new contract covering the period of 2027 to 2031 that will support a limited amount of biomass generation at a set price. Drax has proposed plans to generate extra electricity for AI datacentres built on its North Yorkshire site .
+The subsidy extension was originally proposed as a “bridging mechanism” before Drax began earning subsidies from its plan to fit carbon capture technology to the plant. Drax said it would pause plans to develop the project in the near to medium term owing to a lack of government certainty. It reported a £48m impairment from the decision.

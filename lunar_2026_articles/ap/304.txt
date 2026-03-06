@@ -1,0 +1,19 @@
+article_id: ap_304
+url: https://apnews.com/article/burger-king-ai-artificial-intelligence-headsets-friendliness-b7d5a4120dc669fe338a4da3eedb0016
+title: Burger King is testing AI headsets that will know if employees say ‘welcome’ or ‘thank you’
+date: 2026-03-06
+author: 
+matched_keywords: Lunar New Year
+content:
+Burger King is testing AI-powered headsets that can recite recipes, alert managers when inventories are low and even track how friendly employees are to customers.
+Restaurant Brands International – the Miami-based company that owns Burger King, Popeyes and other brands – said Thursday it’s currently testing the OpenAI-powered headsets in 500 U.S. restaurants.
+The system collects data on restaurant operations and shares it via “Patty,” a voice that talks to employees through their headsets. If the drink machine is low on Diet Coke, Patty will tell the store’s manager. If a customer uses a QR code to report a messy bathroom, the manager will be alerted.
+Employees can ask Patty how to make various menu items or tell Patty to remove items from digital menus if they’ve run out of ingredients.
+Burger King said it’s also exploring using Patty as a way to improve customer service. The system can track when employees say key words like “welcome,” “please” and “thank you” and share that with managers.
+When asked about that capability Thursday by The Associated Press, Burger King said the intent is to use Patty as a coaching tool, not a tracker of individual employees.
+“It’s not about scoring individuals or enforcing scripts. It’s about reinforcing great hospitality and giving managers helpful, real-time insights so they can recognize their teams more effectively,” Burger King said in a statement.
+Burger King added that the key words are “one of many signals to help managers understand service patterns.”
+“We believe hospitality is fundamentally human. The role of this technology is to support our teams so they can stay present with guests,” Burger King said.
+Patty is part of a larger app-based BK Assistant platform that will be available to all U.S. restaurants later this year.
+Burger King is one of several fast food chains experimenting with artificial intelligence . Yum Brands said last spring it was partnering with Nvidia to develop AI technologies for its brands, which include KFC, Taco Bell and Pizza Hut.
+McDonald’s ended a partnership with IBM in 2024 that was testing automated orders at its drive-thrus. The company is now working with Google on AI systems.

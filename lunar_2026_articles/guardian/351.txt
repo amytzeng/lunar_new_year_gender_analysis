@@ -1,0 +1,53 @@
+article_id: guardian_351
+url: https://www.theguardian.com/technology/2026/feb/26/workers-training-ai-to-do-their-jobs
+title: Keen bosses, strange mistakes and a looming threat: workers on training AI to do their jobs
+date: 2026-03-06
+author: 
+matched_keywords: Lunar New Year
+content:
+Workers grappling with the rapid growth of artificial intelligence have said they feel “devalued” by the technology and warned of a downward trajectory in the quality of work.
+Recent analysis by the International Monetary Fund found AI would affect about 40% of jobs around the world. Its head, Kristalina Georgieva, has said: “This is like a tsunami hitting the labour market .”
+Workers who have trained AI models to replace some or all of their roles tell the Guardian about their experiences.
+‘I now earn less while working longer correcting the mistakes of AI editors’
+Christie* edits papers for academics for whom English is a second language. She was asked to take part in a project to train new “assistant editors”, unaware that it was an AI programme that would lead to her being paid less.
+“There was a huge shortage of qualified editors, so I assumed they were training up more [people] to take some of the load,” says Christie, 55, who lives in the UK. “Then they got me to correct the mistakes of these assistant editors. But the new editors were making strange mistakes, like inserting unnecessary full stops or changing the names of countries to nonsense.”
+Christie says she “meticulously and respectfully pointed out these errors”.
+However, the errors kept happening and “sometimes they got worse”. Then, a few months later, she found out who “the editors” were.
+“In a newsletter, the company admitted that these assistant editors were actually an AI,” says Christie. “Going forward, all jobs would be pre-edited by it, and our fee would be reduced, so I now earn less money for correcting the mistakes of an AI, which takes me longer than editing from scratch.
+“There is this groupthink in the company that they must implement AI.”
+Christie says she feels “devalued, betrayed, and furious at this company”.
+“I prioritise work from any other sources, but I am trapped in this toxic cycle, as they have the highest volume of work, and I still need to eat and pay rent. But a lot of people have quit,” she adds.
+‘AI struggled with patients’ pronunciation’
+Mark Taubert, a palliative care consultant and professor, said he was excited to work on a pilot chatbot project to explore how technology could help patients navigate the complexities of metastatic cancer and palliative care.
+Taubert, 51, who works at Velindre University NHS trust in Cardiff, was recorded over “several hours” for the chatbot and fed the computer with guidelines that would typically inform how he talks to patients.
+“We asked patients to write down all their questions, and added patient information leaflets that we had previously written and agreed on,” he says. “We also considered questions I might get from my palliative care community of outpatients and inpatients, such as, ‘Can I drink alcohol when I am taking morphine?’”
+The chatbot was mostly aimed at home patients who might have a question, for example about their medication, out of hours.
+Taubert says the chatbot got about “50% spot on, in a way similar to how I might have responded”, but it struggled with the vagaries of human pronunciation and human error.
+“Patients don’t always use perfect English and sometimes use incorrect names for medications, for instance, they may say ‘morphium’, instead of morphine,” he says. “People also structured their questions quite differently. We saw a need for the technology to learn about human misspellings, dialects, jargon, variations and accents.
+“Subsequent adaptations made the system safer, but we also had to consider how the machine would respond if a patient typed in a more troubling question, for instance, how to end their own life.”
+The chatbot, called Rita, was used for a time “with a lot of caveats and warnings around it” before funding ended, says Taubert.
+“We would say: ‘Give this a try if you want to,’ but we also put in links to the hospital information leaflets on each area,” he adds.
+While Taubert is open to “embracing new technologies”, he does not feel his role is threatened by AI.
+“A lot of what we do relies on nuances of language, body language and facial expression and being in the room,” he says. “In the coming months or years, perhaps my working week can be enhanced by such systems by taking away the very administrative duties and letting me actually speak to the patient more.”
+‘The overall effect is a decline in quality’
+Philip*, 45, was required to train AI-based translation engines that his supervisors “want to replace us with because they’ll cost less”, but says that even after four years they are still unreliable.
+“At first, the results were inevitably laughable,” he says. “But they have improved as we have corrected the programs. However, even after years of this, besides tending to produce formulaic results, they are still unreliable and inadequately accurate, so we still need to review each AI-generated translation word by word and correct as necessary.”
+Philip, who lives in New Jersey, says in his experience, “it doesn’t save time over directly translating the material myself. I think the overall effect is a decline in quality.“If you need a translation that is just a rough idea of what is being said, then generally AI is OK. But it is not always reliable, and that’s the problem, because part of the time you will still run into things that are just completely wrong.”
+He says the moment when he will no longer be needed in his current role “has been looming over our heads for years now, but we’re not there yet”.
+‘Training your robot replacement feels like digging your own digital grave’
+Joe*, 50, an award-winning marketing writer and content manager, says the company where he worked began exploring AI as a productivity tool at the start of 2024, but he was assured his job was safe.
+“I should have seen the writing on the wall when they had me spend the first six months of 2025 building our extensive ‘AI process workflows’ and ‘best practices documentation’. In my naivety, I thought that I would be administering this system and would be asked to oversee these processes.”
+However, in August 2025, two weeks after he handed in his best practices documentation, Joe was laid off.
+“At my exit interview, I was told it had absolutely nothing to do with my work or performance; they blamed ‘market conditions’, and some of that was no doubt true, but the timing of it was certainly suspicious,” says Joe, who lives in Milwaukee. “Working for this company and being asked to do this – training your robot replacement – feels like digging your own digital grave.”
+Joe has been told that much of his former workload has been delegated to junior employees.
+“They are following my AI documentation to just enter prompts into AI clients in order to produce the work I used to do,” he says.
+Joe is now considering a career pivot into sales, but says it has not been easy.
+“I wouldn’t necessarily say that AI 100% forced me out of my career path, but at 50 and with the threat of AI looming constantly, I am thinking to myself, I could line up another writing job, but then am I looking at another layoff at 55?”
+‘Work will look completely different in 10 years’ time, perhaps even less’
+Filippo, 44, an associate professor in mathematics, has been collaborating with two startups on AI projects.
+They are developing models to reason about mathematics and prove theorems with very little human input, and to verify the input using the proof assistant software Lean.
+“It’s been three months, and while the results are still somewhat limited, it is clear that these tools are getting stronger and more efficient by the day,” says Filippo, who lives and works in France. “With most of my colleagues experimenting with this AI technology, we are convinced that a mathematician’s work will look completely different in 10 years’ time, or perhaps even less.
+“AI will be able to replace us in mundane tasks that occupy a large amount of our time, like proving small ancillary results needed for our larger goals. Whether mathematicians will still be needed to prove these larger ones is debatable.”
+Filippo, who works for a university, says he does not feel his role will become obsolete in the immediate future.
+“Given that I work for a public institution, that I spend a significant amount of my time teaching and that these AI tools aren’t yet at a professional research level, I do not feel any pressure or concern for my job,” he says. “But I would have a completely different view if I were 25 and had just completed my PhD.”
+*Names have been changed

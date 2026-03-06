@@ -1,0 +1,23 @@
+article_id: ap_212
+url: https://apnews.com/article/bnsf-railway-libby-montana-asbestos-deaths-507ec52dcd339a761115e3cb1abf70e6
+title: Court throws out judgment blaming Montana asbestos deaths on BNSF railroad
+date: 2026-03-06
+author: 
+matched_keywords: Lunar New Year
+content:
+BILLINGS, Mont. (AP) — A federal appeals court has overturned a judge’s finding that BNSF Railway contributed to the deaths of two people in a Montana mining town where thousands have been sickened by asbestos exposure.
+Following a civil trial, a jury in 2024 awarded $4 million each to the estates of the two people who died in 2020. Their families blamed the railroad for allowing asbestos-contaminated mining material to accumulate in a rail yard in downtown Libby, Montana.
+But the 9th U.S. Circuit Court of Appeals in an opinion issued Tuesday sided with BNSF, which argued it was required under law to accept the vermiculite material for shipment and had been told it was safe. BNSF is considered a “common carrier” under federal law because its services are offered to the general public, a status that shields it from some legal liabilities.
+“The dangerous condition here — accumulated asbestos dust — arose solely from BNSF’s operation as a common carrier executing its federally mandated duty to transport vermiculite,” Judge Morgan Christen wrote in Tuesday’s opinion. He added that BNSF was “protected from strict liability by the common carrier exception.”
+Attorneys for the estates of the two people who died, Joyce Walder and Thomas Wells, said they disagreed with the decision and that it misapplied the law. They had sought to have the case decided by the Montana Supreme Court, but were denied.
+“We are disappointed the Federal Appellate Court did not send this case of first impression in Montana to the Montana Supreme Court for it to decide,” the attorneys said in a statement. “We are talking with our clients and evaluating our options for an appeal.”
+A BNSF spokesperson declined to comment on the ruling.
+The 2024 case in Helena, Montana, was the first of numerous lawsuits against the Texas-based railroad corporation to reach trial over its past operations in Libby. Current and former residents of the small town near the U.S.-Canada border want BNSF held accountable for its alleged role in asbestos exposure that health officials say has killed several hundred people and sickened thousands.
+U.S. District Judge Brian Morris had instructed the Helena jury that it could find the railroad negligent based on its actions in the Libby Railyard. The jury did not find that BNSF acted intentionally or with indifference, so no punitive damages were awarded.
+The vermiculite mined in Libby has high concentrations of naturally occurring asbestos. It was used in insulation and for other commercial purposes in homes and businesses across the nation.
+After being extracted from a mountaintop outside town, the material was loaded onto rail cars that sometimes spilled the contents in the Libby rail yard. Residents have described piles of vermiculite being stored in the yard and dust from the facility blowing through downtown Libby.
+Warren Buffett’s Berkshire Hathaway Inc. acquired BNSF in 2010, two decades after the vermiculite mine near Libby shut down and stopped shipping the contaminated mineral.
+Looming over the proceedings is W.R. Grace & Co. , a chemical company that operated the mountaintop vermiculite mine 7 miles (11 kilometers) outside of Libby until the mine closed in 1990. The Maryland-based company played a central role in Libby’s tragedy and paid significant settlements to victims, but avoided greater liability after declaring bankruptcy.
+Attorneys for BNSF said the railway company was told repeatedly by W.R. Grace representatives that the product it was shipping through Libby was safe.
+Federal prosecutors in 2005 indicted W.R. Grace and executives from the company on criminal charges over the contamination. A jury acquitted them following a 2009 trial.
+The Environmental Protection Agency descended on Libby after 1999 news reports of illnesses and deaths among mine workers and their families. In 2009 the agency declared in Libby the nation’s first ever public health emergency under the federal Superfund cleanup program.

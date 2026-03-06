@@ -1,0 +1,45 @@
+article_id: ap_56
+url: https://apnews.com/article/retail-investors-stocks-crypto-options-risk-6e5a383001aea67a180fa07896022e93
+title: From dabblers to day traders, individual investors’ impact on Wall Street grows
+date: 2026-03-06
+author: 
+matched_keywords: Lunar New Year
+content:
+LOS ANGELES (AP) — For years, individual investors were dismissed by some on Wall Street as “dumb money.”
+That typically referred to those prone to trading on hype, or chasing trends rather than company or industry fundamentals, or responding late to big market moves.
+That’s no longer the case. An analysis of where individual investors put their money last year shows they outperformed two of the most popular, professionally managed index funds, SPY and QQQ, whose goal is to mirror the performance of the S&P 500 and Nasdaq 100, respectively.
+These investors, also known as retail investors, accounted for $5.4 trillion in trading activity in 2025 across stocks and exchange-traded funds, or ETFs, according to Vanda, an independent data and research firm. That’s a nearly 47% increase from the previous year and the most going back to at least 2014.
+“I personally want to dispel the myth of retail being dumb money, because it’s not dumb money anymore,” said Joe Mazzola, head trading and derivatives strategist at Charles Schwab, at an investor education event held in Anaheim, California, last November that drew around 800 of the financial services company’s clients.
+Many Americans have long invested in the stock market, although largely hands-off through managed funds in retirement plans, such as a 401(k). But over the last decade, the advent of mobile trading apps, zero-commission trading, stock market-focused communities on social media and online tools for education and research has helped usher in a new era of do-it-yourself trading in stocks, crypto and other investments.
+The COVID-19 lockdowns were an inflection point. A new crop of investors, many young newcomers using investing apps like Robinhood, helped drive the “meme stock” frenzy that catapulted the price of GameStop, AMC Entertainment and other stocks.
+Meme stocks aside, years of mostly uninterrupted, strong stock market gains provided an attractive backdrop for more people to take up investing. The benchmark S&P 500 has posted an annual loss only three times going back to 2015.
+By early last year, the number of people moving money from checking accounts to investment accounts reached its highest levels since 2021, according to a report by JPMorgan Chase. Some may have been younger Americans who couldn’t afford to buy a house and instead put the money in stocks, the report suggests.
+All told, money coming into the market from individual investors jumped about 50% from 2023 to early 2025, according to the report.
+“I would say they are considerably more important as a force in markets right now,” said Steve Sosnick, chief strategist at Interactive Brokers. “Markets used to be really dominated by institutional investors, but if you put enough ants together, they can move a very big log.”
+Frank Sabia from Encino, California, started dabbling in investing in 2018. Over the years, he’s leveled up his market and trading knowledge by joining private investor chat groups online or attending investing seminars like Schwab’s.
+“I learned a lot more about options strategies and charting and everything from there,” he said in an interview in November. “Now I’m independent. I just look for my own trades. I have my own strategy. I hunt on my own.”
+Sabia, a high school registrar, said he trades in cryptocurrencies and other assets, but that his “bread and butter” is options trading.
+That involves trading contracts to buy or sell a stock at a specific price before a specified date. This can be less costly upfront than buying stocks, but can also be riskier, because options expire and a small move in a stock’s price can translate into a big swing in the value of options contracts.
+Last April, Sabia opened a Roth IRA account and bought into the market as stocks tanked after President Donald Trump announced a sweeping set of tariffs that were more severe than investors expected. The announcement sent the S&P 500 into a two-day tailspin of more than 10% , the type of plunge not seen since the 2020 COVID crash.
+“I just bought the dip,” Sabia said.
+He was wasn’t alone. Retail investors seized on the market skid, buying more than $5 billion in stocks over the two days, according to Vanda.
+“In April, it was retail (investors) that bought the dip,” Mazzola said. “They were the ones that were willing to step in front. They saw the opportunity.”
+Retail investors also had one of their biggest buy-the-dip days of the year on Oct. 10, when the market dropped 2.7% after Trump threatened a “massive increase on tariffs” on China.
+Retail investors haven’t slowed down this year. Their trading activity hit an all-time high on a rolling monthly basis last month, according to J.P. Morgan. They were particularly active in the last week of January, coinciding with the S&P 500 climbing to an all-time high.
+Retail traders also had a hand in turbocharging the price of silver last month to record highs by buying a record amount of silver ETFs, according to data from Vanda.
+A recent analysis by Charles Schwab of trading and stock positions by its millions of retail investor clients found they were net buyers of stocks in January, with Microsoft, Netflix and Tesla among the most popular stock buys.
+Many retail investors have gone beyond stocks or ETFs and into other investment vehicles. Options trading, which can expose them to higher risk, accounted for about $650 billion of retail investors’ trading last year and has been mostly rising steadily going back to at least 2019, according to Vanda.
+Noah Goodwin, a junior in high school in the L.A. suburb of Castaic, started options trading on Robinhood Markets early last year using in his mother’s custodial account. It paid off right away.
+He bought $148 worth of Nvidia options on Jan. 20, 2025, the same day shares of the tech giant plunged on news of AI advances by Chinese startup DeepSeek.
+Goodwin sold his options later that day.
+“I made a $200 profit. My very first trade!” Goodwin said in an interview in November.
+Not all his trades have gone his way. In July, he thought he could capitalize on market volatility caused by more uncertainty over tariffs, but he miscalculated.
+“I lost a lot of money, like probably like around $600 to $800,” he said. “So, a horrible month for me.”
+“For the most part, with only some exceptions, buying the dip has tended to be a very profitable tactic for many retail investors,” said Sosnick. But he cautioned that the strategy had led to retail investors making trading decisions without giving full consideration to the risks and rewards.
+“The risk to it is that for many of them it’s become sort of mechanical,” he said.
+It’s not uncommon for retail investors to strike a balance between higher-risk moves and making trades to build out a long-term investment portfolio.
+Andy Hu, a financial analyst in Los Angeles who attended the Schwab event in November, said he had 50% of his investment portfolio in the SPDR S&P 500 ETF Trust, a popular fund that aims to track the performance of the S&P 500.
+For his short-term trades, he tends to buy micro-cap stocks, which are very small publicly traded companies that can see big swings in price because of small trading volume.
+The approach had his active trading account up by around 20% through the first 11 months of last year, he said.
+Hu stopped making trades toward the end of last year when a pullback in big tech companies helped drag the S&P 500 to a monthly loss in December, clouding sentiment on Wall Street.
+“I haven’t made a single trade in the last two months,” Hu said.

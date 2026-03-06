@@ -1,0 +1,24 @@
+article_id: guardian_2
+url: https://www.theguardian.com/world/2026/feb/18/china-dancing-humanoid-robots-festival-show
+title: China’s dancing robots: how worried should we be?
+date: 2026-03-06
+author: 
+matched_keywords: Lunar New Year
+content:
+Dancing humanoid robots took centre stage on Monday during the annual China Media Group’s Spring Festival Gala, China’s most-watched official television broadcast. They lunged and backflipped (landing on their knees), they spun around and jumped. Not one fell over.
+The display was impressive, but prompted some to wonder: if robots can now dance and perform martial arts, what else can they do?
+Experts have mixed opinions, with some saying the robots had limitations and that the display should be viewed through a lens of state propaganda.
+Developed by several Chinese robotics firms, the robots performed a range of intricate stunts, including kung fu, comedy sketches and choreographed dance moves alongside human performers.
+Clips circulating online quickly drew comparisons with last year’s lunar new year broadcast, which also featured dancing robots but with noticeably simpler movements.
+Kyle Chan, an expert in China’s technology development at Brookings Institution, a policy organisation in Washington DC, said Beijing uses these public robot performances to “dazzle domestic and international audiences with China’s technological prowess”.
+“Unlike AI models or industrial equipment, humanoid robots are highly visible examples of China’s technological leadership that general audiences can see on their phones or televisions,” he said.
+Pointing to intensifying competition in the tech space between China and the US, Chan added: “While China and the US are neck-and-neck on AI, humanoid robots are an area where China can claim to be ahead of the US, particularly in terms of scaling up production.”
+Georg Stieler, the head of robotics and automation at the global technology consulting firm Stieler Technology and Marketing, also emphasised the symbolism of China’s prime time broadcast.
+“What distinguishes the gala from comparable events elsewhere is the directness of the pipeline from industrial policy to prime-time spectacle,” Stieler said in a statement.
+Comparing this year’s performances with last year’s – when viewers saw “fundamentally a single choreographic mode” with limited motions including walking, twisting and kicking – Stieler said one key signal of China’s robot progress is “the ability to run large numbers of near-identical humanoids in synchronised motion with stable gaits and consistent joint behaviour”.
+But Stieler also noted: “Stage performance does not equate to industrial robustness, yet.” He said what the robots did was the result of being trained for a routine “hundreds or thousands of times – you could not just tell them to change direction or do something completely different”.
+“These dance motions involve very little environmental perception and are essentially imitation learning plus a balance-keeping controller. That has little bearing on reliability in unstructured environments, a prerequisite for factory-grade deployment. Also the progress in dexterity is not as fast as in locomotion,” he added.
+The unveiling of China’s latest generation of robots underscores the country’s broader technological ambitions.
+By the end of 2024, China had registered 451,700 smart robotics companies, with a total capital of 6.44tn yuan (approximately $932.16bn), according to state data . Major government projects such as Made in China 2025 and the 14th Five-Year Plan, have made robotics and AI key Beijing priorities.
+Morgan Stanley projects that China’s humanoid sales will more than double to 28,000 units in 2026; and Elon Musk has said he expects his biggest competitor to be Chinese companies as he pivots Tesla toward a focus on embodied AI and its flagship humanoid Optimus. “People outside China underestimate China, but China is an ass-kicker next level,” Musk said last month.
+Marina Zhang, a technology professor at the University of Technology Sydney, said that such a visible showcase likely hints at a new phase in China’s manufacturing masterplan, “where robotics becomes a linchpin in the shift from low-cost assembly to high-end, smart manufacturing”.

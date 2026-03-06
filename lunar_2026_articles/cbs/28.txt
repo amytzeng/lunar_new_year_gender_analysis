@@ -1,0 +1,8 @@
+article_id: cbs_28
+url: https://www.cbsnews.com/gooddaysacramento/video/observe-lunar-new-year-at-sacramento-history-museum-9am/
+title: Observe Lunar New Year at Sacramento History Museum, 9am
+date: 2026-03-06
+author: 
+matched_keywords: Lunar New Year
+content:
+©2026 CBS Broadcasting Inc. All Rights Reserved.

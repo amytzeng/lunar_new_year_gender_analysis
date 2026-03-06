@@ -1,0 +1,8 @@
+article_id: cbs_250
+url: https://www.cbsnews.com/detroit/video/home-heating-costs-expected-to-jump-11/
+title: Home heating costs expected to jump 11%
+date: 2026-03-06
+author: 
+matched_keywords: Lunar New Year
+content:
+©2026 CBS Broadcasting Inc. All Rights Reserved.

@@ -1,0 +1,8 @@
+article_id: cbs_34
+url: https://www.cbsnews.com/gooddaysacramento/video/lunar-new-year-tet-festival-parade/
+title: Lunar New Year Tet Festival & Parade
+date: 2026-03-06
+author: 
+matched_keywords: Lunar New Year
+content:
+©2026 CBS Broadcasting Inc. All Rights Reserved.

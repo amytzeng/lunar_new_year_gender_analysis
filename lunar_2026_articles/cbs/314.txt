@@ -1,0 +1,39 @@
+article_id: cbs_314
+url: https://www.cbsnews.com/news/trump-tariffs-supreme-court-decision/
+title: Why the Supreme Court struck down Trump's most sweeping tariffs
+date: 2026-03-06
+author: 
+matched_keywords: Lunar New Year
+content:
+Updated on:  February 21, 2026 / 9:29 PM EST / CBS News
+Washington — The Supreme Court on Friday invalidated President Trump's most sweeping tariffs , finding in a 6-3 ruling that he does not have the authority to impose the levies using an emergency powers law.
+The 6-3 decision included three liberals and three conservatives in the majority. The coalition included Chief Justice John Roberts and Justices Sonia Sotomayor, Elena Kagan, Neil Gorsuch, Amy Coney Barrett and Ketanji Brown Jackson. Justices Clarence Thomas, Samuel Alito and Brett Kavanaugh dissented.
+The six justices found that the law known as the International Emergency Economic Powers Act, or IEEPA, does not give the president the power to impose tariffs.
+Enacted in 1977, IEEPA authorizes the president to "regulate … importation" to deal with "any unusual and extraordinary threat" to national security, foreign policy or the U.S. economy. When he announced his most sweeping tariffs on nearly every country last April, Mr. Trump invoked IEEPA to respond to what he said were "large and persistent" trade deficits. He also relied on the law to hit China, Canada and Mexico with levies over what the president claimed was their failure to stem the flow of illicit fentanyl and other drugs into the U.S.
+No president before Mr. Trump had used IEEPA to impose tariffs, and the law does not use that word or others like it, such as duty, levy or tax.
+All six of the justices who were in the majority agreed that IEEPA does not give the president the power to impose levies.
+"Our task today is to decide only whether the power to 'regulate … importation,' as granted to the president in IEEPA, embraces the power to impose tariffs," Roberts wrote for the majority. "It does not."
+The court said tariffs are different from the other authorities laid out in IEEPA and, unlike those, they "operate directly on domestic importers to raise revenue for the Treasury." The majority said that under the government's interpretation of the phrase "regulate … importation," the president could impose duties "of unlimited amount and duration, on any product from any country."
+"When Congress grants the power to impose tariffs, it does so clearly and with careful constraints," Roberts wrote in a portion of his decision joined by the other five colleagues in the majority. "It did neither here."
+While the six justices agreed that the president does not have the authority to impose tariffs under IEEPA, there were notable divisions over their reasoning.
+The three conservative justices — Roberts, Gorsuch and Barrett — applied what's known as the major questions doctrine, which says that broad assertions of power claimed by the executive on issues of political or economic significance must be clearly authorized by Congress.
+The Supreme Court's conservative wing has relied on that doctrine in past cases testing the legality of major policies from the executive branch, including when it struck down President Joe Biden's student loan forgiveness plan and blocked an eviction moratorium during the COVID-19 pandemic.
+Only Gorsuch and Barrett joined the section of Roberts' opinion that invoked the major questions doctrine.
+The president, Roberts wrote, "must 'point to clear congressional authorization' to justify his extraordinary assertion of power to impose tariffs. He cannot."
+Congress would not be expected to "relinquish its tariff power through vague language" or without constraints, the chief justice wrote.
+"When Congress has delegated its tariff powers, it has done so in explicit terms, and subject to strict limits," Roberts said.
+He also said that the economic and political consequences of the tariffs implemented under IEEPA are "astonishing."
+"The Government points to projections that the tariffs will reduce the national deficit by $4 trillion, and that international agreements reached in reliance on the tariffs could be worth $15 trillion," Roberts wrote. "In the President's view, whether 'we are a rich nation' or a 'poor' one hangs in the balance. These stakes dwarf those of other major questions cases."
+On the other side of the majority, the liberal justices — Sotomayor, Kagan and Jackson — agreed that IEEPA doesn't give the president the power to impose tariffs, but reached the conclusion using what Kagan said were the "ordinary tools of statutory interpretation."
+"IEEPA gives the President significant authority over transactions involving foreign property, including the importation of goods. But in that generous delegation, one power is conspicuously missing," Kagan wrote in a concurring opinion joined by Sotomayor and Jackson. "Nothing in IEEPA's text, nor anything in its context, enables the President to unilaterally impose tariffs. And needless to say, without statutory authority, the President's tariffs cannot stand."
+All six of the justices in the majority agreed that IEEPA is silent on the power to impose tariffs, and no president before Mr. Trump understood the law to authorize duties.
+"Each president read the statutes as Congress wrote them, with IEEPA enabling him to regulate imports and Title 19 enabling him — in confined situations — to tax those foreign goods," Kagan wrote, referring to the portion of the U.S. Code that covers customs duties. "None, as far as anyone has suggested, even considered doing otherwise."
+The principal dissent came from Kavanaugh, who wrote that the president's authority under IEEPA to "regulate … importation" encompasses tariffs. There is a long tradition of presidents imposing duties as a way of regulating importation and commerce, he said. Thomas and Alito joined his dissent.
+"Like quotas and embargoes, tariffs are a traditional and common tool to regulate importation," Kavanaugh said.
+He wrote that IEEPA allows the president to impose quotas or embargoes on foreign imports, which he said are more severe tools than tariffs. The law, he said, does not draw distinctions between those actions and instead "empowers the president to regulate imports during national emergencies with the tools presidents have traditionally and commonly used, including quotas, embargoes, and tariffs."
+Regarding the major questions doctrine, Kavanaugh said it is satisfied in this case because the "statutory text, history and precedent constitute 'clear congressional authorization' for the president to impose levies under IEEPA." Plus, presidents throughout history have imposed tariffs as a way to "regulate … importation," he continued.
+Kavanaugh also argued that the Supreme Court has never applied the major questions doctrine to matters of foreign affairs, including foreign trade.
+"In foreign affairs cases, courts read the statute as written and do not employ the major questions doctrine as a thumb on the scale against the president," Kavanaugh said.
+He noted, however, that the ruling may not significantly constrain a president's ability to set tariffs moving forward, since there are many other statutes that can be used to justify the tariffs at issue in the case.
+© 2026 CBS Interactive Inc. All Rights Reserved.
+Copyright ©2026 CBS Interactive Inc. All rights reserved.

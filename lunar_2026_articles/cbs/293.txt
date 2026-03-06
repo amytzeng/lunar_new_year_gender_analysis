@@ -1,0 +1,8 @@
+article_id: cbs_293
+url: https://www.cbsnews.com/newyork/video/tuesday-marks-the-official-start-to-the-lunar-near-year/
+title: Tuesday marks the official start to the Lunar Near Year
+date: 2026-03-06
+author: 
+matched_keywords: Lunar New Year
+content:
+©2026 CBS Broadcasting Inc. All Rights Reserved.

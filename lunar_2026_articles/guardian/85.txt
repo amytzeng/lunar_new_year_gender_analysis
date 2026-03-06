@@ -1,0 +1,12 @@
+article_id: guardian_85
+url: https://www.theguardian.com/lifeandstyle/2026/feb/23/is-it-true-that-men-need-to-consume-more-calories-than-women
+title: Is it true that … men need to consume more calories than women?
+date: 2026-03-06
+author: 
+matched_keywords: Lunar New Year
+content:
+‘G enerally speaking, yes,” says Bethan Crouse, a performance nutritionist from Loughborough University, but it’s not a one-size-fits-all rule. Humans burn calories to fuel everything from movement to sleeping. For the general adult population aged from about 19 to 64, guidance puts daily energy needs at about 2,000 calories for women and 2,500 for men (the requirements are very different in children and adolescents, and tend to fall with age: they decline between 65 and 74, and drop again after 75). But averages hide a lot of variation.
+One of the main reasons men typically need more calories is that they usually have a higher resting (or basal) metabolic rate, meaning they burn more energy at rest. This is largely explained by differences in body composition – on average, men have more lean muscle mass, while women tend to have a higher proportion of body fat – and muscle burns more calories than fat.
+These differing levels of muscle mass aren’t because of what we eat or how we work out, they’re driven by hormones. Testosterone, which is present at higher levels in men, promotes muscle growth. This means that even if you compared a man and a woman of exactly the same height, age and weight, with the same exercise routine, their calorie needs may still differ. But, Crouse says, there’s individual variation.
+Take, for example, a muscular woman and a more average man. “That female probably needs more calories than the male at rest, and you can infer that the female is probably doing more exercise anyway, so that’s going to increase her need for calories too.” Long-term dieting can further complicate the picture. Extended periods of severe calorie restriction can reduce a person’s baseline energy requirements, in effect turning down the body’s “metabolic dial”.
+If you’re unsure how many calories you should be eating, says Crouse, the NHS and WebMD have helpful guides.

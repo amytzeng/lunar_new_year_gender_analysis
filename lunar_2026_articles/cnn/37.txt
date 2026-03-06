@@ -1,0 +1,9 @@
+article_id: cnn_37
+url: https://www.cnn.com/audio/podcasts/cnn-10/episodes/9e0ba4ba-f09b-11f0-9ff5-bfc197405ca2
+title: CNN
+date: 2026-03-06
+author: 
+matched_keywords: Lunar New Year
+content:
+Back to episodes list
+Today on CNN10 - We'll recap some historic moments from an action-packed weekend at the 2026 Winter Olympics, and see how one unique pastime is continuing to thrive at this year's games. Plus, we'll get an update on the latest mission to the International Space Station, before taking an in-depth look at the start of the Year of the Horse, as Lunar New Year celebrations kick off around the world. All this and more on today's CNN10!

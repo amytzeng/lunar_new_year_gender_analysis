@@ -1,0 +1,47 @@
+article_id: nbc_5
+url: https://www.nbcnews.com/health/aging/brain-training-game-protect-dementia-research-decades-alzheimers-rcna257790
+title: Brain train game may help protect against dementia for up to 20 years
+date: 2026-03-06
+author: 
+matched_keywords: Lunar New Year
+content:
+A large, long-term study found that playing a brain training video game may help protect the brain against dementia for decades. Experts say the findings are the strongest evidence yet that cognitive training can create lasting changes in the brain.
+“It’s very surprising,” said Marilyn Albert, director of the Johns Hopkins Alzheimer’s Disease Research Center. “It’s not at all what I would have expected.”
+The research, published Monday in the journal Alzheimer’s & Dementia: Translational Research & Clinical Interventions, was a long-term follow-up of the Advanced Cognitive Training for Independent and Vital Elderly (ACTIVE) trial.
+Specifically, participants who did up to 23 hours of a specific type of cognitive training called speed training over a three year period were found to have a dramatic 25% lower risk of developing Alzheimer’s and other types of dementia over a 20-year follow-up period.
+The findings confirm previous research released from the trial, where participants were found to have a lower risk of dementia after 10 years .
+The ACTIVE study is a large randomized controlled trial funded by the National Institutes of Health (NIH) that enrolled nearly 3,000 participants ages 65 and older. Participants were from six different geographical areas and did not have any significant prior cognitive impairment. Roughly 25% of patients were minorities and a majority were women.
+Women are especially vulnerable to Alzheimer’s disease , developing dementia at nearly twice the rate of men.
+Study participants were initially assigned to do up to 10 sessions of training, twice per week for 60 to 75 minutes per session over five weeks. Approximately half of the participants in each training group got additional booster training for up to 23 hours over a three year period.
+Researchers then tracked medical records through Medicare to determine which participants were diagnosed with dementia over the 20-year follow-up period. Different forms of dementia, including Alzheimer’s, vascular dementia and frontotemporal dementia were all grouped into a single category.
+The participants who did speed training and received the booster sessions were found to have a 25% reduction in the risk of a dementia diagnosis compared with the control group. Those without the additional sessions did not see a benefit.
+“It builds on the concept that relatively small amounts of effort can really pay dividends for decades to come,” said Dr. Richard Isaacson, a preventive neurologist at the Institute for Neurodegenerative Diseases in Boca Raton, Florida. He was not involved in the study.
+Dr. Thomas Wisniewski, the director of cognitive neurology at NYU Langone Health, called the study results “astonishing,” adding that this is the strongest evidence to date he has seen supporting the use of cognitive training.
+“It’s really the first clear documentation in a randomized controlled trial that at least some form of cognitive training can lower the risk of dementia,” said Wisniewski, who was not involved in the study.
+Study participants were separated into one of three cognitive training programs: speed training, memory training or reasoning training. There was also a control group that did not receive any form of cognitive training.
+Speed training was designed to teach the brain to process visual information more quickly and accurately, said Dr. Sanjula Singh, a physician-scientist and instructor in neurology at Harvard Medical School. In the speed training, which emphasized visual perception, individuals were asked to identify objects on a screen quickly and make a decision about them.
+It’s a similar thought process to what happens when we drive, said Albert.
+“If we’re driving in a car and we have all these things going on in the periphery that we’re paying attention to, we have to decide what’s important and what’s not,” she added.
+In memory training, participants were taught strategies for remembering lists of words and  details of stories. For example, participants were taught to form mental images and associations to help recall words.
+In reasoning training, study participants worked on the ability to solve problems that follow a serial pattern, like identifying the pattern in a letter or number series.
+Those in the memory and reasoning training did not see any protective effect against dementia.
+While the researchers don’t know for sure why speed training showed a benefit while the other forms did not, one possibility lies in the difference between implicit and explicit learning.
+Implicit learning involves learning an unconscious habit or skill such as riding a bike. Explicit learning, on the other hand, deals with the conscious learning of facts, such as learning vocabulary off a flash card.
+We know that implicit learning is completely different from explicit learning and uses different parts of the brain, Albert said.
+“Once the brain rewires for these skills, the change is durable even without continued practice,” said Singh. “A child can learn how to ride a bike in about 10 hours, and afterwards that learning lasts a lifetime.”
+Speed training is thought to be similar, said Albert, and may create long-lasting changes in the brain. This is often referred to as neuroplasticity, or the brain’s ability to adapt and rewire itself in response to learning throughout our lives.
+Dr. Kellyann Niotis, a preventive neurologist and clinical assistant professor of neurology at Weill Cornell Medicine, said that speed training may also have greater effects on something called cognitive reserve. Cognitive reserve is the ability of a healthy brain to resist the effects of developing dementia and is built over time through factors like education, mentally stimulating activities and even social engagement.
+“I think it’s that this visual processing speed-based training may be engaging broader neuronal networks that are actually building more brain resilience or more cognitive reserve,” she said.
+Another theory as to why speed training may work better is that it was adaptive, said Albert, meaning that its difficulty changed based on how well somebody performed.  This means that people who were faster at the start moved to even faster challenges quickly, something that  was not seen in the other forms of training.
+The speed training that was used in the study was originally designed by psychologists Karlene Ball and Daniel Roenker using grants from NIH. The program has since undergone updates and is now available as an exercise called “double decision” through BrainHQ, an online subscription program.
+Based on the results of the trial, Albert said, for now she would recommend it to patients who are over 65 years old, similar to the age group in her study.
+However, since research has suggested that brain changes associated with Alzheimer’s can start decades before the disease takes hold, it’s possible that those who start at a younger age, say in their 40s or 50s, may also see a protective effect. It’s too early to draw conclusions about benefits for younger adults, she said.
+Click here to play a free version of the Double Decision brain game.
+Experts stress that while the results of the trial are impressive, Alzheimer’s disease and other forms of dementia are complicated, with no singular fix.
+“Anyone with a brain is at risk of Alzheimer’s and everyone out there should be paying attention to their brain health,” Isaacson said.
+An estimated 7 million people in the U.S. are living with Alzheimer’s, with that number expected to reach nearly 13 million by 2050.
+Fortunately, there are several factors that have been associated with a lower risk of developing dementia. In fact, nearly half of all cases of dementia could be delayed or reduced by addressing certain risk factors, according to a 2024 report by the Lancet Commission.
+Some measures Niotis advises her patients to take:
+Exercise increases blood flow and nourishes the brain. Isaacson sometimes recommends his patients even try a cognitively stimulating activity while exercising, such as taking a meeting while walking or doing cognitive training on a stationary bike.
+There is also a growing body of research suggesting that the shingles vaccine may help protect the brain against cognitive decline.
+A large 2025 study published in Nature found that people who were vaccinated against shingles were 20% less likely to develop dementia in a seven-year follow-up than those who did not get vaccinated.

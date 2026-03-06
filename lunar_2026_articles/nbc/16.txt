@@ -1,0 +1,10 @@
+article_id: nbc_16
+url: https://www.nbcnews.com/video/hegseth-to-meet-with-anthropic-ceo-as-rift-grows-over-military-use-of-ai-258169925838
+title: Hegseth to meet with Anthropic CEO as rift grows over military use of AI
+date: 2026-03-06
+author: 
+matched_keywords: Lunar New Year
+content:
+There are no new alerts at this time
+After months of friction over how the U.S. military plans to use Anthropic's AI system, Defense Secretary Pete Hegseth will meet with the company's CEO. NBC News' Brian Cheung and Jared Perlo explain the conflict. Feb. 24, 2026
+© 2026 NBCUniversal Media, LLC

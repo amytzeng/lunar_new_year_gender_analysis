@@ -1,0 +1,35 @@
+article_id: guardian_361
+url: https://www.theguardian.com/technology/2026/feb/25/signs-of-psychosis-seen-in-australian-users-interactions-with-ai-chatbots-expert-warns
+title: Signs of psychosis seen in Australian users’ interactions with AI chatbots, expert warns
+date: 2026-03-06
+author: 
+matched_keywords: Lunar New Year
+content:
+A leading AI expert has warned some Australians are showing signs of psychosis or mania in their interactions with chatbots, arguing Silicon Valley is being “careless” with the technology amid a pursuit of profit.
+During an address at the National Press Club on Wednesday, Toby Walsh, scientia professor of artificial intelligence at the University of New South Wales, said he believed the AI race will be both “boom and doom”, with some benefits.
+But his speech – a copy of which was provided to Guardian Australia – also warned about dangers he said had outraged him since the technology began maturing in recent years.
+“My childhood dreams are turning into a reality that is both good and bad,” he said in his prepared remarks.
+Sign up: AU Breaking News email
+Walsh’s speech highlighted the legal case against OpenAI by the family of US teenager Adam Raine – along with its data that showed more than a million of its users each week send messages that include “explicit indicators of potential suicidal planning or intent”.
+OpenAI has also said 560,000 of its touted 800 million weekly users have shown signs of psychosis or mania, and another 1.2 million have developed potentially unhealthy bonds to the chatbot.
+Walsh said some of those captured by the data were in Australia.
+“I know because some of them or their loved ones are contacting me by email,” his prepared speech said.
+“They tell me how the chatbot confirms their wild theories. That the chatbot tells them, to quote one email, that they’ve ‘cracked the code’. That they’re ‘the only one that could’.”
+The chatbots have been designed that way, Walsh said.
+“They’re designed to be sycophantic. They’re designed to confirm what the user says. And they’re designed to draw the user in. They always end with an open question, prompting you to continue the conversation and buy more tokens.”
+He said it was not in the interests of the companies responsible for the chatbots to tell users to log off instead.
+“There’s no reason that they couldn’t be designed that way. Except the careless people in Silicon Valley would make less money if they were.”
+OpenAI has claimed a GPT-5 update reduced the number of undesirable behaviours from its product and improved user safety.
+Walsh also expressed anger over the “large-scale theft” of creative works being used to train AI, and over the summaries for news articles in search taking away traffic from news sites.
+“Legally you can’t call it fair use when you’re competing with the owner of the IP,” he said.
+“I refuse to accept an AI revolution that enriches founders in Silicon Valley by impoverishing Australian artists, writers and musicians.”
+Walsh took aim at companies he said were disregarding laws, particularly around scams.
+In November, Reuters reported that Meta’s internal documents from late 2024 stated that Meta was projected to earn about 10% of its overall annual revenue – about $16bn – from illicit advertising that year.
+Meta responded saying it had reduced scam ads by 58% in the past 18 months.
+Walsh said AI is being used to generate these scam ads, and Meta allowed advertisers to use AI to manage these ad campaigns, while AI decides which ads people see.
+He said if a retailer in Australia had 10% of its goods being counterfeit or illegal, it would be shut down by the weekend.
+“So I don’t understand how we continue to let Meta trade in Australia,” he said.
+Walsh said he despaired that the Australian government was not doing more to regulate AI.
+“I fear that we’re repeating the mistakes of social media,” he said. “Social media should have been a wake-up call about the harms of unregulated AI.
+“We’re about to supercharge the sort of harms we saw with social media with an even more powerful and persuasive technology.
+“What I fear most is that I’ll be back here in three or four years’ time saying: ‘We tried to warn you. But another generation of young Australians has now been sacrificed for the profits of big tech’.”

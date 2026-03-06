@@ -1,0 +1,10 @@
+article_id: guardian_338
+url: https://www.theguardian.com/lifeandstyle/2026/feb/28/killer-sudoku-1011
+title: Killer sudoku 1,011
+date: 2026-03-06
+author: 
+matched_keywords: Lunar New Year
+content:
+Click here to access the print version.
+Normal sudoku rules apply, except the numbers in the cells contained within dotted lines add up to the figures in the corner. No number can be repeated within each shape formed by dotted lines.
+To see the completed puzzle, buy the next issue of the Guardian (for puzzles published Monday to Thursday). Solutions to Friday and Saturday puzzles are given in either Saturday’s or Monday’s edition.

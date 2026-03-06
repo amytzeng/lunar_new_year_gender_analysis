@@ -1,0 +1,8 @@
+article_id: cbs_327
+url: https://www.cbsnews.com/video/certified-forensic-analyst-on-nancy-guthrie-surveillance-video/
+title: Certified forensic analyst on Nancy Guthrie surveillance video
+date: 2026-03-06
+author: 
+matched_keywords: Lunar New Year
+content:
+Copyright ©2026 CBS Interactive Inc. All rights reserved.

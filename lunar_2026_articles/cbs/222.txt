@@ -1,0 +1,8 @@
+article_id: cbs_222
+url: https://www.cbsnews.com/detroit/video/5-year-old-father-returned-home-in-minnesota/
+title: 5-year-old, father, returned home in Minnesota
+date: 2026-03-06
+author: 
+matched_keywords: Lunar New Year
+content:
+©2026 CBS Broadcasting Inc. All Rights Reserved.

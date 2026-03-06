@@ -1,0 +1,8 @@
+article_id: cbs_103
+url: https://www.cbsnews.com/sanfrancisco/video/monday-morning-first-alert-weather-forecast-21625/
+title: Monday morning First Alert Weather forecast 2/16/25
+date: 2026-03-06
+author: 
+matched_keywords: Lunar New Year
+content:
+©2026 CBS Broadcasting Inc. All Rights Reserved.

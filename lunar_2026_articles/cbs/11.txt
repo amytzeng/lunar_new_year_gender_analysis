@@ -1,0 +1,8 @@
+article_id: cbs_11
+url: https://www.cbsnews.com/texas/video/lunar-new-year-begins-year-of-the-fire-horse/
+title: Lunar New Year begins: Year of the Fire Horse
+date: 2026-03-06
+author: 
+matched_keywords: Lunar New Year
+content:
+©2026 CBS Broadcasting Inc. All Rights Reserved.

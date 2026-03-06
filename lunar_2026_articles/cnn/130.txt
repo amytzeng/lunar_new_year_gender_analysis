@@ -1,0 +1,23 @@
+article_id: cnn_130
+url: https://www.cnn.com/2026/02/24/business/trump-immigration-banks-citizenship
+title: Trump administration considers forcing banks to verify customers’ citizenship
+date: 2026-03-06
+author: 
+matched_keywords: Lunar New Year
+content:
+The Trump administration is weighing a new requirement for US banks to verify citizenship information of current and future customers as part of the president’s aggressive immigration crackdown , sources told CNN.
+The potential action, which one source said could take the form of an executive order, has raised concern in the industry that banks could be compelled to ask customers for an unprecedented category of documents, including passports and other documents that verify citizenship status. The source cautioned that plans haven’t been finalized and that there are still considerations underway over other options and legal authorities.
+“It’s a bad idea. We are very alarmed,” a financial industry source told CNN.
+The industry source added that bank executives worry the order is designed to force them to play a role in the administration’s pursuit to deport undocumented immigrants.
+It’s not clear whether President Donald Trump will eventually sign an executive order, the possibility of which was first reported by The Wall Street Journal .
+The White House neither confirmed nor denied the potential executive order or other action.
+“Any reporting about potential policymaking that has not been officially announced by the White House is baseless speculation,” White House spokesperson Kush Desai said in a statement.
+While banks are required to adhere to anti-money-laundering and know-your-customer rules and list where a customer lives, they don’t collect or verify citizenship information.
+If Trump signed such an executive order, it could require banks to retroactively get citizenship information from existing customers and collect it from new customers, the industry source said.
+“Verifying every bank customer’s citizenship status would be unworkable,” the source said.
+Representatives for major banks and industry groups declined to comment.
+The Trump administration’s immigration crackdown efforts have at times raised concern in parts of the federal government.
+As CNN previously reported , as many as 50 senior information technology professionals at the Internal Revenue Services — including some top cybersecurity experts — were placed on administrative leave last year as Trump officials finalized plans to share taxpayer data with federal immigration authorities. That effort was legally challenged and blocked by a federal judge late last year.
+A Treasury Department spokesperson said at the time that employees were placed on leave but denied it had to do with accessing IRS data for immigration enforcement.
+These discussions come as the Trump administration has moved to crack down on what it views as debanking of conservatives. Trump signed an executive order last year seeking to punish banks for restricting services to customers based on their religious or political beliefs.
+Trump recently filed a lawsuit against JPMorgan Chase for dropping him as a customer after the January 6, 2021, insurrection. JPMorgan has said the suit has no merit.

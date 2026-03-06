@@ -1,0 +1,24 @@
+article_id: guardian_14
+url: https://www.theguardian.com/business/2026/feb/26/wpp-merge-ad-agencies-cut-jobs-ai-threat-advertising
+title: WPP to sell assets and cut jobs in radical shake-up to counter AI threat
+date: 2026-03-06
+author: 
+matched_keywords: Lunar New Year
+content:
+The beleaguered UK advertising group WPP has announced a radical restructure to counter the threat posed by the growth of artificial intelligence, including plans to sell assets and job cuts.
+Aiming to be “a simpler, lower-cost, AI-enabled business”, the London-based company laid out plans to achieve £500m of annual savings by 2028, at a cost of £400m over two years.
+Cindy Rose, the chief executive who took over last summer, said the company was “unveiling a bold plan for a simpler, more integrated WPP that’s fit for the future and built to win”. It has struggled to stem a growing exodus of clients and is racing to match the AI and data capabilities of rivals, amid fears that AI will allow customers to bring more marketing functions in-house.
+Rose said WPP had identified several assets that it wanted to shed, without naming them.
+A significant proportion of the cost savings are expected to come through reducing jobs. The company did not specify how many roles would be cut from its 100,000 strong workforce but said it would eliminate duplication in finance and support and take out some layers in the organisation.
+Since its inception in the mid-1980s, the steepest cuts WPP has made were 7,200 jobs as a result of the global advertising recession in 2009, and 7,000 in 2020 because of the impact of the pandemic.
+A large chunk of the savings will be reinvested into “high-growth” areas, such as a new division to partner with clients on AI transformation. Called enterprise solutions, it already employs more than 1,000 people.
+The troubled company is reorganising its sprawling business empire with hundreds of units into four main divisions: media, creative, production and enterprise solutions, focused on four regions: North America; Latin America; Europe, the Middle East and Africa; and Asia Pacific.
+Its ad agencies – Ogilvy, VML and AKQA – will be brought together under the WPP Creative umbrella and have the same back office to reduce costs but continue as separate agencies.
+Rose, who spoke of job cuts on arriving last year, added: “Our recent underperformance has been driven by excessive organisational complexity, a lack of an integrated operating model and inconsistent strategic execution. While disappointing, I see huge potential as these issues are all within our power to fix and we’re already making great progress.”
+Her comments came as WPP reported a 3.6% drop in comparable revenue to £13.6bn for 2025, and a 26% fall in profit before tax to £1.1bn.
+Performance at its ad agencies worsened in the fourth quarter, after client losses in the US and UK, further weakness in Europe and declines in China, partly offset by improving performance in India and Australia, the company said. It slashed its dividend for 2025 by 62% to 15p.
+Despite recent contract wins, from companies including Jaguar Land Rover and Estée Lauder, WPP forecast like-for-like revenue this year below analysts’ expectations, estimating a “mid- to high single-digit” drop in the first half with “an improving trajectory” in the second half.
+After a series of profit warnings, the company fell out of the FTSE 100 after nearly 30 years in December, having lost its crown as the world’s biggest advertising group by revenue to the French rival Publicis Groupe in 2024.
+The company was valued at £25bn only nine years ago but its share price has slumped more than two-thirds over the past year to under £3bn. The stock fell more than 6% on Thursday.
+Last week the US rival Omnicom, which completed a $13bn (£9.6bn) takeover of the rival Interpublic in November, doubled its target for annual cost savings to $1.5bn. The announcement, which included savings of $1bn by reducing “labour costs” by 2028, cheered investors, which sent its share price soaring 15%.
+Earlier this month, new data showed UK advertising agencies had their biggest annual exodus of staff last year, led by younger workers, as artificial intelligence tools threaten to replace employees and force the industry to cut jobs and costs.

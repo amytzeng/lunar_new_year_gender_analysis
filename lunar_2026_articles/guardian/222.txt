@@ -1,0 +1,8 @@
+article_id: guardian_222
+url: https://www.theguardian.com/news/series/ten-best-photographs-of-the-day?page=2
+title: Photos of the day | Page 2 of 200 | The Guardian
+date: 2026-03-06
+author: 
+matched_keywords: Lunar New Year
+content:
+The Guardian’s picture editors select some of the most powerful photos from around the world

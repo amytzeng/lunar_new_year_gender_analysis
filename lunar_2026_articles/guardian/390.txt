@@ -1,0 +1,8 @@
+article_id: guardian_390
+url: https://www.theguardian.com/news/gallery/2026/feb/22/chinese-new-year-in-london-and-floods-in-france-photos-of-the-weekend
+title: Chinese new year in London and floods in France: photos of the weekend
+date: 2026-03-06
+author: 
+matched_keywords: Lunar New Year
+content:
+The Guardian’s picture editors select photographs from around the world

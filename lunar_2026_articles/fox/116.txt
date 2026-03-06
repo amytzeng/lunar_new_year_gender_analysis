@@ -1,0 +1,30 @@
+article_id: fox_116
+url: https://www.foxnews.com/politics/election-integrity-groups-urge-scotus-strike-down-laws-allowing-ballots-received-after-election-day
+title: Election integrity groups press Supreme Court to require ballots by Election Day
+date: 2026-03-06
+author: 
+matched_keywords: Lunar New Year
+content:
+Fox News' William La Jeunesse provides details on the efforts to call two California House races as critics urge the state to fix its drawn-out counting process.
+FIRST ON FOX: A coalition of election integrity groups is urging the Supreme Court to uphold a lower court ruling that found federal law requires mail ballots to be received by Election Day.
+The conservative-leaning groups, including the Honest Elections Project and the Center for Election Confidence, filed an amicus brief on Tuesday supporting the Republican National Committee’s challenge to Mississippi’s postmark deadline. They argue that federal law establishing a single Election Day requires ballots to be in election officials’ hands by the close of polls. The case could determine whether similar postmark-based deadlines in 14 states remain valid ahead of the 2026 midterms.
+Supporters of the RNC's position say a ruling affirming the lower court would establish a clear standard for when ballots must be received, though curtailing acceptance of late-arriving ballots would not guarantee that election officials won't still be tabulating ballots in close races beyond Election Day.
+"Counting ballots that are received after Election Day unnecessarily damages public trust in election outcomes, delays results, and violates the law," Jason Snead, Honest Elections Project executive director, told Fox News Digital in a statement.
+Others who signed onto the amicus brief included the American Legislative Exchange Council and Restoring Integrity and Trust in Elections.
+Mail-in ballots are inspected at the Los Angeles County Ballot Processing Center on Nov. 4, 2025, in California. (Gina Ferazzi / Los Angeles Times via Getty Images)
+Oral arguments in the case, Watson v. Republican National Committee, are set for March 23, and a decision is expected by the summer.
+The case arose from a lawsuit brought by the RNC challenging Mississippi’s practice of counting mail ballots received up to five business days after Election Day if postmarked by that day.
+The RNC chose to bring the case in the Republican-friendly U.S. Circuit Court of Appeals for the 5th Circuit, which ruled in the RNC's favor and found that federal law trumps the state's deadline and requires ballots to be received by Election Day.
+At issue is whether statutes establishing a single Election Day mean that all ballots must be received by that day to be valid. The election integrity groups argued that under the Supreme Court’s decision from three decades ago in Foster v. Love, the "final act of selection" must occur on Election Day and that receipt of a mail-in ballot constitutes casting a ballot, which cannot happen after Election Day by that standard.
+Minnie Bounds, 74, fills out her ballot at Blackburn Laboratory Middle School on Nov. 07, 2023, in Jackson, Mississippi in the Governor’s race between Gov. Tate Reeves and Democratic gubernatorial candidate Brandon Presley. (Brandon Bell/Getty Images)
+Snead said a favorable ruling from the Supreme Court would "protect the rights of voters and the integrity of the democratic process, and ensure that it is easy to vote but hard to cheat in future elections."
+The election integrity coalition argued that allowing ballots to arrive after Election Day can lead to delayed results and can chip away at voters’ confidence in elections.
+The groups also pointed to recent U.S. Postal Service guidance that warned that postmarks might not reliably reflect when a ballot entered the mail.
+HOUSE GOP MOVES TO REQUIRE PROOF OF CITIZENSHIP, PHOTO ID TO VOTE IN FEDERAL ELECTION
+The Supreme Court building is seen in Washington, D.C. (AP/Jon Elswick)
+Fourteen states and Washington, D.C. , currently count ballots received after Election Day if postmarked on time.
+Since the 2024 midterm election, four Republican-controlled states, Kansas, Ohio, Utah and North Dakota, have moved to require receipt by Election Day.
+CLICK HERE TO DOWNLOAD THE FOX NEWS APP
+A ruling upholding the 5th Circuit could invalidate the laws in the 14 states and require ballots to be in election officials’ hands by the close of polls. The decision is expected to affect the 2026 midterms .
+Military and overseas ballots, which are governed by the Uniformed and Overseas Citizens Absentee Voting Act, would likely remain unaffected.
+Ashley Oliver is a reporter for Fox News Digital and FOX Business, covering the Justice Department and legal affairs. Email story tips to ashley.oliver@fox.com .

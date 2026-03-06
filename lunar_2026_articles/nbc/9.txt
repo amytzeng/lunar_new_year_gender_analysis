@@ -1,0 +1,10 @@
+article_id: nbc_9
+url: https://www.nbcnews.com/video/china-showcases-humanoid-robots-during-lunar-new-year-257782853678
+title: China showcases humanoid robots during Lunar New Year
+date: 2026-03-06
+author: 
+matched_keywords: Lunar New Year
+content:
+There are no new alerts at this time
+During a Lunar New Year broadcast in China, over a dozen humanoid robots took center stage, performing sophisticated fight sequences and wielding swords and nunchucks. China Central Television’s annual Spring Festival gala is one of the country’s most watched TV broadcasts. Feb. 17, 2026
+© 2026 NBCUniversal Media, LLC

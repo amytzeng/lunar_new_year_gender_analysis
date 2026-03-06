@@ -1,0 +1,8 @@
+article_id: cbs_231
+url: https://www.cbsnews.com/sanfrancisco/video/inside-the-castro-theaters-return/
+title: Inside the Castro Theater’s Return
+date: 2026-03-06
+author: 
+matched_keywords: Lunar New Year
+content:
+©2026 CBS Broadcasting Inc. All Rights Reserved.

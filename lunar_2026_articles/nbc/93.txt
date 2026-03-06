@@ -1,0 +1,10 @@
+article_id: nbc_93
+url: https://www.nbcnews.com/news/crime-courts
+title: Crime & courts
+date: 2026-03-06
+author: 
+matched_keywords: Lunar New Year
+content:
+There are no new alerts at this time
+Breaking reports on crime and justice.
+© 2026 NBCUniversal Media, LLC

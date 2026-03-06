@@ -1,0 +1,21 @@
+article_id: cnn_208
+url: https://www.cnn.com/markets/stocks/BABA
+title: Alibaba Group Holding Limited Sponsored ADR
+date: 2026-03-06
+author: 
+matched_keywords: Lunar New Year
+content:
+BABA is trading in the middle of its 52-week range and below its 200-day simple moving average.
+The price of BABA shares has decreased $2.92 since the market last closed. This is a 2.19% drop.
+The stock has since dropped $0.29 in after-hours trading.
+Alibaba Group Holding Ltd. engages in providing technology infrastructure and marketing reach. It operates through the following business segments: China Commerce, International Commerce, Local Consumer Services, Cainiao, Cloud, Digital Media and Entertainment, and Innovation Initiatives and Others segments. The Core Commerce segment consists of platforms operating in retail and wholesale. The China Commerce segment includes China commerce retail and wholesale businesses. The International Commerce segment focuses on international commerce retail and wholesale businesses. The Local Consumer Services segment is involved in "To-Home" businesses, which include Ele.me, local services and delivery platform, and Taoxianda, and "To-Destination" segment businesses which include Amap, the provider of mobile digital map, navigation and real-time traffic information, and restaurant and local services guide platform. The Cainiao segment has Cainiao Network and offers domestic and international one-stop-shop logistics services and supply chain management solution. The Cloud segment includes Alibaba Cloud and DingTalk. The company was founded by Chung Tsai and Yun Ma on June 28, 1999 and is headquartered in Hangzhou, China.
+A market capitalization above $200 billion places BABA in the mega-capitalization  category.
+Total Revenue increased 5.11% since last year and held flat since last quarter.
+Net Income increased 61.2% since last year and decreased 50.8% since last quarter.
+EPS increased 70.29% since last year and decreased 50.76% since last quarter.
+BABA's competitors are included in the Retail Trade sector and Department Stores group
+A market capitalization above $200 billion places BABA in the mega-capitalization  category.
+Most stock quote data provided by BATS. US market indices are shown in real time, except for the S&P 500 which is refreshed every two minutes. All times are ET. Factset: FactSet Research Systems Inc. All rights reserved. Chicago Mercantile: Certain market data is the property of Chicago Mercantile Exchange Inc. and its licensors. All rights reserved. Dow Jones: The Dow Jones branded indices are proprietary to and are calculated, distributed and marketed by DJI Opco, a subsidiary of S&P Dow Jones Indices LLC and have been licensed for use to S&P Opco, LLC and CNN. Standard & Poor’s and S&P are registered trademarks of Standard & Poor’s Financial Services LLC and Dow Jones is a registered trademark of Dow Jones Trademark Holdings LLC. All content of the Dow Jones branded indices Copyright S&P Dow Jones Indices LLC and/or its affiliates. Fair value provided by IndexArb.com. Market holidays and trading hours provided by Copp Clark Limited.
+© 2026 Cable News Network. A Warner Bros. Discovery Company. All Rights Reserved. CNN Sans ™ & © 2016 Cable News Network.
+Scan the QR code to download the CNN app on Google Play.
+Scan the QR code to download the CNN app from the Apple Store.

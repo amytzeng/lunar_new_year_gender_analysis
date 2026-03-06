@@ -1,0 +1,10 @@
+article_id: guardian_5
+url: https://www.theguardian.com/australia-news/gallery/2026/feb/28/australia-best-photos-february-2026
+title: Australia’s best photos of the month – February 2026
+date: 2026-03-06
+author: 
+matched_keywords: Lunar New Year
+content:
+Inside a climate chamber, bathing Marilyn lookalikes and a toothless tiger – Guardian Australia’s best photos from around the country
+Chinese lion dancers, parades and feasts: a look back at lunar new year in Australia – in pictures
+World Nature Photography awards 2026 – in pictures

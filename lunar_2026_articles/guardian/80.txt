@@ -1,0 +1,66 @@
+article_id: guardian_80
+url: https://www.theguardian.com/world/2026/feb/25/wednesday-briefing-is-the-tide-turning-against-trump-on-tariffs
+title: Wednesday briefing: Is the tide turning against Trump on tariffs?
+date: 2026-03-06
+author: 
+matched_keywords: Lunar New Year
+content:
+Good morning. Let’s delve into the two Ts shaping the global economy right now: tariffs and Trump.
+Last week, the US supreme court ruled that Donald Trump had unlawfully used executive powers to impose sweeping global tariffs. In a 6-3 decision, the court found that the 1977 law Trump relied on did not give him the authority he claimed to introduce tariffs across the world. The ruling dealt a significant blow to a central plank of the president’s economic and geopolitical agenda.
+Trump took the judgment as well as expected: he called the supreme court justices “a disgrace to the nation” and announced a new 15% global baseline tariff using alternative powers.
+So what does this ruling mean for Trump, the US constitution and the rest of the world? For today’s newsletter, I spoke to Stephanie Rickard , a professor of political economy at the London School of Economics . That’s after the headlines.
+US news | Donald Trump proclaimed his first year in office a success at the State of the Union address overnight, even as his presidency is dogged by low public approval ratings before November’s midterm elections.
+UK news | Peter Mandelson condemned the police for his arrest and claimed he was only taken into custody because detectives had wrongly believed he was about to flee the country.
+Reform | Unions and renters’ groups criticised Reform UK after the party’s business spokesperson pledged to introduce a “great repeal act” that would abolish Labour legislation on workers’ rights and protection for tenants.
+Education | Teachers and schools face “a huge ask” implementing the government’s special needs proposals, according to education leaders and MPs who otherwise gave the plans a cautious welcome.
+Health | Almost half the public delay or avoid contacting their GP surgery when they are ill, mainly because they think they will struggle to get an appointment, a survey found .
+Mere months after being re-elected in 2024, Donald Trump announced what his administration called a new chapter in the country’s economic history. On 2 April last year , dubbed “liberation day” by the White House, he unveiled plans for an extraordinary barrage of US tariffs on the world.
+To do so, he invoked a 1977 law designed to address national emergencies – economic or otherwise. Stephanie Rickard tells me that the supreme court ultimately ruled that while a president can act during a crisis, tariffs were not a lawful way to do so. It marked the first time the court struck down a major policy from Trump’s second term.
+Rickard explains that the decision on tariffs – taxes on imports imposed at the border on goods entering the United States from another country – reinforced a longstanding constitutional principle: taxation falls within the remit of Congress.
+“Congress has in the past given the president a lot of leeway in trade policy and negotiating trade agreements,” Rickard says. Now, however, there is a growing belief that the president has gone too far.
+“Congress has said this is not helping consumers in the United States. This is not helping the United States with its allies. And so we have seen some pushback, even from Republican legislators.”
+What’s different about Trump’s tariff policy?
+Trump’s tariffs policies are unprecedented, even by his standards.
+“Tariffs are usually really specific to protect a particular product, even down to very specific details of the product, say trucks with five seatbelts rather than two,” Rickard explains. “Trump is doing something different.”
+The US president has imposed sweeping tariffs across countries, such as a blanket tariff on Chinese imports, broad levies on steel and aluminium from allies, including the European Union.
+“That is a real change from what has come before, particularly in the past couple of decades,” Rickard says. Some countries have successfully pushed specific deals, such as the UK on the automobiles industry or airplane engines.
+“But Trump really has decided to use tariffs in this very blunt way,” she adds.
+Trump has justified the tariffs on several grounds, arguing they reduce reliance on foreign manufacturing and, crucially, generate revenue for the US government.
+“He’s even in the past promised to write cheques to Americans using the money that he’s raised from tariffs,” Rickard says.
+What’s the response been?
+It’s not just Congress that has pushed back against Trump’s tariff policies – they have also begun to sour among the general public. This is perhaps unsurprising: one of Trump’s central election promises was to tackle the cost of living in the US, particularly the price of everyday groceries.
+“We see public opinion changing as consumers start to realise that they’re the ones paying,” Rickard says. So as the cost of living crisis intensifies in the US, “public opinion is turning against these tariffs”, she adds.
+When the tariffs were first announced in 2025, the US stock markets reacted sharply. Unsurprisingly, Trump later walked back some of his most ambitious tariff proposals.
+While the US stock market did fall after the announcement of the 15% tariff, market movements have been more muted than many expected. Rickard suggests that could be because uncertainty may have already been baked in.
+“Trump has this history of announcing tariffs, walking back, announcing them, walking back, and then signing bilateral deals,” she says. “So some of that uncertainty is just priced in at the moment and so we just don’t see huge market reactions to them.”
+Across the world, there is widespread confusion on what Trump’s announcements actually mean. For some countries, she adds, Trump’s latest flat tariff policy could prove beneficial, including Brazil and China, where tariff rates would fall by 13.6 and 7.1 percentage points respectively.
+But for countries like the UK, which had already negotiated a 10% tariff arrangement, such a move would represent a worse deal. That said, it is still not clear if the new tariffs, which began yesterday, will be at the 10% rate on most goods agreed last May, the 15% rate, or customs default to pre-reciprocal day tariffs.
+For now, most countries and businesses are employing a wait and see approach. “No one wins from a trade war,” Rickard says. “Every country is going to be a little bit hesitant to engage in tit-for-tat retaliation … They’re going to hold their fire, and watch what happens.”
+Has the supreme court finally broken with Trump?
+The tariff ruling marked the first time the supreme court has struck down one of Trump’s second-term policies. But is it a sign the court is breaking with him? Rickard doesn’t think so.
+“The ruling was very specific about taxation and tariffs. So we wouldn’t want to over-interpret this and say the supreme court is reining in Trump,” she says.
+But the ruling is an undeniable defeat for Trump, she adds. “He can’t walk around threatening countries with tariffs under this particular piece of legislation,” Rickard says. “One of his threats has been taken away from him.”
+And when it comes to tariffs, she stresses, this is far from the end of the story. “The administration will look for other statutes in US law that give them authority to impose tariffs,” Rickard says.
+That process is already under way, with the administration launching investigations into alleged unfair trade practices. If those investigations conclude that such practices exist, a definition that can be interpreted broadly, Trump could still impose tariffs on a country-by-country basis.
+Another key factor is the approaching midterm elections in November. The 15% tariffs Trump has announced can legally remain in place for only 150 days, bringing their political impact close to the election campaign itself.
+“Prices are still really high, particularly on things like beef and coffee,” she says. “It’s an issue that will absolutely be brought into the midterm elections.”
+As an extremely committed introvert speaking to strangers is not high on my list of fun things to do, but Viv Groskop does a good job here selling the benefits of random conversations. Martin
+This is an extraordinary investigation led by Niamh McIntyre at the Bureau of Investigative Journalism into gig workers in Kenya, including refugees, who are unknowingly building datasets for the US military. Aamna
+Christian Donlan explores Anlife: Motion-learning Life Evolution on the Steam gaming platform, which he describes as “somewhere between a full-blown life sim, a science project and a kind of haunted fish tank”. Martin
+Where exactly do the hopes of the British left lie? Greens, Labour or Your Party? Joe Todd makes a compelling argument that the answer can be found in all of the above. Aamna
+A delightfully nerdy and impassioned view from Nathan Young that the death of the downvote in social media interfaces is how a missing button broke the internet. Martin
+Cricket | England became the first team to secure a place in the T20 World Cup semi-finals after beating Pakistan.
+Football | Newcastle rapidly saw off Qarabag in the Champions League , scoring twice in the first six minutes and ultimately winning 3-2, to set up a last-16 tie against either Barcelona or Chelsea.
+Football | Achraf Hakimi is to face trial for rape, the Paris Saint-Germain and Morocco defender confirmed via a social media post on Tuesday, going on to deny the allegation.
+“Mandelson hits out at police for arrest over claims of flight risk” leads this morning’s Guardian .
+The Times has “Mandelson: flight risk fiction led to my arrest”, the Telegraph goes with “Mandelson held to stop him fleeing Britain” and the Star has “Prince of Darkness”.
+“Minister attacks ‘rude, arrogant’ Andrew in historic Commons rebuke” is on the front of the i paper , while the Sun leads with “get orf your high horse”, and its report that Mountbatten-Windsor has been banned from riding.
+“Investors seek shelter in asset-heavy stocks as AI anxiety shakes up Wall St” is the splash of the FT . The Mail has “Greens plan to hand illegal migrants free house, a wage and NHS care” and the Express has “half of adults avoid going to GP for help”.
+On the ground in the byelection that could end Starmer
+Reform and the Greens both insist they can win the Greater Manchester seat of Gorton and Denton from Labour – and if they do, it could be another nail in the prime minister’s coffin. Helen Pidd reports on how the candidates and voters are feeling
+A bit of good news to remind you that the world’s not all bad
+In Cornwall, traditional fishing is being reframed as a real future for young people who want to stay and work locally, where the jobs available to them are often otherwise poorly paid and seasonally reliant on the tourist trade.
+At a Newlyn taster day, 17-year-old Tom Miller said fishing offers “a more steady income than labouring jobs” and that he “love[s] being out at sea”. Reece Kelly, 22, agreed: “I am getting pretty bored working in a supermarket. I love the sea and I like the idea of doing something outside in the open air that’s a bit more exciting than Tesco.”
+Young Fishermen Network founder Matilda Phillips says it gives young people “the opportunity to stay here in Cornwall”, earning a living and anchoring themselves in community life.
+Sign up here for a weekly roundup of The Upside, sent to you every Sunday
+And finally, the Guardian’s puzzles are here to keep you entertained throughout the day. Until tomorrow.

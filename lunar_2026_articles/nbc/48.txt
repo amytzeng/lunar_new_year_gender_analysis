@@ -1,0 +1,15 @@
+article_id: nbc_48
+url: https://www.nbcnews.com/news/us-news/musks-ai-power-plant-generates-sound-fury-mississippi-rcna258594
+title: Elon Musk's makeshift AI power plant generates sound and fury in Mississippi
+date: 2026-03-06
+author: 
+matched_keywords: Lunar New Year
+content:
+SOUTHAVEN, Miss. — Eddie Gossett awoke one morning last summer to what sounded like an airport runway suddenly opening on his rural Mississippi road.
+The jet engine roar has been almost nonstop ever since, much to the frustration and insomnia of Gossett and his neighbors. It isn’t a plane — or anything supernatural — though. It’s Elon Musk.
+Just down the road from Gossett’s house, 18 methane gas turbines had arrived on trailers on behalf of the richest person in the world. Without warning, the temporary turbines began running day and night, locals say, to power Musk’s AI ambitions.
+“I intended to die right here,” said Gossett, 76, who wonders how long he will have to put up with the noise and the air pollution. “Hell, I couldn’t give my house away with all this noise.”
+Musk’s xAI bought the long-dormant power plant in Southaven last year and plans to spend more than $20 billion in the area, some of it on a new data center in the city. It was the largest private investment in state history, according to Mississippi’s governor.
+Nine more temporary turbines arrived in December, bringing the total to 27. The company has since applied for a permit to put in 41 permanent turbines at the 114-acre site to generate electricity for AI data centers.
+Tech giants like Microsoft, OpenAI and Google are making billions in AI investments across the country to build up the computing and electric power the technology demands. That requires vast land and resources and, for communities like Southaven, a tradeoff between the promise of new jobs and tax revenue vs. environmental and energy costs.
+There is also another X factor: The technology may reshape industries and unlock scientific discoveries, but it also poses a potential threat to the future of work in many industries. That’s what makes neighbors’ complaints about the Southaven plant a bit different from opposition to other residential or commercial projects. The power plant doesn’t just sound irritating, nearby homeowners say. It sounds scary.

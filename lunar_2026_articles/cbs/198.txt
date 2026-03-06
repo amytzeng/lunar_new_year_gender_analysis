@@ -1,0 +1,8 @@
+article_id: cbs_198
+url: https://www.cbsnews.com/losangeles/video/fbi-releases-new-security-camera-video-from-nancy-guthries-disappearance/
+title: FBI releases new security camera video from Nancy Guthrie's disappearance
+date: 2026-03-06
+author: 
+matched_keywords: Lunar New Year
+content:
+©2026 CBS Broadcasting Inc. All Rights Reserved.

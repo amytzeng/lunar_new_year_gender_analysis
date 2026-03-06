@@ -1,0 +1,8 @@
+article_id: cbs_124
+url: https://www.cbsnews.com/colorado/video/high-fire-danger-in-colorado-triggers-first-alert-weather-day-for-thursday/
+title: High fire danger in Colorado triggers First Alert Weather Day for Thursday
+date: 2026-03-06
+author: 
+matched_keywords: Lunar New Year
+content:
+©2026 CBS Broadcasting Inc. All Rights Reserved.

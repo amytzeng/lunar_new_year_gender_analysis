@@ -1,0 +1,53 @@
+article_id: fox_121
+url: https://www.foxnews.com/politics/supreme-court-kills-trumps-liberation-day-tariffs-4-other-laws-could-resurrect-them
+title: Supreme Court kills Trump’s ‘Liberation Day’ tariffs — but 4 other laws could resurrect them
+date: 2026-03-06
+author: 
+matched_keywords: Lunar New Year
+content:
+Chief legal correspondent Shannon Bream provides details on the Supreme Court's ruling striking down all IEEPA tariffs. Constitutional law professor Jonathan Turley weighs in.
+The Supreme Court rebuked President Trump’s use of the International Emergency Economic Powers Act to impose sweeping "Liberation Day" tariffs, ruling that the Constitution gives Congress — not the president — authority over tariffs.
+But the decision may not be the final word. From the Trade Expansion Act to the Trade Act of 1974 and even Depression-era statutes, multiple legal avenues remain that could allow Trump to reassert aggressive trade powers.
+In a 6-3 decision led by George W. Bush -appointed Chief Justice John Roberts, the court ruled that the "framers gave [tariff] power to Congress alone, notwithstanding the obvious foreign affairs implications of tariffs."
+George H.W. Bush-appointed Justice Clarence Thomas, Trump-appointed Justice Brett Kavanaugh and George W. Bush-appointed Justice Samuel Alito dissented.
+A protester holds a sign as the U.S. Supreme Court hears arguments on President Trump's tariffs on Wednesday, November 5, 2025. (Bill Clark/CQ-Roll Call, Inc via Getty Images)
+On "Liberation Day" in 2025, Trump cited the International Emergency Economic Powers Act (IEEPA), drafted by former Rep. Jonathan Brewster-Bingham, D-N.Y., to declare an emergency situation in which foreign countries were "ripping off" the U.S.
+With that avenue now closed by Roberts, Trump could try to use the same national security rationale to invoke the Trade Expansion Act of 1962 , which in part allows the Commerce Department to impose tariffs on "article[s]… imported… in such quantities or under such circumstances as to threaten or impair the national security."
+Unlike the IEEPA, the JFK-era law has been tested in the courts, and Commerce Secretary Howard Lutnick has since built on his predecessor Wilbur Ross’ 2018 steel and aluminum tariffs imposed under the act, adding 407 more imports to the tariff list on the grounds that they are "derivative" of the two approved metals.
+TRUMP’S OWN SCOTUS PICKS COULD WIND UP HURTING HIM ON TARIFFS
+President Donald Trump shows off non-reciprocal tariff examples. (Mandel Ngan/Getty Images)
+During his 2025 confirmation hearing, Lutnick voiced support for a "country by country, macro" approach to tariffs and agreed with the president that the U.S. is "treated horribly by the global trading environment."
+While tariffs imposed under Section 232 of the Trade Expansion Act are not immediate and require the Commerce Department to conduct a formal investigation, the law provides a court-tested avenue for the president.
+In the wake of Friday’s ruling, Sen. Rand Paul, R-Ky., and others celebrated the court’s affirmation that Trump cannot use "emergency powers to enact taxes," but Congress has previously approved another avenue to impose tariffs.
+Then-Rep. Albert Ullman, D-Ore., crafted a bill signed by President Gerald Ford that expressly gave presidents broader authority to impose tariffs: the Trade Act of 1974.
+A federal appeals court in September ruled against thousands of companies that challenged tariffs on China imposed under Section 301 of the Trade Act.
+6 HOUSE REPUBLICANS DEFY TRUMP ON KEY AGENDA ITEM IN DEM-PUSHED VOTE
+In this case, U.S. Trade Representative Jamieson Greer, a Trump appointee, could seek retaliatory tariffs against countries with unfair trade barriers, according to Global Policy Watch .
+An investigation, including negotiations with the targeted countries, would then ensue, and Greer could ultimately be cleared to impose trade restrictions if the probe finds that the U.S. is being denied trade agreement benefits or that such a deal is unjustifiable.
+However, in most cases, imposed tariffs sunset after four years, according to reports.
+In Trump’s favor, it could be argued that the same reasoning Roberts used to strike down the IEEPA authority could backfire on tariff opponents because the 1974 law explicitly gives the executive branch trade-restriction authority.
+Another section of the Ford-signed law could also be used to unilaterally impose tariffs.
+Section 122, the "Balance of Payments" portion of the law, allows Trump to temporarily enforce tariffs or import quotas in certain situations.
+A president may impose tariff duties of up to 15% for 150 days against all or certain countries if they are found to be "maintain[ing] unjustifiable or unreasonable restrictions on U.S. commerce," according to the Retail Industry Leaders Association .
+"This authority is intended to give the executive branch flexibility to respond quickly to trade practices that may harm U.S. economic interests or to correct significant balance-of-payments deficits," the trade group said in a June report.
+However, reports show Section 122 has not been tested in court as extensively, which could lead to lawsuits and legal uncertainty.
+SUPREME COURT RULES ON TRUMP TARIFFS IN MAJOR TEST OF EXECUTIVE BRANCH POWERS
+Another potential policy option for Trump is one that drew sharp criticism when President Herbert Hoover signed it against the advice of economists early in the Great Depression.
+The Smoot-Hawley Tariff Act of 1930, named for Republican Sen. Reed Smoot of Utah and Rep. Willis Hawley of Oregon, imposed tariffs on tens of thousands of imports in hopes of protecting American producers facing dire economic conditions.
+Hawley’s great-granddaughter, Carey Cezar of Baltimore, told NBC News in 2025 that she voted for Kamala Harris and opposed Trump’s tariffs after her ancestor’s name resurfaced in public discourse.
+Other critics of Smoot-Hawley say it is a key reason the Depression was so dire and expansive.
+However, the law still provides a mechanism for the Commerce Department to determine when a good is being "dumped" on U.S. consumers or whether a foreign country is unfairly subsidizing an export to the U.S., and to respond with tariffs.
+Additionally, while Trump has imposed tariffs largely on a country-by-country basis, Smoot-Hawley requires that levies be applied on a product-by-product basis.
+BESSENT WARNS OF 'GIGANTIC LOSS' IF SUPREME COURT STRIPS TRUMP'S EMERGENCY TARIFF POWERS
+Chief Justice of the U.S. Supreme Court John Roberts speaks during a lecture to the Georgetown Law School graduating class of 2025, in Washington, May 12, 2025. (AP Photo/Manuel Balce Ceneta, File)
+A fifth avenue that is largely unreachable by Trump is the Fordney-McCumber Tariff Act of 1922.
+Sen. Porter McCumber, R-N.D., and Rep. Joseph Fordney, R-Mich., passed a bill allowing Republican President Warren Harding to impose much higher tariffs than were standard at the time, in hopes of protecting U.S. farmers from a sharp decline in revenue following World War I.
+In one of the first contemporary rebukes of protectionism, Fordney-McCumber was criticized for permitting tariffs as high as 50% on countries, including allies, which opponents said had the unintended consequence of hurting America’s ability to service its war debts.
+Fordney-McCumber was eventually superseded by Smoot-Hawley, and any remaining provisions are considered obsolete following the Reciprocal Trade Agreements Act, signed by President Franklin Roosevelt to undo some of Congress’ trade restrictions.
+CLICK HERE TO DOWNLOAD THE FOX NEWS APP
+The RTAA shifted tariff authority from Congress to the president, granting authority for bilateral negotiations aimed at lowering tariffs at the time.
+That dynamic, often called "reciprocity," is being used in the Trump era not to lower tariffs but to raise them.
+Charles Creitz is a reporter for Fox News Digital.
+He joined Fox News in 2013 as a writer and production assistant.
+Charles covers media , politics and culture for Fox News Digital.
+Charles is a Pennsylvania native and graduated from Temple University with a B.A. in Broadcast Journalism. Story tips can be sent to charles.creitz@fox.com.

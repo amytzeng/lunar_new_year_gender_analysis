@@ -1,0 +1,8 @@
+article_id: cbs_237
+url: https://www.cbsnews.com/chicago/video/travelers-stranded-by-cartel-violence-in-mexico-finally-return-to-chicago/
+title: Travelers stranded by cartel violence in Mexico finally return to Chicago
+date: 2026-03-06
+author: 
+matched_keywords: Lunar New Year
+content:
+©2026 CBS Broadcasting Inc. All Rights Reserved.

@@ -1,0 +1,8 @@
+article_id: cbs_110
+url: https://www.cbsnews.com/sanfrancisco/video/shooting-along-san-joses-paseo-de-san-antonio-leaves-2-men-dead/
+title: Shooting along San Jose's Paseo de San Antonio leaves 2 men dead
+date: 2026-03-06
+author: 
+matched_keywords: Lunar New Year
+content:
+©2026 CBS Broadcasting Inc. All Rights Reserved.

@@ -1,0 +1,21 @@
+article_id: guardian_73
+url: https://www.theguardian.com/lifeandstyle/2026/feb/24/accidental-hacker-how-one-man-gained-control-robots-
+title: The accidental hacker: how one man gained control of 7,000 robots
+date: 2026-03-06
+author: 
+matched_keywords: Lunar New Year
+content:
+Name: The accidental hacker.
+Age: It doesn’t matter how old Sammy Azdoufal is. What he did is what’s important here, and what he did is very much of the age.
+And what did Azdoufal do? He hooked up his DJI Romo vacuum cleaner to his PS5 controller.
+Why? Because, he told the New York-based tech news publication the Verge, it sounded fun.
+OK, each to their own . And how did he do this? He used an AI coding assistant, Claude Code, to reverse-engineer how the home robot vacuum communicated with DJI’s remote cloud servers …
+Whoa, you’re losing me. I’m losing myself too, to be honest. Look, Azdoufal is a software engineer, he’s the head of AI strategy at a holiday rental company, he knows how to do this stuff. But what’s interesting is what happened next …
+What happened next? Presumably he lay on the sofa, directing his vacuum cleaner with his joystick – which does actually sound fun, even if it slightly negates the whole point of a robot . He found that not only could he control his own robot, but that he had gained access to data from other robot vacuum cleaners.
+What kind of data? Live camera feeds, microphone audio, maps from nearly 7,000 devices across 24 countries.
+Tinker Tailor Cleaner Spy! Albeit an unwitting one. But yes, Azdoufal had discovered a backend security bug that could mean whole swarms of web-connected vacuum cleaners/surveillance devices spying on their owners without them even knowing.
+Incredible! What did he do with such power? As I said, he took his findings to the Verge . One of its reporters gave Azdoufal the serial number of a DJI Romo vacuum he’d just been testing for review; within minutes Azdoufal could see it cleaning the reporter’s living room, that it had 80% battery life remaining, and had it generate and transmit a floor plan of the house.
+That’s terrifying. Is there a chance that more nefarious actors than Azdoufal could be using these robot vacuum cleaners to spy on us ? The Chinese company DJI - Shenzhen Da-Jiang Innovations Sciences and Technologies Ltd – initially told the Verge the problem “was resolved”, but according to Azdoufal, DJI hadn’t fixed all the vulnerabilities he’d found. Since the Verge published its report, DJI has also been in touch with Popular Science to say the issue had been “resolved” .
+Of course they did. But this incident certainly highlights some of the warnings and fears surrounding smart home devices and robots and how they could become a target for hackers. Or perhaps already are …
+Do say: “Yeah, I know you’ve got eyes and a creepy smile, but I’m sticking with you, Henry . Because you can’t actually see …. Can you?”
+Don’t say: “You missed a bit in the corner – yes, you there, in Taipei. And we’re watching …”

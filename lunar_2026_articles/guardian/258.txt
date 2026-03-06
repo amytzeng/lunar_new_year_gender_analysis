@@ -1,0 +1,29 @@
+article_id: guardian_258
+url: https://www.theguardian.com/australia-news/2026/feb/26/blaring-sirens-on-smartphones-to-warn-australians-of-major-disasters-under-emergency-alerts-overhaul
+title: Blaring sirens on smartphones to warn of major disasters under overhaul of Australia emergency alert system
+date: 2026-03-06
+author: 
+matched_keywords: Lunar New Year
+content:
+Australians will soon receive intrusive alerts on their smartphones to warn of impending emergencies as governments overhaul warning systems for natural disasters and other serious events.
+The $132m AusAlert system will be rolled out through a series of trials from June, replacing state-based text messaging systems which often struggle because of demand in major emergencies .
+Alerts will be sent for bushfires, floods, biosecurity threats and public safety incidents like shootings. The messages will link users to more information from official sources online.
+Similar systems are used in about 35 countries around the world.
+Instead of text messages, AusAlert will appear as a home screen message on phones in designated geographic areas. The alerts will have the capability to be targeted down to individual streets, with the highest-level threat alert accompanied by a loud, intrusive tone.
+Sign up: AU Breaking News email
+Alerts will be received by anyone with a phone in the specific location inside a specific time range, for between 10 minutes and 24 hours.
+A national test, set to send alerts to about 23m smartphones, is planned for 27 July at 2pm, eastern time. As many as 90% of phones in Australia are expected to receive them.
+The system is designed to work for most phones released since 2019. Testing is being conducted for interactions between the system and smartwatches, carplay systems and other devices.
+Users will not be able to opt out of the highest-level threat alert. Opt-out functionality will be able for lower level threats, known as priority alerts.
+AusAlert is expected to be fully operational by October, before the 2026-27 high-risk weather season. Existing state-based emergency text alert systems will be decommissioned by July 2027.
+Local testing is planned for June, including in Launceston, Port Douglas, Majura, Liverpool, Geelong, Tennant Creek, Goomalling and Port Lincoln in South Australia.
+A cross-border trial in Queanbeyan, is also planned, reaching into Canberra.
+The federal emergency management minister, Kristy McBain , said testing across the community would be essential. A large advertising and awareness campaign is also planned.
+“This is an important project that will help us and emergency services organisations warn people when they are in harm’s way, saving lives and protecting property during a disaster, delivering on a key finding from the royal commission into national natural disaster arrangements,” she said.
+“This is a major development in Australia’s emergency communication landscape, and I thank Australians in advance for their cooperation as we move into the launch phase for AusAlert ahead of the next high-risk weather season.”
+Indi MP Helen Haines said the system would be badly weakened by mobile phone black spots in regional areas. She called for telecommunications companies to run special disaster roaming services through their towers in times of emergencies, allowing customers of rival networks to get coverage.
+“Getting an alert about a disaster is important, but it means nothing if you can’t access the telecommunications network,” she said. “I’ve heard from too many people who, in life-or-death situations during natural disasters, simply couldn’t get a signal when they needed it most.”
+Shadow emergency services minister, Ross Cadell, hit out at the cost, up from an original $10m price tag.
+“This will only succeed if it is fully integrated across jurisdictions and emergency services,” he said.
+“Australians need confidence that national and state systems will operate seamlessly.
+“The government should now provide a clear implementation timeline, detailed assurance around system resilience, clarity on national coordination with states and territories, and a full accounting of how the project escalated in cost.”

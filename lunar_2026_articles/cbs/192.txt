@@ -1,0 +1,8 @@
+article_id: cbs_192
+url: https://www.cbsnews.com/losangeles/video/political-expert-discusses-trumps-upcoming-state-of-the-union-address/
+title: Political expert discusses Trump's upcoming State of the Union address
+date: 2026-03-06
+author: 
+matched_keywords: Lunar New Year
+content:
+©2026 CBS Broadcasting Inc. All Rights Reserved.

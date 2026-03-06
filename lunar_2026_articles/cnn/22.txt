@@ -1,0 +1,26 @@
+article_id: cnn_22
+url: https://edition.cnn.com/2026/02/26/business/why-some-investors-see-trouble-in-paradise-after-nvidia-earnings
+title: Why some investors see ‘trouble in paradise’ after Nvidia earnings
+date: 2026-03-06
+author: 
+matched_keywords: Lunar New Year
+content:
+A version of this story appeared in CNN Business’ Nightcap newsletter. To get it in your inbox, sign up for free here .
+Nvidia’s earnings Wednesday evening were, on paper, a runaway success: Profits nearly doubled in the fourth quarter and sales hit an all-time high.
+In reality, they were a huge disappointment.
+Shares of the chip maker at the center of the AI trade sank in late trading Wednesday, and closed 5.5% lower Thursday. You could watch the financial media headlines shift from their initial “Nvidia eases bubble fears” vibe to a more somber “Nvidia fails to impress.”
+Part of this is just the Nvidia curse: The company has so reliably beat earnings estimates quarter after quarter for the past three years that it has conditioned investors to expect blockbusters. “Very good” is no longer remarkable when talking about the most valuable public company on the planet.
+But the other part of this is a genuine mood shift on Wall Street — around AI broadly, and Nvidia in particular.
+“Investors know there is trouble in paradise,” wrote Mike O’Rourke, chief market strategist at JonesTrading, following Nvidia’s call with investors Wednesday.
+There’s a lot more to any company than the black-and-white facts and figures on its earnings, and that’s what O’Rourke and other AI bears are homing in on. On the call, an analyst asked Nvidia CEO Jensen Huang how confident he is in his customers’ ability to continue shoveling hundreds of billions of dollars into buying Nvidia chips.
+Huang replied that he was “confident in their cash flow growing.” Trouble is, O’Rourke notes, that isn’t really happening. In fact, the top “hyperscalers” — Amazon, Meta, Microsoft and Google — all reported earnings a month ago that showed free cash flow either collapsing or flattening.
+“If management is not going to be candid about information that is well known, investors become fearful of what they don’t know,” O’Rourke wrote.
+Adding to the pressure on Nvidia Thursday was a blog post by Michael Burry, the “Big Short” investor who has become an outspoken critic of the AI fervor. In a blog post, Burry highlighted a figure from Nvidia’s earnings that he said could prove “catastrophic” if enthusiasm for AI begins to wane.
+Put simply, Nvidia’s “purchase obligations” (contracts to buy things within a set timeframe) shot up to $95 billion from $16 billion a year ago. The reason, he notes, is that TSMC — a key supplier — demanded more cash for all the complex custom chips it’s producing for Nvidia.
+That means Nvidia “has been forced to place non-cancellable purchase orders well before demand is known,” and the change appears “structural” rather than temporary, Burry wrote.
+Nvidia didn’t immediately respond to a request for comment.
+More broadly, traders appear increasingly torn over whether AI is wildly overhyped, or that it will so effectively replace human labor it could collapse the economy. Either way, the potential for a shakeout is prompting some to short the market, the Wall Street Journal’s Gregory Zuckerman wrote this week.
+“One hedge-fund manager is preparing for Nvidia’s chip sales to fall. Another has an off-the-books wager against OpenAI, which is privately held. Some are shorting shares of Oracle,” Zuckerman writes.
+Elsewhere, as the Financial Times wrote , some investors are “turning to complex options and hedging strategies” to navigate a market that’s so on edge a single blog post or headline can trigger tens of billions in losses. One analyst told the FT compared the hedging activity to a relentless game of “market doom whack-a-mole.”
+At least one tech giant, Apple, has been insulated from the scare trade. The iPhone maker has been frequently (and at times unfairly) criticized for being an AI laggard.
+But by sitting out the eye-popping spending spree that its peers are engaged in, Apple has become a relative safe haven, Bloomberg reported recently. Apple’s shares are up 7% for the past month, while the Nasdaq is down 2.7%.

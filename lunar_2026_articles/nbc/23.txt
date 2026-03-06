@@ -1,0 +1,23 @@
+article_id: nbc_23
+url: https://www.nbcnews.com/science/space/spacex-prioritizes-moon-before-mars-musk-says-rcna258168
+title: In a reversal, SpaceX prioritizes 'city' on the moon over Mars project, Musk says
+date: 2026-03-06
+author: 
+matched_keywords: Lunar New Year
+content:
+Elon Musk said on Sunday that SpaceX has shifted its focus to building a “self‑growing city” on the moon, which could be achieved in less than 10 years.
+SpaceX still intends to start on Musk’s long-held ambition of a city on Mars within five to seven years, he wrote on his X social media platform, “but the overriding priority is securing the future of civilization and the Moon is faster.”
+Musk’s comments echo a Wall Street Journal report on Friday, which said SpaceX has told investors it would prioritize going to the moon and attempt a trip to Mars at a later time, targeting March 2027 for an uncrewed lunar landing.
+This marks a shift from Musk’s long-standing focus on Mars as SpaceX’s primary destination. As recently as last year, he said the company aimed to launch an uncrewed Mars mission by the end of 2026 .
+“No, we’re going straight to Mars. The Moon is a distraction,” he said in January last year in response to a post on X.
+Musk has a long record of setting ambitious timelines for projects such as electric vehicles and self-driving technology that have repeatedly failed to materialize on schedule.
+The U.S. faces intense competition from China to return humans to the moon this decade. Humans have not visited the lunar surface since the Apollo 17 mission in 1972.
+Less than a week ago, Musk announced that SpaceX acquired the artificial intelligence company he also leads, xAI, in a deal that values the rocket and satellite company at $1 trillion and the artificial intelligence outfit at $250 billion.
+Proponents of the move view it as a way for SpaceX to bolster its plans for space-based data centers, which Musk sees as more energy efficient than terrestrial facilities as the demand for compute power soars with AI development.
+SpaceX is hoping a public offering later this year could raise as much as $50 billion, which could make it the largest public offering in history.
+On Monday, Musk said in response to a user on X that NASA will constitute less than 5% of SpaceX’s revenue this year. SpaceX is a core contractor in NASA’s Artemis moon program with a $4 billion contract to land astronauts on the lunar surface using Starship.
+“Vast majority of SpaceX revenue is the commercial Starlink system,” Musk said.
+On Sunday, Musk shared the company’s first Super Bowl ad, promoting its Starlink Wi-Fi service.
+Even as Musk reorients SpaceX, he is also pushing his publicly traded company, Tesla, in a new direction.
+After virtually building the global electric vehicles market, Tesla is now planning to spend $20 billion this year as part of an effort to pivot to autonomous driving and robots.
+To speed up the shift, Musk said last month Tesla is ending production of two car models at its California factory to make room for manufacturing its Optimus humanoid robots.

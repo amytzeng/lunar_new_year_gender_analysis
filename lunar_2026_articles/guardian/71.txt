@@ -1,0 +1,28 @@
+article_id: guardian_71
+url: https://www.theguardian.com/us-news/2026/feb/25/trump-state-of-the-union-factcheck
+title: Jobs, gas prices and ending wars: factchecking Trump’s State of the Union claims
+date: 2026-03-06
+author: 
+matched_keywords: Lunar New Year
+content:
+Donald Trump officially made the longest State of the Union address in history on Tuesday night, with broad claims about the successes achieved during the first year of his second term.
+But the speech that stretched across more than an hour and 41 minutes was filled with strong statements, many of them inflated, misleading or simply untrue.
+Here are some of the claims made by the president during his address:
+Trump repeatedly touted his economy, boasting “we are the hottest country anywhere in the world” and claiming “we have more jobs, more people working today than ever before in the history of our country.”
+But data shows job gains under Trump slowed in 2025, and were far smaller than any other non-pandemic year.
+According to revised data released by the Bureau of Labor Statistics earlier this month, the US gained just 181,000 jobs in 2025.
+That number, PolitiFact notes, is “well below the 1.5 million to 2.5 million typical under both Trump during his first term and former President Joe Biden”.
+Trump also said the US had, under his leadership, secured $18tn in investments “pouring in from all over the globe”. But a review from CNN last year found that the White House was counting pledges – vague amounts promised – rather than actual investments. The White House website on investments lists total US and foreign investments at $9.7tn.
+When Trump introduced the mother of Iryna Zarutska, the Ukrainian woman killed on a train in Charlotte, North Carolina, last year, he falsely claimed the man who stabbed Zarutska was “ a hardened criminal set free to kill in America came in through open borders”.
+However, DeCarlos Brown Jr, the man arrested and charged with killing Zarutska, is not an immigrant. Trump has long insisted that non-citizens are responsible for violent crime throughout the US. Data shows that relative to undocumented immigrants, US-born citizens are more than twice as likely to be arrested for violent crimes, and 2.5 times more likely to be arrested for drug crimes.
+Trump suggested that energy prices are decreasing. “When they see energy going down to numbers like that, they cannot believe it,” he said.
+But the average household energy bill went up by 6.7% from 2024 to 2025 in the US. That’s despite Trump’s oft-repeated promise to cut electricity costs in half within his first year back in office.
+Since Trump retook the White House, utility companies have raised or sought to raise rates on American families by at least $92bn , raising bills for 112 million electric customers and 52 million gas customers, according to an analysis from the liberal thinktank the Center for American Progress. The president’s attacks on clean energy expansion are also expected to increase electricity rates by up to 18% by 2035, data from the power research group Energy Innovation shows.
+The Trump administration has also gutted energy assistance for US families. Last year, the administration eliminated tax credits for cost-cutting home energy-efficiency upgrades. It also attempted to eliminate the Low Income Home Energy Assistance Program, which helps 6 million low-income Americans with their energy bills each year. The program survived, but has been significantly hindered after the administration laid off the program’s entire staff. The cuts and a government shutdown caused unprecedented delays in the disbursement of aid.
+Trump touted low gas prices during his State of the Union speech, saying they are “now below $2.30 a gallon in most states and in some places, $1.99 a gallon”. But a major environmental rollback his administration enacted two weeks ago could push gas prices up.
+The repeal of the endangerment finding – the legal underpinning for all greenhouse gas regulations in the US – is expected to create a rise in gas prices, as the Guardian explained in an analysis last week. That’s according to the administration’s own data. Check it out here .
+Gas prices are also higher than the president claimed. According to AAA, which logs prices across the country, Oklahoma is the only state offering gas at $2.30 a gallon – or $2.374, to be precise. Prices in some states exceed $4.60.
+The president claimed he ended eight wars in his first 10 months, a bold exaggeration. The US has been party to six peace agreements and several of them do not credit Trump specifically. Others were not considered wars to begin with.
+While he was involved in efforts to broker a ceasefire in Gaza, Israel has continued to kill Palestinian civilians and carry out airstrikes since last October’s truce was announced.
+The century-long border dispute between Thailand and Cambodia is one of the conflicts Trump claims to have resolved. Trump presided over the signing of a ceasefire deal between the two sides in October, calling it “a monumental step”.
+He had pressured leaders from both countries to make a deal by warning trade talks with the US would otherwise be put on hold. However, the underlying causes of the conflict, which is rooted in longstanding disagreements over colonial-era maps, has never been resolved. The ceasefire broke down just weeks later in November , and fighting erupted again in December, forcing half a million people to flee their homes.

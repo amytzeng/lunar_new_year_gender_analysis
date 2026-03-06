@@ -1,0 +1,13 @@
+article_id: guardian_346
+url: https://www.theguardian.com/technology/2026/feb/12/anthropic-donation-ai-regulation-politics
+title: Anthropic to donate $20m to US political group backing AI regulation
+date: 2026-03-06
+author: 
+matched_keywords: Lunar New Year
+content:
+Anthropic will spend $20m to back US political candidates who support regulating the AI industry, according to a company statement released on Thursday. Anthropic’s donation puts it in opposition to the ChatGPT maker OpenAI , which has advocated for less stringent regulation of AI.
+The company is donating to Public First Action, a political group that opposes federal efforts to quash state AI regulations like a December executive order issued by Donald Trump . One of the candidates that the group is backing is Republican Marsha Blackburn, who is running for governor in Tennessee and who opposed an effort in Congress to bar states from passing AI laws.
+“The companies building AI have a responsibility to help ensure the technology serves the public good, not just their own interests,” the company said in a statement.
+The AI industry is poised to play a major financial role in the US midterm elections this year, as its leaders seek to influence regulation of the technology. Several states have passed laws or are considering bills to regulate the industry.
+Two former members of Congress launched Public First Action late last year to counter a group called Leading the Future, which generally opposes strict AI regulations. Leading the Future is backed by AI industry leaders such as OpenAI’s president, Greg Brockman, and the venture capitalist Marc Andreessen. Andreessen’s firm, A16Z, is an investor in OpenAI .
+Leading the Future has raised $125m since its founding in August 2025, according to a spokesperson for the organization.

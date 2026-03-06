@@ -1,0 +1,39 @@
+article_id: fox_54
+url: https://www.foxnews.com/us/nancy-guthrie-suspects-digital-blackout-may-key-case-says-expert-who-probed-kohberger-phone
+title: Nancy Guthrie suspect's digital ‘blackout’ may be key to case, says expert who probed Kohberger phone
+date: 2026-03-06
+author: 
+matched_keywords: Lunar New Year
+content:
+Heather Barnhart, a Cellebrite digital forensics expert who helped land Bryan Kohberger in prison for life, explains his big smartphone mistake and new clues in Nancy Guthrie’s suspected kidnapping.
+TUCSON, Ariz. — Whoever abducted Nancy Guthrie may have left behind crucial digital evidence — even if they thought they covered their tracks, according to a forensics expert who helped solve the Idaho student murders.
+Authorities have released few details about any evidence aside from DNA samples collected so far, but Heather Barnhart, a digital forensics expert with Cellebrite and the SANS Institute, said cell tower data, Wi-Fi logs and other digital breadcrumbs could prove critical.
+"The loudest evidence can be the lack of evidence," she told Fox News Digital.
+Barnhart, who analyzed the phone and computer of Bryan Kohberger , told Fox News Digital that criminals often underestimate how difficult it is to truly disappear in a world saturated with connected technology.
+Nancy Guthrie disappeared from her Tucson home in the early morning hours of Feb. 1, with investigators treating the case as an apparent abduction. (Fox Flight Team; Courtesy of NBC)
+With DNA leads pointing to dead ends so far, it may be digital evidence that moves the case forward.
+She pointed to the convicted Idaho killer Kohberger as an example.
+"Kohberger literally created bookends around the crime by turning off his device," she said. "So in addition to all the clearing and other things that he prepped for to erase his digital footprint, the fact that right before the murder, his phone was turned off, and then within like 40 minutes or so after it was turned back on, kind of gave us that tunnel to look down here."
+ELITE FBI VIDEO UNIT THAT WORKED KOHBERGER CASE SPOTTED AT NANCY GUTHRIE HOME
+Law enforcement agents check vegetation areas around Nancy Guthrie’s home in Tucson, Ariz., Wednesday, Feb. 11, 2026. (Ty O'Neil/AP Photo)
+Investigators have said little about what kind of digital evidence they've recovered so far in the case. The suspect, who may or may not have acted alone, took measures to hide his fingerprints and DNA.
+He wore a ski mask, gloves, and long-sleeved clothing and seems to have avoided shedding any traceable genetic material inside Guthrie's home.
+So it may be that, like Kohberger, he and any potential accomplices covered their digital tracks by turning off their phones or placing them in airplane mode.
+FOLLOW THE FOX TRUE CRIME TEAM ON X
+This image released by the FBI shows an armed individual appearing to have tampered with the camera at Nancy Guthrie's front door the morning of her disappearance in Tucson, Arizona, Sunday, February 1, 2026. (L) An undated photo of Nancy Guthrie provided by NBC in response to the disappearance of the 84-year-old mother of "Today" show host, Savannah Guthrie. (Provided by FBI; Courtesy of NBC)
+If that's the case, investigators can look at behavior patterns in the area and try to find an aberration, Barnhart said. And if they do, that could be the detail that cracks the case.
+"If the person prepped, they wouldn't ping that tower, but if they went ahead of time and scoped it out or planned, they would have," Barnhart said. "And then you can also look for entry and exit. And then proximity pings , because eventually you're going to turn your phone back on."
+SIGN UP TO GET TRUE CRIME NEWSLETTER
+Law enforcement agents walk around the neighborhood where Annie Guthrie, whose mother Nancy Guthrie has been missing for more than a week, lives just outside Tucson, Ariz. (Ty O'Neil/AP Photo)
+Even a temporary blackout can stand out, she said, especially in a quiet residential neighborhood in the early morning hours when most devices would typically remain in one place, with their owners asleep.
+And if the abductor did bring their phone but put it on airplane mode, some of their movements may still be traceable, she said. She discovered this while working the Kohberger case, when she crossed time zones and her device, on airplane mode the whole time, pinged in a new location.
+Law enforcement agents check vegetation areas around Nancy Guthrie’s home in Tucson, Ariz., Wednesday, Feb. 11, 2026. (Ty O'Neil/AP Photo)
+Investigators may also have examined whether a suspect’s phone "touched" Guthrie’s home Wi-Fi network — even without connecting to it — potentially placing the device at the scene.
+And traffic cameras are another tool available to investigators, she said. It remains unclear whether authorities recovered helpful footage from them. There are many visible throughout the county.
+LIKE WHAT YOU'RE READING? FIND MORE ON THE TRUE CRIME HUB
+A Pima County Sheriff's deputy is involved in a law enforcement operation at the intersection of Camino de Michael and East Orange Grove Road in Tucson, Arizona on Friday, February 13, 2026. The location is approximately two miles from Nancy Guthrie's home. (DWS for Fox News Digital)
+Guthrie is the 84-year-old mother of "Today" co-host Savannah Guthrie . She is believed to have been taken from her home against her will around 2:30 a.m. on Feb. 1, according to the Pima County Sheriff's Department.
+Barnhart said that in the Idaho case, phone logs showed the shutdown was user-initiated and the device was fully charged before going dark — details that helped investigators determine it was deliberate.
+CLICK HERE TO DOWNLOAD THE FOX NEWS APP
+"With Bryan Kohberger, he disabled cellular, disabled Wi-Fi and turned off his phone," Barnhart said. "That is extreme measures to not have a digital footprint. So he really took all the steps but still made a mistake… We hope in Nancy Guthrie, that whoever has her made a mistake and that we can uncover that footprint."
+Savannah Guthrie has asked anyone with information on her mother's suspected abduction to reach the FBI at 1-800-CALL-FBI.

@@ -1,0 +1,8 @@
+article_id: cbs_46
+url: https://www.cbsnews.com/sanfrancisco/video/chinese-new-year-celebrations-take-place-in-rainy-san-francisco/
+title: Chinese New Year celebrations take place in rainy San Francisco
+date: 2026-03-06
+author: 
+matched_keywords: Lunar New Year
+content:
+©2026 CBS Broadcasting Inc. All Rights Reserved.

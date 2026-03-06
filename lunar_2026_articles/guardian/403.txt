@@ -1,0 +1,8 @@
+article_id: guardian_403
+url: https://www.theguardian.com/artanddesign/gallery/2026/feb/21/zahalkaworld-an-artists-archive-in-pictures
+title: Zahalkaworld: an artist’s archive – in pictures
+date: 2026-03-06
+author: 
+matched_keywords: Lunar New Year
+content:
+Tweed Regional Gallery will host the Museum of Australian Photography (MAPh) touring exhibition Zahalkaworld, a survey of key artworks by one of Australia’s most renowned artists, Anne Zahalka. Covering four decades of her celebrated career, the show will be on view from 21 February to 17 May

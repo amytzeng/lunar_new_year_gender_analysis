@@ -1,0 +1,8 @@
+article_id: cbs_45
+url: https://www.cbsnews.com/chicago/video/chinese-lunar-new-year-festivities-kick-off-in-chicagos-chinatown/
+title: Chinese Lunar New Year festivities kick off in Chicago’s Chinatown
+date: 2026-03-06
+author: 
+matched_keywords: Lunar New Year
+content:
+©2026 CBS Broadcasting Inc. All Rights Reserved.

@@ -1,0 +1,27 @@
+article_id: nbc_1
+url: https://www.nbcnews.com/world/asia/chinas-humanoid-robots-take-center-stage-lunar-new-year-showtime-rcna259307
+title: China's humanoid robots take center stage for Lunar New Year showtime
+date: 2026-03-06
+author: 
+matched_keywords: Lunar New Year
+content:
+BEIJING — China ’s most-watched TV show, the annual CCTV Spring Festival gala, on Monday showcased the country’s cutting-edge industrial policy and Beijing’s push to dominate humanoid robots and the future of manufacturing.
+Four rising humanoid robot startups — Unitree Robotics, Galbot, Noetix and MagicLab — demonstrated their products at the gala, a televised event and touchstone for China comparable to the Super Bowl for the United States.
+The program’s first three sketches prominently featured humanoid robots, including a lengthy martial arts demonstration where over a dozen Unitree humanoids performed sophisticated fight sequences waving swords, poles and nunchucks in close proximity to human children performers.
+The fight sequences included a technically ambitious one that imitated the wobbly moves and backward falls of China’s “drunken boxing” martial arts style, showing innovations in multi-robot coordination and fault recovery — where a robot can get up after falling down.
+The program’s opening sketch also prominently featured ByteDance’s AI chatbot Doubao, while four Noetix humanoid robots appeared alongside human actors in a comedy skit and MagicLab robots performed a synchronized dance with human performers during the song “We Are Made in China.”
+The hype surrounding China’s humanoid robot sector comes as major players including AgiBot and Unitree prepare for initial public offerings this year, and domestic artificial intelligence startups release a raft of frontier models during the lucrative nine-day Lunar New Year public holiday.
+Last year’s gala stunned viewers with 16 full-size Unitree humanoids twirling handkerchiefs and dancing in unison with human performers.
+Unitree’s founder met President Xi Jinping weeks later at a high-profile tech symposium, the first of its kind since 2018.
+Xi has met five robotics startup founders in the past year, comparable to the four electric vehicle and four semiconductor entrepreneurs he met in the same timeframe, giving the nascent sector unusual visibility.
+The CCTV show, which drew 79% of live TV viewership in China last year, has for decades been used to highlight Beijing’s tech ambitions, including its space program, drones and robotics, said Georg Stieler, Asia managing director and head of robotics and automation at technology consultancy Stieler.
+“What distinguishes the gala from comparable events elsewhere is the directness of the pipeline from industrial policy to prime-time spectacle,” Stieler said.
+“Companies that appear on the gala stage receive tangible rewards in government orders, investor attention, and market access.”
+“It’s been just one year — and the performance jump is striking,” said Stieler, adding that the robots’ impressive motion control showed Unitree’s focus on developing robot “brains” — the AI-powered software that enables them to complete fine motor tasks that can be used in real-world factory settings.
+Behind the spectacle of robots running marathons and executing kung-fu kicks and backflips, China has positioned robotics and AI at the heart of its next-generation AI+ manufacturing strategy, betting that productivity gains from automation will offset pressures from its aging work force .
+“Humanoids bundle a lot of China’s strengths into one narrative: AI capability, hardware supply chain, and manufacturing ambition. They are also the most ‘legible’ form factor for the public and officials,” said Beijing-based tech analyst Poe Zhao.
+“In an early market, attention becomes a resource.”
+China accounted for 90% of the roughly 13,000 humanoid robots shipped globally last year, far ahead of U.S. rivals including Tesla’s Optimus, according to research firm Omdia.
+Morgan Stanley projects that China’s humanoid sales will more than double to 28,000 units this year.
+Elon Musk has said he expects his biggest competitor to be Chinese companies as he pivots Tesla toward a focus on embodied AI and its flagship humanoid Optimus.
+“People outside China underestimate China, but China is an ass-kicker next level,” Musk said last month.

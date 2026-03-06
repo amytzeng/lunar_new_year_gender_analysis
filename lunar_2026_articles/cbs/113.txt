@@ -1,0 +1,8 @@
+article_id: cbs_113
+url: https://www.cbsnews.com/sanfrancisco/video/bay-area-man-stuck-in-puerto-vallarta-after-violence-erupts/
+title: Bay Area man stuck in Puerto Vallarta after violence erupts
+date: 2026-03-06
+author: 
+matched_keywords: Lunar New Year
+content:
+©2026 CBS Broadcasting Inc. All Rights Reserved.

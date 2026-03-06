@@ -1,0 +1,8 @@
+article_id: cbs_29
+url: https://www.cbsnews.com/philadelphia/video/hundreds-gather-to-celebrate-lunar-new-year-in-chinatown/
+title: Hundreds gather to celebrate Lunar New Year in Chinatown
+date: 2026-03-06
+author: 
+matched_keywords: Lunar New Year
+content:
+©2026 CBS Broadcasting Inc. All Rights Reserved.

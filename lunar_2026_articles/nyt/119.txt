@@ -1,0 +1,22 @@
+article_id: nyt_119
+url: https://www.nytimes.com/international/section/aponline/science
+title: Science News From The Associated Press
+date: 2026-03-06
+author: 
+matched_keywords: Lunar New Year
+content:
+The spacecraft sprang a propellant leak, causing it to break apart and scatter debris in the Indian Ocean.
+The bright object that streaked across the sky is called a bolide.
+By Webcams De Mexico, Associated Press
+After more than five years of landing its returning vessels off the Florida coast, SpaceX’s Dragon capsule splashed down off the California coast for the first time.
+By The Associated Press
+Butch Wilmore and Suni Williams were brought back to Earth in a SpaceX capsule after problems with Boeing’s Starliner delayed their return by about nine months.
+New Glenn, named after the astronaut John Glenn, successfully lifted off early Thursday morning from Cape Canaveral Space Force Station in Florida.
+John J. Hopfield and Geoffrey E. Hinton were awarded the prize “for foundational discoveries and inventions that enable machine learning with artificial neural networks.”
+By The Associated Press
+The European Space Agency’s Hera mission will investigate an asteroid that NASA deliberately struck with another spacecraft in a previous test of humanity’s planetary defense readiness.
+By The Associated Press
+Victor Ambros and Gary Ruvkun were awarded the Nobel Prize in Physiology or Medicine for their discovery of microRNA, which plays a role in organism development and gene regulation.
+By Reuters and The Associated Press
+The astronauts Suni Williams and Butch Wilmore expressed support for NASA and Boeing, following the decision for them to remain in orbit, while the troubled spacecraft they rode to the International Space Station returned to Earth uncrewed.
+Jared Isaacman, a billionaire entrepreneur, and SpaceX engineer Sarah Gillis successfully completed the first ever private spacewalk.

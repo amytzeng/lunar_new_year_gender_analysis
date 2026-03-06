@@ -5,7 +5,7 @@ import time
 from pathlib import Path
 
 # Initialize OpenAI client
-client = OpenAI(api_key="YOUR_OPENAI_API_KEY")
+client = OpenAI(api_key="key")
 
 # Batch size
 BATCH_SIZE = 5

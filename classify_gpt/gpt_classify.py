@@ -4,7 +4,7 @@ from collections import Counter, defaultdict
 import time
 
 # 初始化 OpenAI 客戶端
-client = OpenAI(api_key="key")
+client = OpenAI(api_key="YOUR_OPENAI_API_KEY")
 
 # 批次大小
 BATCH_SIZE = 5

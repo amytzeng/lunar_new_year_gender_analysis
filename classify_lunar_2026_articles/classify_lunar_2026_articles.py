@@ -3,9 +3,10 @@ import os
 from collections import Counter, defaultdict
 import time
 from pathlib import Path
+from datetime import datetime
 
 # Initialize OpenAI client
-client = OpenAI(api_key="key")
+client = OpenAI(api_key="YOUR_OPENAI_API_KEY")
 
 # Batch size
 BATCH_SIZE = 5
@@ -269,6 +270,7 @@ if __name__ == "__main__":
     output_dir = os.path.dirname(os.path.abspath(__file__))
     classified_file = os.path.join(output_dir, "classified_articles.txt")
     disputed_file = os.path.join(output_dir, "disputed_articles.txt")
+    stats_file = os.path.join(output_dir, "classification_statistics.txt")
     
     with open(classified_file, "w", encoding="utf-8") as f:
         for label in sorted(classified_groups.keys(), key=lambda x: int(x) if x.isdigit() else 999):
@@ -283,10 +285,6 @@ if __name__ == "__main__":
     # Statistics
     total = sum(len(v) for v in classified_groups.values())
     
-    print("\n" + "=" * 60)
-    print("Classification Statistics:")
-    print("=" * 60)
-    
     category_names = {
         "1": "Lunar New Year and Cultural Celebration",
         "2": "Politics and Policy",
@@ -294,6 +292,27 @@ if __name__ == "__main__":
         "4": "Economy and Business",
         "5": "Other/Unrelated"
     }
+    
+    # Output statistics to file
+    with open(stats_file, "w", encoding="utf-8") as f:
+        f.write("Classification Statistics\n")
+        f.write("=" * 60 + "\n")
+        f.write(f"Total articles classified: {total}\n")
+        f.write(f"Requires manual review: {len(disputed_cases)}\n")
+        f.write(f"Processed at: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}\n")
+        f.write("\nCategory Breakdown:\n")
+        f.write("-" * 60 + "\n")
+        
+        for label in sorted(classified_groups.keys(), key=lambda x: int(x) if x.isdigit() else 999):
+            count = len(classified_groups[label])
+            ratio = count / total * 100 if total > 0 else 0
+            category_name = category_names.get(label, "Unknown")
+            f.write(f"Category {label} ({category_name}): {count} articles ({ratio:.2f}%)\n")
+    
+    # Print statistics to console
+    print("\n" + "=" * 60)
+    print("Classification Statistics:")
+    print("=" * 60)
     
     for label in sorted(classified_groups.keys(), key=lambda x: int(x) if x.isdigit() else 999):
         count = len(classified_groups[label])
@@ -303,4 +322,5 @@ if __name__ == "__main__":
     
     print(f"\nRequires manual review: {len(disputed_cases)} articles, saved to disputed_articles.txt")
     print(f"Classification complete, results saved to classified_articles.txt")
+    print(f"Statistics saved to classification_statistics.txt")
     print("=" * 60)

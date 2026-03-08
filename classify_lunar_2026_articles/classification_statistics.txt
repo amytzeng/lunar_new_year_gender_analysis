@@ -1,0 +1,13 @@
+Classification Statistics
+============================================================
+Total articles classified: 104
+Requires manual review: 0
+Processed at: 2026-03-08 16:37:17
+
+Category Breakdown:
+------------------------------------------------------------
+Category 1 (Lunar New Year and Cultural Celebration): 85 articles (81.73%)
+Category 2 (Politics and Policy): 2 articles (1.92%)
+Category 3 (Conflict and Security): 3 articles (2.88%)
+Category 4 (Economy and Business): 2 articles (1.92%)
+Category 5 (Other/Unrelated): 12 articles (11.54%)
